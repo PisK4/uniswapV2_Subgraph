@@ -26,2011 +26,2025 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@graphprotocol/graph-cli", "npm:0.51.2"],\
-          ["@graphprotocol/graph-ts", "npm:0.31.0"],\
-          ["matchstick-as", "npm:0.5.0"]\
+          ["@graphprotocol/graph-cli", "npm:0.51.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-cli%2F-%2Fgraph-cli-0.51.2.tgz"],\
+          ["@graphprotocol/graph-ts", "npm:0.31.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.31.0.tgz"],\
+          ["matchstick-as", "npm:0.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmatchstick-as%2F-%2Fmatchstick-as-0.5.0.tgz"]\
         ],\
         "linkType": "SOFT"\
       }]\
     ]],\
     ["@babel/code-frame", [\
-      ["npm:7.22.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@babel-code-frame-npm-7.22.5-b36f88d6f9-9.zip/node_modules/@babel/code-frame/",\
+      ["npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fcode-frame%2F-%2Fcode-frame-7.22.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@babel-code-frame-npm-7.22.5-bdde091ae4-9.zip/node_modules/@babel/code-frame/",\
         "packageDependencies": [\
-          ["@babel/code-frame", "npm:7.22.5"],\
-          ["@babel/highlight", "npm:7.22.5"]\
+          ["@babel/code-frame", "npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fcode-frame%2F-%2Fcode-frame-7.22.5.tgz"],\
+          ["@babel/highlight", "npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fhighlight%2F-%2Fhighlight-7.22.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/helper-validator-identifier", [\
-      ["npm:7.22.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@babel-helper-validator-identifier-npm-7.22.5-4536624779-9.zip/node_modules/@babel/helper-validator-identifier/",\
+      ["npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fhelper-validator-identifier%2F-%2Fhelper-validator-identifier-7.22.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@babel-helper-validator-identifier-npm-7.22.5-bd7412ea22-9.zip/node_modules/@babel/helper-validator-identifier/",\
         "packageDependencies": [\
-          ["@babel/helper-validator-identifier", "npm:7.22.5"]\
+          ["@babel/helper-validator-identifier", "npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fhelper-validator-identifier%2F-%2Fhelper-validator-identifier-7.22.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/highlight", [\
-      ["npm:7.22.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@babel-highlight-npm-7.22.5-3182ccc1fe-9.zip/node_modules/@babel/highlight/",\
+      ["npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fhighlight%2F-%2Fhighlight-7.22.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@babel-highlight-npm-7.22.5-b31c38688f-9.zip/node_modules/@babel/highlight/",\
         "packageDependencies": [\
-          ["@babel/highlight", "npm:7.22.5"],\
-          ["@babel/helper-validator-identifier", "npm:7.22.5"],\
-          ["chalk", "npm:2.4.2"],\
-          ["js-tokens", "npm:4.0.0"]\
+          ["@babel/highlight", "npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fhighlight%2F-%2Fhighlight-7.22.5.tgz"],\
+          ["@babel/helper-validator-identifier", "npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fhelper-validator-identifier%2F-%2Fhelper-validator-identifier-7.22.5.tgz"],\
+          ["chalk", "npm:2.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-2.4.2.tgz"],\
+          ["js-tokens", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-tokens%2F-%2Fjs-tokens-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@cspotcode/source-map-support", [\
-      ["npm:0.8.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@cspotcode-source-map-support-npm-0.8.1-964f2de99d-9.zip/node_modules/@cspotcode/source-map-support/",\
+      ["npm:0.8.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40cspotcode%2Fsource-map-support%2F-%2Fsource-map-support-0.8.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@cspotcode-source-map-support-npm-0.8.1-179509037b-9.zip/node_modules/@cspotcode/source-map-support/",\
         "packageDependencies": [\
-          ["@cspotcode/source-map-support", "npm:0.8.1"],\
-          ["@jridgewell/trace-mapping", "npm:0.3.9"]\
+          ["@cspotcode/source-map-support", "npm:0.8.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40cspotcode%2Fsource-map-support%2F-%2Fsource-map-support-0.8.1.tgz"],\
+          ["@jridgewell/trace-mapping", "npm:0.3.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Ftrace-mapping%2F-%2Ftrace-mapping-0.3.9.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/abi", [\
-      ["npm:5.0.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-abi-npm-5.0.7-072aa9bb6b-9.zip/node_modules/@ethersproject/abi/",\
+      ["npm:5.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabi%2F-%2Fabi-5.0.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-abi-npm-5.0.7-ea2e260e41-9.zip/node_modules/@ethersproject/abi/",\
         "packageDependencies": [\
-          ["@ethersproject/abi", "npm:5.0.7"],\
-          ["@ethersproject/address", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/constants", "npm:5.7.0"],\
-          ["@ethersproject/hash", "npm:5.7.0"],\
-          ["@ethersproject/keccak256", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["@ethersproject/strings", "npm:5.7.0"]\
+          ["@ethersproject/abi", "npm:5.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabi%2F-%2Fabi-5.0.7.tgz"],\
+          ["@ethersproject/address", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Faddress%2F-%2Faddress-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/constants", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fconstants%2F-%2Fconstants-5.7.0.tgz"],\
+          ["@ethersproject/hash", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fhash%2F-%2Fhash-5.7.0.tgz"],\
+          ["@ethersproject/keccak256", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fkeccak256%2F-%2Fkeccak256-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["@ethersproject/strings", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fstrings%2F-%2Fstrings-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/abstract-provider", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-abstract-provider-npm-5.7.0-f94be4e0b0-9.zip/node_modules/@ethersproject/abstract-provider/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabstract-provider%2F-%2Fabstract-provider-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-abstract-provider-npm-5.7.0-eade99c226-9.zip/node_modules/@ethersproject/abstract-provider/",\
         "packageDependencies": [\
-          ["@ethersproject/abstract-provider", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/networks", "npm:5.7.1"],\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["@ethersproject/transactions", "npm:5.7.0"],\
-          ["@ethersproject/web", "npm:5.7.1"]\
+          ["@ethersproject/abstract-provider", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabstract-provider%2F-%2Fabstract-provider-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/networks", "npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fnetworks%2F-%2Fnetworks-5.7.1.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["@ethersproject/transactions", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Ftransactions%2F-%2Ftransactions-5.7.0.tgz"],\
+          ["@ethersproject/web", "npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fweb%2F-%2Fweb-5.7.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/abstract-signer", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-abstract-signer-npm-5.7.0-f61d0a970e-9.zip/node_modules/@ethersproject/abstract-signer/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabstract-signer%2F-%2Fabstract-signer-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-abstract-signer-npm-5.7.0-90978afb12-9.zip/node_modules/@ethersproject/abstract-signer/",\
         "packageDependencies": [\
-          ["@ethersproject/abstract-signer", "npm:5.7.0"],\
-          ["@ethersproject/abstract-provider", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/properties", "npm:5.7.0"]\
+          ["@ethersproject/abstract-signer", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabstract-signer%2F-%2Fabstract-signer-5.7.0.tgz"],\
+          ["@ethersproject/abstract-provider", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabstract-provider%2F-%2Fabstract-provider-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/address", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-address-npm-5.7.0-d27f4f2b80-9.zip/node_modules/@ethersproject/address/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Faddress%2F-%2Faddress-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-address-npm-5.7.0-619c560194-9.zip/node_modules/@ethersproject/address/",\
         "packageDependencies": [\
-          ["@ethersproject/address", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/keccak256", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/rlp", "npm:5.7.0"]\
+          ["@ethersproject/address", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Faddress%2F-%2Faddress-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/keccak256", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fkeccak256%2F-%2Fkeccak256-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/rlp", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Frlp%2F-%2Frlp-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/base64", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-base64-npm-5.7.0-ddf99521e0-9.zip/node_modules/@ethersproject/base64/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbase64%2F-%2Fbase64-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-base64-npm-5.7.0-4a80078ccc-9.zip/node_modules/@ethersproject/base64/",\
         "packageDependencies": [\
-          ["@ethersproject/base64", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"]\
+          ["@ethersproject/base64", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbase64%2F-%2Fbase64-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/bignumber", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-bignumber-npm-5.7.0-cd761880ac-9.zip/node_modules/@ethersproject/bignumber/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-bignumber-npm-5.7.0-bb8f3c7f53-9.zip/node_modules/@ethersproject/bignumber/",\
         "packageDependencies": [\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["bn.js", "npm:5.2.1"]\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["bn.js", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/bytes", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-bytes-npm-5.7.0-4454fe4cb0-9.zip/node_modules/@ethersproject/bytes/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-bytes-npm-5.7.0-45fb20ce81-9.zip/node_modules/@ethersproject/bytes/",\
         "packageDependencies": [\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"]\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/constants", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-constants-npm-5.7.0-24294ccfde-9.zip/node_modules/@ethersproject/constants/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fconstants%2F-%2Fconstants-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-constants-npm-5.7.0-02e10d4120-9.zip/node_modules/@ethersproject/constants/",\
         "packageDependencies": [\
-          ["@ethersproject/constants", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"]\
+          ["@ethersproject/constants", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fconstants%2F-%2Fconstants-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/hash", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-hash-npm-5.7.0-7c00366b4e-9.zip/node_modules/@ethersproject/hash/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fhash%2F-%2Fhash-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-hash-npm-5.7.0-2360eb61a2-9.zip/node_modules/@ethersproject/hash/",\
         "packageDependencies": [\
-          ["@ethersproject/hash", "npm:5.7.0"],\
-          ["@ethersproject/abstract-signer", "npm:5.7.0"],\
-          ["@ethersproject/address", "npm:5.7.0"],\
-          ["@ethersproject/base64", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/keccak256", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["@ethersproject/strings", "npm:5.7.0"]\
+          ["@ethersproject/hash", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fhash%2F-%2Fhash-5.7.0.tgz"],\
+          ["@ethersproject/abstract-signer", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabstract-signer%2F-%2Fabstract-signer-5.7.0.tgz"],\
+          ["@ethersproject/address", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Faddress%2F-%2Faddress-5.7.0.tgz"],\
+          ["@ethersproject/base64", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbase64%2F-%2Fbase64-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/keccak256", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fkeccak256%2F-%2Fkeccak256-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["@ethersproject/strings", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fstrings%2F-%2Fstrings-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/keccak256", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-keccak256-npm-5.7.0-be838547c4-9.zip/node_modules/@ethersproject/keccak256/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fkeccak256%2F-%2Fkeccak256-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-keccak256-npm-5.7.0-0b8cb3704b-9.zip/node_modules/@ethersproject/keccak256/",\
         "packageDependencies": [\
-          ["@ethersproject/keccak256", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["js-sha3", "npm:0.8.0"]\
+          ["@ethersproject/keccak256", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fkeccak256%2F-%2Fkeccak256-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["js-sha3", "npm:0.8.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-sha3%2F-%2Fjs-sha3-0.8.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/logger", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-logger-npm-5.7.0-63fe9c3d29-9.zip/node_modules/@ethersproject/logger/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-logger-npm-5.7.0-7af1d622e2-9.zip/node_modules/@ethersproject/logger/",\
         "packageDependencies": [\
-          ["@ethersproject/logger", "npm:5.7.0"]\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/networks", [\
-      ["npm:5.7.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-networks-npm-5.7.1-eb06956095-9.zip/node_modules/@ethersproject/networks/",\
+      ["npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fnetworks%2F-%2Fnetworks-5.7.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-networks-npm-5.7.1-2a4e0a4ee3-9.zip/node_modules/@ethersproject/networks/",\
         "packageDependencies": [\
-          ["@ethersproject/networks", "npm:5.7.1"],\
-          ["@ethersproject/logger", "npm:5.7.0"]\
+          ["@ethersproject/networks", "npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fnetworks%2F-%2Fnetworks-5.7.1.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/properties", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-properties-npm-5.7.0-00a99c747b-9.zip/node_modules/@ethersproject/properties/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-properties-npm-5.7.0-f2f1a7577f-9.zip/node_modules/@ethersproject/properties/",\
         "packageDependencies": [\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"]\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/rlp", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-rlp-npm-5.7.0-a6c9e763ff-9.zip/node_modules/@ethersproject/rlp/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Frlp%2F-%2Frlp-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-rlp-npm-5.7.0-8e62f1c760-9.zip/node_modules/@ethersproject/rlp/",\
         "packageDependencies": [\
-          ["@ethersproject/rlp", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"]\
+          ["@ethersproject/rlp", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Frlp%2F-%2Frlp-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/signing-key", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-signing-key-npm-5.7.0-51cfa7708e-9.zip/node_modules/@ethersproject/signing-key/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fsigning-key%2F-%2Fsigning-key-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-signing-key-npm-5.7.0-da9d05745a-9.zip/node_modules/@ethersproject/signing-key/",\
         "packageDependencies": [\
-          ["@ethersproject/signing-key", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["bn.js", "npm:5.2.1"],\
-          ["elliptic", "npm:6.5.4"],\
-          ["hash.js", "npm:1.1.7"]\
+          ["@ethersproject/signing-key", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fsigning-key%2F-%2Fsigning-key-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["bn.js", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-5.2.1.tgz"],\
+          ["elliptic", "npm:6.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felliptic%2F-%2Felliptic-6.5.4.tgz"],\
+          ["hash.js", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash.js%2F-%2Fhash.js-1.1.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/strings", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-strings-npm-5.7.0-efcb671e56-9.zip/node_modules/@ethersproject/strings/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fstrings%2F-%2Fstrings-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-strings-npm-5.7.0-267f7323f7-9.zip/node_modules/@ethersproject/strings/",\
         "packageDependencies": [\
-          ["@ethersproject/strings", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/constants", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"]\
+          ["@ethersproject/strings", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fstrings%2F-%2Fstrings-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/constants", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fconstants%2F-%2Fconstants-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/transactions", [\
-      ["npm:5.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-transactions-npm-5.7.0-9a32c9e61a-9.zip/node_modules/@ethersproject/transactions/",\
+      ["npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Ftransactions%2F-%2Ftransactions-5.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-transactions-npm-5.7.0-5c9a837e1e-9.zip/node_modules/@ethersproject/transactions/",\
         "packageDependencies": [\
-          ["@ethersproject/transactions", "npm:5.7.0"],\
-          ["@ethersproject/address", "npm:5.7.0"],\
-          ["@ethersproject/bignumber", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/constants", "npm:5.7.0"],\
-          ["@ethersproject/keccak256", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["@ethersproject/rlp", "npm:5.7.0"],\
-          ["@ethersproject/signing-key", "npm:5.7.0"]\
+          ["@ethersproject/transactions", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Ftransactions%2F-%2Ftransactions-5.7.0.tgz"],\
+          ["@ethersproject/address", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Faddress%2F-%2Faddress-5.7.0.tgz"],\
+          ["@ethersproject/bignumber", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbignumber%2F-%2Fbignumber-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/constants", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fconstants%2F-%2Fconstants-5.7.0.tgz"],\
+          ["@ethersproject/keccak256", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fkeccak256%2F-%2Fkeccak256-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["@ethersproject/rlp", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Frlp%2F-%2Frlp-5.7.0.tgz"],\
+          ["@ethersproject/signing-key", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fsigning-key%2F-%2Fsigning-key-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ethersproject/web", [\
-      ["npm:5.7.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-web-npm-5.7.1-dabb653410-9.zip/node_modules/@ethersproject/web/",\
+      ["npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fweb%2F-%2Fweb-5.7.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ethersproject-web-npm-5.7.1-0516ae6912-9.zip/node_modules/@ethersproject/web/",\
         "packageDependencies": [\
-          ["@ethersproject/web", "npm:5.7.1"],\
-          ["@ethersproject/base64", "npm:5.7.0"],\
-          ["@ethersproject/bytes", "npm:5.7.0"],\
-          ["@ethersproject/logger", "npm:5.7.0"],\
-          ["@ethersproject/properties", "npm:5.7.0"],\
-          ["@ethersproject/strings", "npm:5.7.0"]\
+          ["@ethersproject/web", "npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fweb%2F-%2Fweb-5.7.1.tgz"],\
+          ["@ethersproject/base64", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbase64%2F-%2Fbase64-5.7.0.tgz"],\
+          ["@ethersproject/bytes", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fbytes%2F-%2Fbytes-5.7.0.tgz"],\
+          ["@ethersproject/logger", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Flogger%2F-%2Flogger-5.7.0.tgz"],\
+          ["@ethersproject/properties", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fproperties%2F-%2Fproperties-5.7.0.tgz"],\
+          ["@ethersproject/strings", "npm:5.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fstrings%2F-%2Fstrings-5.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@float-capital/float-subgraph-uncrashable", [\
-      ["npm:0.0.0-internal-testing.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@float-capital-float-subgraph-uncrashable-npm-0.0.0-internal-testing.5-eb69d14a1a-9.zip/node_modules/@float-capital/float-subgraph-uncrashable/",\
+      ["npm:0.0.0-internal-testing.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40float-capital%2Ffloat-subgraph-uncrashable%2F-%2Ffloat-subgraph-uncrashable-0.0.0-internal-testing.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@float-capital-float-subgraph-uncrashable-npm-0.0.0-internal-testing.5-77a1004fa7-9.zip/node_modules/@float-capital/float-subgraph-uncrashable/",\
         "packageDependencies": [\
-          ["@float-capital/float-subgraph-uncrashable", "npm:0.0.0-internal-testing.5"],\
-          ["@rescript/std", "npm:9.0.0"],\
-          ["graphql", "npm:16.7.1"],\
-          ["graphql-import-node", "virtual:eb69d14a1a4d45e3540bbe8fffc370854025924c348c3a845d2e5055bee68f768d75946ff587525345f3aed6360b88fb75d578c754c547b161930a2122c30b1d#npm:0.0.5"],\
-          ["js-yaml", "npm:4.1.0"]\
+          ["@float-capital/float-subgraph-uncrashable", "npm:0.0.0-internal-testing.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40float-capital%2Ffloat-subgraph-uncrashable%2F-%2Ffloat-subgraph-uncrashable-0.0.0-internal-testing.5.tgz"],\
+          ["@rescript/std", "npm:9.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40rescript%2Fstd%2F-%2Fstd-9.0.0.tgz"],\
+          ["graphql", "npm:16.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-16.7.1.tgz"],\
+          ["graphql-import-node", "virtual:77a1004fa7bf5be7160859b83b400910f756312aeae71ce511f85854253ee6905247123e8867c4b837cbb7b9f68f2c08d33bcb0bd5c62c77692d3980ab9faba2#npm:0.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql-import-node%2F-%2Fgraphql-import-node-0.0.5.tgz"],\
+          ["js-yaml", "npm:4.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-4.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@graphprotocol/graph-cli", [\
-      ["npm:0.51.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-cli-npm-0.51.2-356a6621e8-9.zip/node_modules/@graphprotocol/graph-cli/",\
+      ["npm:0.51.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-cli%2F-%2Fgraph-cli-0.51.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-cli-npm-0.51.2-cd65689f2b-9.zip/node_modules/@graphprotocol/graph-cli/",\
         "packageDependencies": [\
-          ["@graphprotocol/graph-cli", "npm:0.51.2"],\
-          ["@float-capital/float-subgraph-uncrashable", "npm:0.0.0-internal-testing.5"],\
-          ["@oclif/core", "npm:2.8.6"],\
-          ["@whatwg-node/fetch", "npm:0.8.8"],\
-          ["assemblyscript", "npm:0.19.23"],\
-          ["binary-install-raw", "npm:0.0.13"],\
-          ["chalk", "npm:3.0.0"],\
-          ["chokidar", "npm:3.5.3"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["docker-compose", "npm:0.23.19"],\
-          ["dockerode", "npm:2.5.8"],\
-          ["fs-extra", "npm:9.1.0"],\
-          ["glob", "npm:9.3.5"],\
-          ["gluegun", "npm:5.1.2"],\
-          ["graphql", "npm:15.5.0"],\
-          ["immutable", "npm:4.2.1"],\
-          ["ipfs-http-client", "npm:55.0.0"],\
-          ["jayson", "npm:4.0.0"],\
-          ["js-yaml", "npm:3.14.1"],\
-          ["prettier", "npm:1.19.1"],\
-          ["request", "npm:2.88.2"],\
-          ["semver", "npm:7.4.0"],\
-          ["sync-request", "npm:6.1.0"],\
-          ["tmp-promise", "npm:3.0.3"],\
-          ["web3-eth-abi", "npm:1.7.0"],\
-          ["which", "npm:2.0.2"],\
-          ["yaml", "npm:1.10.2"]\
+          ["@graphprotocol/graph-cli", "npm:0.51.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-cli%2F-%2Fgraph-cli-0.51.2.tgz"],\
+          ["@float-capital/float-subgraph-uncrashable", "npm:0.0.0-internal-testing.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40float-capital%2Ffloat-subgraph-uncrashable%2F-%2Ffloat-subgraph-uncrashable-0.0.0-internal-testing.5.tgz"],\
+          ["@oclif/core", "npm:2.8.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40oclif%2Fcore%2F-%2Fcore-2.8.6.tgz"],\
+          ["@whatwg-node/fetch", "npm:0.8.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Ffetch%2F-%2Ffetch-0.8.8.tgz"],\
+          ["assemblyscript", "npm:0.19.23::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.23.tgz"],\
+          ["binary-install-raw", "npm:0.0.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinary-install-raw%2F-%2Fbinary-install-raw-0.0.13.tgz"],\
+          ["chalk", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-3.0.0.tgz"],\
+          ["chokidar", "npm:3.5.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchokidar%2F-%2Fchokidar-3.5.3.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["docker-compose", "npm:0.23.19::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdocker-compose%2F-%2Fdocker-compose-0.23.19.tgz"],\
+          ["dockerode", "npm:2.5.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdockerode%2F-%2Fdockerode-2.5.8.tgz"],\
+          ["fs-extra", "npm:9.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-extra%2F-%2Ffs-extra-9.1.0.tgz"],\
+          ["glob", "npm:9.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-9.3.5.tgz"],\
+          ["gluegun", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgluegun%2F-%2Fgluegun-5.1.2.tgz"],\
+          ["graphql", "npm:15.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-15.5.0.tgz"],\
+          ["immutable", "npm:4.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimmutable%2F-%2Fimmutable-4.2.1.tgz"],\
+          ["ipfs-http-client", "npm:55.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-http-client%2F-%2Fipfs-http-client-55.0.0.tgz"],\
+          ["jayson", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjayson%2F-%2Fjayson-4.0.0.tgz"],\
+          ["js-yaml", "npm:3.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-3.14.1.tgz"],\
+          ["prettier", "npm:1.19.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprettier%2F-%2Fprettier-1.19.1.tgz"],\
+          ["request", "npm:2.88.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frequest%2F-%2Frequest-2.88.2.tgz"],\
+          ["semver", "npm:7.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.4.0.tgz"],\
+          ["sync-request", "npm:6.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsync-request%2F-%2Fsync-request-6.1.0.tgz"],\
+          ["tmp-promise", "npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftmp-promise%2F-%2Ftmp-promise-3.0.3.tgz"],\
+          ["web3-eth-abi", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb3-eth-abi%2F-%2Fweb3-eth-abi-1.7.0.tgz"],\
+          ["which", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-2.0.2.tgz"],\
+          ["yaml", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyaml%2F-%2Fyaml-1.10.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@graphprotocol/graph-ts", [\
-      ["npm:0.27.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-ts-npm-0.27.0-a281a6ebe0-9.zip/node_modules/@graphprotocol/graph-ts/",\
+      ["npm:0.27.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.27.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-ts-npm-0.27.0-5a534cb46d-9.zip/node_modules/@graphprotocol/graph-ts/",\
         "packageDependencies": [\
-          ["@graphprotocol/graph-ts", "npm:0.27.0"],\
-          ["assemblyscript", "npm:0.19.10"]\
+          ["@graphprotocol/graph-ts", "npm:0.27.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.27.0.tgz"],\
+          ["assemblyscript", "npm:0.19.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.10.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:0.31.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-ts-npm-0.31.0-053764ccd8-9.zip/node_modules/@graphprotocol/graph-ts/",\
+      ["npm:0.31.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.31.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-ts-npm-0.31.0-990428851b-9.zip/node_modules/@graphprotocol/graph-ts/",\
         "packageDependencies": [\
-          ["@graphprotocol/graph-ts", "npm:0.31.0"],\
-          ["assemblyscript", "npm:0.19.10"]\
+          ["@graphprotocol/graph-ts", "npm:0.31.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.31.0.tgz"],\
+          ["assemblyscript", "npm:0.19.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.10.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ipld/dag-cbor", [\
-      ["npm:7.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ipld-dag-cbor-npm-7.0.3-6f1c52ead1-9.zip/node_modules/@ipld/dag-cbor/",\
+      ["npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-cbor%2F-%2Fdag-cbor-7.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ipld-dag-cbor-npm-7.0.3-29963ec62d-9.zip/node_modules/@ipld/dag-cbor/",\
         "packageDependencies": [\
-          ["@ipld/dag-cbor", "npm:7.0.3"],\
-          ["cborg", "npm:1.10.2"],\
-          ["multiformats", "npm:9.9.0"]\
+          ["@ipld/dag-cbor", "npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-cbor%2F-%2Fdag-cbor-7.0.3.tgz"],\
+          ["cborg", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcborg%2F-%2Fcborg-1.10.2.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ipld/dag-json", [\
-      ["npm:8.0.11", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ipld-dag-json-npm-8.0.11-753657a82f-9.zip/node_modules/@ipld/dag-json/",\
+      ["npm:8.0.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-json%2F-%2Fdag-json-8.0.11.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ipld-dag-json-npm-8.0.11-aa884b33a2-9.zip/node_modules/@ipld/dag-json/",\
         "packageDependencies": [\
-          ["@ipld/dag-json", "npm:8.0.11"],\
-          ["cborg", "npm:1.10.2"],\
-          ["multiformats", "npm:9.9.0"]\
+          ["@ipld/dag-json", "npm:8.0.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-json%2F-%2Fdag-json-8.0.11.tgz"],\
+          ["cborg", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcborg%2F-%2Fcborg-1.10.2.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@ipld/dag-pb", [\
-      ["npm:2.1.18", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ipld-dag-pb-npm-2.1.18-e97e9c99f1-9.zip/node_modules/@ipld/dag-pb/",\
+      ["npm:2.1.18::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-pb%2F-%2Fdag-pb-2.1.18.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@ipld-dag-pb-npm-2.1.18-be88f91760-9.zip/node_modules/@ipld/dag-pb/",\
         "packageDependencies": [\
-          ["@ipld/dag-pb", "npm:2.1.18"],\
-          ["multiformats", "npm:9.9.0"]\
+          ["@ipld/dag-pb", "npm:2.1.18::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-pb%2F-%2Fdag-pb-2.1.18.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@isaacs/cliui", [\
-      ["npm:8.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@isaacs-cliui-npm-8.0.2-f4364666d5-9.zip/node_modules/@isaacs/cliui/",\
+      ["npm:8.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40isaacs%2Fcliui%2F-%2Fcliui-8.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@isaacs-cliui-npm-8.0.2-44175b0833-9.zip/node_modules/@isaacs/cliui/",\
         "packageDependencies": [\
-          ["@isaacs/cliui", "npm:8.0.2"],\
-          ["string-width", "npm:5.1.2"],\
+          ["@isaacs/cliui", "npm:8.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40isaacs%2Fcliui%2F-%2Fcliui-8.0.2.tgz"],\
+          ["string-width", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-5.1.2.tgz"],\
           ["string-width-cjs", [\
             "string-width",\
-            "npm:4.2.3"\
+            "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"\
           ]],\
-          ["strip-ansi", "npm:7.1.0"],\
+          ["strip-ansi", "npm:7.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-7.1.0.tgz"],\
           ["strip-ansi-cjs", [\
             "strip-ansi",\
-            "npm:6.0.1"\
+            "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz"\
           ]],\
-          ["wrap-ansi", "npm:8.1.0"],\
+          ["wrap-ansi", "npm:8.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-8.1.0.tgz"],\
           ["wrap-ansi-cjs", [\
             "wrap-ansi",\
-            "npm:7.0.0"\
+            "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-7.0.0.tgz"\
           ]]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@jridgewell/resolve-uri", [\
-      ["npm:3.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@jridgewell-resolve-uri-npm-3.1.1-aa2de3f210-9.zip/node_modules/@jridgewell/resolve-uri/",\
+      ["npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Fresolve-uri%2F-%2Fresolve-uri-3.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@jridgewell-resolve-uri-npm-3.1.1-678a882805-9.zip/node_modules/@jridgewell/resolve-uri/",\
         "packageDependencies": [\
-          ["@jridgewell/resolve-uri", "npm:3.1.1"]\
+          ["@jridgewell/resolve-uri", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Fresolve-uri%2F-%2Fresolve-uri-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@jridgewell/sourcemap-codec", [\
-      ["npm:1.4.15", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@jridgewell-sourcemap-codec-npm-1.4.15-a055fb62cf-9.zip/node_modules/@jridgewell/sourcemap-codec/",\
+      ["npm:1.4.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Fsourcemap-codec%2F-%2Fsourcemap-codec-1.4.15.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@jridgewell-sourcemap-codec-npm-1.4.15-1ea90b932b-9.zip/node_modules/@jridgewell/sourcemap-codec/",\
         "packageDependencies": [\
-          ["@jridgewell/sourcemap-codec", "npm:1.4.15"]\
+          ["@jridgewell/sourcemap-codec", "npm:1.4.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Fsourcemap-codec%2F-%2Fsourcemap-codec-1.4.15.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@jridgewell/trace-mapping", [\
-      ["npm:0.3.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@jridgewell-trace-mapping-npm-0.3.9-91625cd7fb-9.zip/node_modules/@jridgewell/trace-mapping/",\
+      ["npm:0.3.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Ftrace-mapping%2F-%2Ftrace-mapping-0.3.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@jridgewell-trace-mapping-npm-0.3.9-eb5e670b8d-9.zip/node_modules/@jridgewell/trace-mapping/",\
         "packageDependencies": [\
-          ["@jridgewell/trace-mapping", "npm:0.3.9"],\
-          ["@jridgewell/resolve-uri", "npm:3.1.1"],\
-          ["@jridgewell/sourcemap-codec", "npm:1.4.15"]\
+          ["@jridgewell/trace-mapping", "npm:0.3.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Ftrace-mapping%2F-%2Ftrace-mapping-0.3.9.tgz"],\
+          ["@jridgewell/resolve-uri", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Fresolve-uri%2F-%2Fresolve-uri-3.1.1.tgz"],\
+          ["@jridgewell/sourcemap-codec", "npm:1.4.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40jridgewell%2Fsourcemap-codec%2F-%2Fsourcemap-codec-1.4.15.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@nodelib/fs.scandir", [\
-      ["npm:2.1.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@nodelib-fs.scandir-npm-2.1.5-89c67370dd-9.zip/node_modules/@nodelib/fs.scandir/",\
+      ["npm:2.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.scandir%2F-%2Ffs.scandir-2.1.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@nodelib-fs.scandir-npm-2.1.5-5ddaef5d54-9.zip/node_modules/@nodelib/fs.scandir/",\
         "packageDependencies": [\
-          ["@nodelib/fs.scandir", "npm:2.1.5"],\
-          ["@nodelib/fs.stat", "npm:2.0.5"],\
-          ["run-parallel", "npm:1.2.0"]\
+          ["@nodelib/fs.scandir", "npm:2.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.scandir%2F-%2Ffs.scandir-2.1.5.tgz"],\
+          ["@nodelib/fs.stat", "npm:2.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.stat%2F-%2Ffs.stat-2.0.5.tgz"],\
+          ["run-parallel", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frun-parallel%2F-%2Frun-parallel-1.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@nodelib/fs.stat", [\
-      ["npm:2.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@nodelib-fs.stat-npm-2.0.5-01f4dd3030-9.zip/node_modules/@nodelib/fs.stat/",\
+      ["npm:2.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.stat%2F-%2Ffs.stat-2.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@nodelib-fs.stat-npm-2.0.5-fea6a89ab4-9.zip/node_modules/@nodelib/fs.stat/",\
         "packageDependencies": [\
-          ["@nodelib/fs.stat", "npm:2.0.5"]\
+          ["@nodelib/fs.stat", "npm:2.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.stat%2F-%2Ffs.stat-2.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@nodelib/fs.walk", [\
-      ["npm:1.2.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@nodelib-fs.walk-npm-1.2.8-b4a89da548-9.zip/node_modules/@nodelib/fs.walk/",\
+      ["npm:1.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.walk%2F-%2Ffs.walk-1.2.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@nodelib-fs.walk-npm-1.2.8-c43da59a9e-9.zip/node_modules/@nodelib/fs.walk/",\
         "packageDependencies": [\
-          ["@nodelib/fs.walk", "npm:1.2.8"],\
-          ["@nodelib/fs.scandir", "npm:2.1.5"],\
-          ["fastq", "npm:1.15.0"]\
+          ["@nodelib/fs.walk", "npm:1.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.walk%2F-%2Ffs.walk-1.2.8.tgz"],\
+          ["@nodelib/fs.scandir", "npm:2.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.scandir%2F-%2Ffs.scandir-2.1.5.tgz"],\
+          ["fastq", "npm:1.15.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffastq%2F-%2Ffastq-1.15.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@npmcli/fs", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@npmcli-fs-npm-3.1.0-0844a57978-9.zip/node_modules/@npmcli/fs/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40npmcli%2Ffs%2F-%2Ffs-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@npmcli-fs-npm-3.1.0-677af0a1c4-9.zip/node_modules/@npmcli/fs/",\
         "packageDependencies": [\
-          ["@npmcli/fs", "npm:3.1.0"],\
-          ["semver", "npm:7.5.3"]\
+          ["@npmcli/fs", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40npmcli%2Ffs%2F-%2Ffs-3.1.0.tgz"],\
+          ["semver", "npm:7.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.5.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@oclif/core", [\
-      ["npm:2.8.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@oclif-core-npm-2.8.6-7ad760c0c3-9.zip/node_modules/@oclif/core/",\
+      ["npm:2.8.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40oclif%2Fcore%2F-%2Fcore-2.8.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@oclif-core-npm-2.8.6-095f72ae8b-9.zip/node_modules/@oclif/core/",\
         "packageDependencies": [\
-          ["@oclif/core", "npm:2.8.6"],\
-          ["@types/cli-progress", "npm:3.11.0"],\
-          ["ansi-escapes", "npm:4.3.2"],\
-          ["ansi-styles", "npm:4.3.0"],\
-          ["cardinal", "npm:2.1.1"],\
-          ["chalk", "npm:4.1.2"],\
-          ["clean-stack", "npm:3.0.1"],\
-          ["cli-progress", "npm:3.12.0"],\
-          ["debug", "virtual:7ad760c0c32abc43e0555f6de5ed4b9b338afc038e373a0cfc0d4015589646ef1368b70a8c4b3a71b6fcd7050ca2d44637614089607a55dc0650a1d8469d52eb#npm:4.3.4"],\
-          ["ejs", "npm:3.1.9"],\
-          ["fs-extra", "npm:9.1.0"],\
-          ["get-package-type", "npm:0.1.0"],\
-          ["globby", "npm:11.1.0"],\
-          ["hyperlinker", "npm:1.0.0"],\
-          ["indent-string", "npm:4.0.0"],\
-          ["is-wsl", "npm:2.2.0"],\
-          ["js-yaml", "npm:3.14.1"],\
-          ["natural-orderby", "npm:2.0.3"],\
-          ["object-treeify", "npm:1.1.33"],\
-          ["password-prompt", "npm:1.1.2"],\
-          ["semver", "npm:7.5.3"],\
-          ["string-width", "npm:4.2.3"],\
-          ["strip-ansi", "npm:6.0.1"],\
-          ["supports-color", "npm:8.1.1"],\
-          ["supports-hyperlinks", "npm:2.3.0"],\
-          ["ts-node", "virtual:7ad760c0c32abc43e0555f6de5ed4b9b338afc038e373a0cfc0d4015589646ef1368b70a8c4b3a71b6fcd7050ca2d44637614089607a55dc0650a1d8469d52eb#npm:10.9.1"],\
-          ["tslib", "npm:2.6.0"],\
-          ["widest-line", "npm:3.1.0"],\
-          ["wordwrap", "npm:1.0.0"],\
-          ["wrap-ansi", "npm:7.0.0"]\
+          ["@oclif/core", "npm:2.8.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40oclif%2Fcore%2F-%2Fcore-2.8.6.tgz"],\
+          ["@types/cli-progress", "npm:3.11.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fcli-progress%2F-%2Fcli-progress-3.11.0.tgz"],\
+          ["ansi-escapes", "npm:4.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-escapes%2F-%2Fansi-escapes-4.3.2.tgz"],\
+          ["ansi-styles", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz"],\
+          ["cardinal", "npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcardinal%2F-%2Fcardinal-2.1.1.tgz"],\
+          ["chalk", "npm:4.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-4.1.2.tgz"],\
+          ["clean-stack", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclean-stack%2F-%2Fclean-stack-3.0.1.tgz"],\
+          ["cli-progress", "npm:3.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-progress%2F-%2Fcli-progress-3.12.0.tgz"],\
+          ["debug", "virtual:095f72ae8b18f0f712926363587e5f604c80553b773ebdd8a0a6b7a19b15ada05dc431ad8e3a2dd9838dff891002c5cc668d9bcff3eebed62c1cbeb8920c2c3f#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["ejs", "npm:3.1.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fejs%2F-%2Fejs-3.1.9.tgz"],\
+          ["fs-extra", "npm:9.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-extra%2F-%2Ffs-extra-9.1.0.tgz"],\
+          ["get-package-type", "npm:0.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-package-type%2F-%2Fget-package-type-0.1.0.tgz"],\
+          ["globby", "npm:11.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglobby%2F-%2Fglobby-11.1.0.tgz"],\
+          ["hyperlinker", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhyperlinker%2F-%2Fhyperlinker-1.0.0.tgz"],\
+          ["indent-string", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Findent-string%2F-%2Findent-string-4.0.0.tgz"],\
+          ["is-wsl", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-wsl%2F-%2Fis-wsl-2.2.0.tgz"],\
+          ["js-yaml", "npm:3.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-3.14.1.tgz"],\
+          ["natural-orderby", "npm:2.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnatural-orderby%2F-%2Fnatural-orderby-2.0.3.tgz"],\
+          ["object-treeify", "npm:1.1.33::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-treeify%2F-%2Fobject-treeify-1.1.33.tgz"],\
+          ["password-prompt", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpassword-prompt%2F-%2Fpassword-prompt-1.1.2.tgz"],\
+          ["semver", "npm:7.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.5.4.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"],\
+          ["strip-ansi", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz"],\
+          ["supports-color", "npm:8.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-8.1.1.tgz"],\
+          ["supports-hyperlinks", "npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-hyperlinks%2F-%2Fsupports-hyperlinks-2.3.0.tgz"],\
+          ["ts-node", "virtual:095f72ae8b18f0f712926363587e5f604c80553b773ebdd8a0a6b7a19b15ada05dc431ad8e3a2dd9838dff891002c5cc668d9bcff3eebed62c1cbeb8920c2c3f#npm:10.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fts-node%2F-%2Fts-node-10.9.1.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"],\
+          ["widest-line", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwidest-line%2F-%2Fwidest-line-3.1.0.tgz"],\
+          ["wordwrap", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwordwrap%2F-%2Fwordwrap-1.0.0.tgz"],\
+          ["wrap-ansi", "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-7.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@peculiar/asn1-schema", [\
-      ["npm:2.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@peculiar-asn1-schema-npm-2.3.6-1020f463b2-9.zip/node_modules/@peculiar/asn1-schema/",\
+      ["npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fasn1-schema%2F-%2Fasn1-schema-2.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@peculiar-asn1-schema-npm-2.3.6-9ad9a7278f-9.zip/node_modules/@peculiar/asn1-schema/",\
         "packageDependencies": [\
-          ["@peculiar/asn1-schema", "npm:2.3.6"],\
-          ["asn1js", "npm:3.0.5"],\
-          ["pvtsutils", "npm:1.3.2"],\
-          ["tslib", "npm:2.6.0"]\
+          ["@peculiar/asn1-schema", "npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fasn1-schema%2F-%2Fasn1-schema-2.3.6.tgz"],\
+          ["asn1js", "npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1js%2F-%2Fasn1js-3.0.5.tgz"],\
+          ["pvtsutils", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvtsutils%2F-%2Fpvtsutils-1.3.2.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@peculiar/json-schema", [\
-      ["npm:1.1.12", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@peculiar-json-schema-npm-1.1.12-f914d2ea65-9.zip/node_modules/@peculiar/json-schema/",\
+      ["npm:1.1.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fjson-schema%2F-%2Fjson-schema-1.1.12.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@peculiar-json-schema-npm-1.1.12-d74c2b7fd3-9.zip/node_modules/@peculiar/json-schema/",\
         "packageDependencies": [\
-          ["@peculiar/json-schema", "npm:1.1.12"],\
-          ["tslib", "npm:2.6.0"]\
+          ["@peculiar/json-schema", "npm:1.1.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fjson-schema%2F-%2Fjson-schema-1.1.12.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@peculiar/webcrypto", [\
-      ["npm:1.4.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@peculiar-webcrypto-npm-1.4.3-3fee54da0a-9.zip/node_modules/@peculiar/webcrypto/",\
+      ["npm:1.4.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fwebcrypto%2F-%2Fwebcrypto-1.4.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@peculiar-webcrypto-npm-1.4.3-0e12afbff8-9.zip/node_modules/@peculiar/webcrypto/",\
         "packageDependencies": [\
-          ["@peculiar/webcrypto", "npm:1.4.3"],\
-          ["@peculiar/asn1-schema", "npm:2.3.6"],\
-          ["@peculiar/json-schema", "npm:1.1.12"],\
-          ["pvtsutils", "npm:1.3.2"],\
-          ["tslib", "npm:2.6.0"],\
-          ["webcrypto-core", "npm:1.7.7"]\
+          ["@peculiar/webcrypto", "npm:1.4.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fwebcrypto%2F-%2Fwebcrypto-1.4.3.tgz"],\
+          ["@peculiar/asn1-schema", "npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fasn1-schema%2F-%2Fasn1-schema-2.3.6.tgz"],\
+          ["@peculiar/json-schema", "npm:1.1.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fjson-schema%2F-%2Fjson-schema-1.1.12.tgz"],\
+          ["pvtsutils", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvtsutils%2F-%2Fpvtsutils-1.3.2.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"],\
+          ["webcrypto-core", "npm:1.7.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwebcrypto-core%2F-%2Fwebcrypto-core-1.7.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@pkgjs/parseargs", [\
-      ["npm:0.11.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@pkgjs-parseargs-npm-0.11.0-cd2a3fe948-9.zip/node_modules/@pkgjs/parseargs/",\
+      ["npm:0.11.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40pkgjs%2Fparseargs%2F-%2Fparseargs-0.11.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@pkgjs-parseargs-npm-0.11.0-4ad563a49c-9.zip/node_modules/@pkgjs/parseargs/",\
         "packageDependencies": [\
-          ["@pkgjs/parseargs", "npm:0.11.0"]\
+          ["@pkgjs/parseargs", "npm:0.11.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40pkgjs%2Fparseargs%2F-%2Fparseargs-0.11.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/aspromise", [\
-      ["npm:1.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-aspromise-npm-1.1.2-71d00b938f-9.zip/node_modules/@protobufjs/aspromise/",\
+      ["npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Faspromise%2F-%2Faspromise-1.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-aspromise-npm-1.1.2-46f4b1d0ff-9.zip/node_modules/@protobufjs/aspromise/",\
         "packageDependencies": [\
-          ["@protobufjs/aspromise", "npm:1.1.2"]\
+          ["@protobufjs/aspromise", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Faspromise%2F-%2Faspromise-1.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/base64", [\
-      ["npm:1.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-base64-npm-1.1.2-cd8ca6814a-9.zip/node_modules/@protobufjs/base64/",\
+      ["npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fbase64%2F-%2Fbase64-1.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-base64-npm-1.1.2-195d165d27-9.zip/node_modules/@protobufjs/base64/",\
         "packageDependencies": [\
-          ["@protobufjs/base64", "npm:1.1.2"]\
+          ["@protobufjs/base64", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fbase64%2F-%2Fbase64-1.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/codegen", [\
-      ["npm:2.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-codegen-npm-2.0.4-36e188bbe6-9.zip/node_modules/@protobufjs/codegen/",\
+      ["npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fcodegen%2F-%2Fcodegen-2.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-codegen-npm-2.0.4-8e7cb478f7-9.zip/node_modules/@protobufjs/codegen/",\
         "packageDependencies": [\
-          ["@protobufjs/codegen", "npm:2.0.4"]\
+          ["@protobufjs/codegen", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fcodegen%2F-%2Fcodegen-2.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/eventemitter", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-eventemitter-npm-1.1.0-029cc7d431-9.zip/node_modules/@protobufjs/eventemitter/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Feventemitter%2F-%2Feventemitter-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-eventemitter-npm-1.1.0-bc568221ff-9.zip/node_modules/@protobufjs/eventemitter/",\
         "packageDependencies": [\
-          ["@protobufjs/eventemitter", "npm:1.1.0"]\
+          ["@protobufjs/eventemitter", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Feventemitter%2F-%2Feventemitter-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/fetch", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-fetch-npm-1.1.0-ca857b7df4-9.zip/node_modules/@protobufjs/fetch/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Ffetch%2F-%2Ffetch-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-fetch-npm-1.1.0-b7cad4aacf-9.zip/node_modules/@protobufjs/fetch/",\
         "packageDependencies": [\
-          ["@protobufjs/fetch", "npm:1.1.0"],\
-          ["@protobufjs/aspromise", "npm:1.1.2"],\
-          ["@protobufjs/inquire", "npm:1.1.0"]\
+          ["@protobufjs/fetch", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Ffetch%2F-%2Ffetch-1.1.0.tgz"],\
+          ["@protobufjs/aspromise", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Faspromise%2F-%2Faspromise-1.1.2.tgz"],\
+          ["@protobufjs/inquire", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Finquire%2F-%2Finquire-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/float", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-float-npm-1.0.2-5678f64d08-9.zip/node_modules/@protobufjs/float/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Ffloat%2F-%2Ffloat-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-float-npm-1.0.2-f20cd45b14-9.zip/node_modules/@protobufjs/float/",\
         "packageDependencies": [\
-          ["@protobufjs/float", "npm:1.0.2"]\
+          ["@protobufjs/float", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Ffloat%2F-%2Ffloat-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/inquire", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-inquire-npm-1.1.0-3c7759e9ce-9.zip/node_modules/@protobufjs/inquire/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Finquire%2F-%2Finquire-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-inquire-npm-1.1.0-2814c44e42-9.zip/node_modules/@protobufjs/inquire/",\
         "packageDependencies": [\
-          ["@protobufjs/inquire", "npm:1.1.0"]\
+          ["@protobufjs/inquire", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Finquire%2F-%2Finquire-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/path", [\
-      ["npm:1.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-path-npm-1.1.2-641d08de76-9.zip/node_modules/@protobufjs/path/",\
+      ["npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fpath%2F-%2Fpath-1.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-path-npm-1.1.2-149b4db73e-9.zip/node_modules/@protobufjs/path/",\
         "packageDependencies": [\
-          ["@protobufjs/path", "npm:1.1.2"]\
+          ["@protobufjs/path", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fpath%2F-%2Fpath-1.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/pool", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-pool-npm-1.1.0-47a76f96a1-9.zip/node_modules/@protobufjs/pool/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fpool%2F-%2Fpool-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-pool-npm-1.1.0-39e7ad7334-9.zip/node_modules/@protobufjs/pool/",\
         "packageDependencies": [\
-          ["@protobufjs/pool", "npm:1.1.0"]\
+          ["@protobufjs/pool", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fpool%2F-%2Fpool-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@protobufjs/utf8", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-utf8-npm-1.1.0-02c590807c-9.zip/node_modules/@protobufjs/utf8/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Futf8%2F-%2Futf8-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@protobufjs-utf8-npm-1.1.0-4c1f36fe1a-9.zip/node_modules/@protobufjs/utf8/",\
         "packageDependencies": [\
-          ["@protobufjs/utf8", "npm:1.1.0"]\
+          ["@protobufjs/utf8", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Futf8%2F-%2Futf8-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@rescript/std", [\
-      ["npm:9.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@rescript-std-npm-9.0.0-29ba790713-9.zip/node_modules/@rescript/std/",\
+      ["npm:9.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40rescript%2Fstd%2F-%2Fstd-9.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@rescript-std-npm-9.0.0-4edac2f27a-9.zip/node_modules/@rescript/std/",\
         "packageDependencies": [\
-          ["@rescript/std", "npm:9.0.0"]\
+          ["@rescript/std", "npm:9.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40rescript%2Fstd%2F-%2Fstd-9.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@tootallnate/once", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tootallnate-once-npm-2.0.0-e36cf4f140-9.zip/node_modules/@tootallnate/once/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tootallnate%2Fonce%2F-%2Fonce-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tootallnate-once-npm-2.0.0-a0693cf76d-9.zip/node_modules/@tootallnate/once/",\
         "packageDependencies": [\
-          ["@tootallnate/once", "npm:2.0.0"]\
+          ["@tootallnate/once", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tootallnate%2Fonce%2F-%2Fonce-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@tsconfig/node10", [\
-      ["npm:1.0.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node10-npm-1.0.9-f2e2d20feb-9.zip/node_modules/@tsconfig/node10/",\
+      ["npm:1.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode10%2F-%2Fnode10-1.0.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node10-npm-1.0.9-7a19c7a575-9.zip/node_modules/@tsconfig/node10/",\
         "packageDependencies": [\
-          ["@tsconfig/node10", "npm:1.0.9"]\
+          ["@tsconfig/node10", "npm:1.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode10%2F-%2Fnode10-1.0.9.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@tsconfig/node12", [\
-      ["npm:1.0.11", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node12-npm-1.0.11-9710d1c61b-9.zip/node_modules/@tsconfig/node12/",\
+      ["npm:1.0.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode12%2F-%2Fnode12-1.0.11.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node12-npm-1.0.11-1c6382f307-9.zip/node_modules/@tsconfig/node12/",\
         "packageDependencies": [\
-          ["@tsconfig/node12", "npm:1.0.11"]\
+          ["@tsconfig/node12", "npm:1.0.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode12%2F-%2Fnode12-1.0.11.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@tsconfig/node14", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node14-npm-1.0.3-15321421d2-9.zip/node_modules/@tsconfig/node14/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode14%2F-%2Fnode14-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node14-npm-1.0.3-6b694c1e99-9.zip/node_modules/@tsconfig/node14/",\
         "packageDependencies": [\
-          ["@tsconfig/node14", "npm:1.0.3"]\
+          ["@tsconfig/node14", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode14%2F-%2Fnode14-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@tsconfig/node16", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node16-npm-1.0.4-b7cb87d859-9.zip/node_modules/@tsconfig/node16/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode16%2F-%2Fnode16-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@tsconfig-node16-npm-1.0.4-75741350ec-9.zip/node_modules/@tsconfig/node16/",\
         "packageDependencies": [\
-          ["@tsconfig/node16", "npm:1.0.4"]\
+          ["@tsconfig/node16", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode16%2F-%2Fnode16-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/bn.js", [\
-      ["npm:5.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-bn.js-npm-5.1.1-346449981b-9.zip/node_modules/@types/bn.js/",\
+      ["npm:5.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fbn.js%2F-%2Fbn.js-5.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-bn.js-npm-5.1.1-7d2bdd9cad-9.zip/node_modules/@types/bn.js/",\
         "packageDependencies": [\
-          ["@types/bn.js", "npm:5.1.1"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/bn.js", "npm:5.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fbn.js%2F-%2Fbn.js-5.1.1.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/cli-progress", [\
-      ["npm:3.11.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-cli-progress-npm-3.11.0-889a906352-9.zip/node_modules/@types/cli-progress/",\
+      ["npm:3.11.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fcli-progress%2F-%2Fcli-progress-3.11.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-cli-progress-npm-3.11.0-384553f9e4-9.zip/node_modules/@types/cli-progress/",\
         "packageDependencies": [\
-          ["@types/cli-progress", "npm:3.11.0"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/cli-progress", "npm:3.11.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fcli-progress%2F-%2Fcli-progress-3.11.0.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/concat-stream", [\
-      ["npm:1.6.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-concat-stream-npm-1.6.1-42cd06b019-9.zip/node_modules/@types/concat-stream/",\
+      ["npm:1.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fconcat-stream%2F-%2Fconcat-stream-1.6.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-concat-stream-npm-1.6.1-aaf222a929-9.zip/node_modules/@types/concat-stream/",\
         "packageDependencies": [\
-          ["@types/concat-stream", "npm:1.6.1"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/concat-stream", "npm:1.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fconcat-stream%2F-%2Fconcat-stream-1.6.1.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/connect", [\
-      ["npm:3.4.35", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-connect-npm-3.4.35-7337eee0a3-9.zip/node_modules/@types/connect/",\
+      ["npm:3.4.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fconnect%2F-%2Fconnect-3.4.35.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-connect-npm-3.4.35-595ad30b73-9.zip/node_modules/@types/connect/",\
         "packageDependencies": [\
-          ["@types/connect", "npm:3.4.35"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/connect", "npm:3.4.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fconnect%2F-%2Fconnect-3.4.35.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/form-data", [\
-      ["npm:0.0.33", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-form-data-npm-0.0.33-3cbbcd9710-9.zip/node_modules/@types/form-data/",\
+      ["npm:0.0.33::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fform-data%2F-%2Fform-data-0.0.33.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-form-data-npm-0.0.33-423bdae990-9.zip/node_modules/@types/form-data/",\
         "packageDependencies": [\
-          ["@types/form-data", "npm:0.0.33"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/form-data", "npm:0.0.33::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fform-data%2F-%2Fform-data-0.0.33.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/long", [\
-      ["npm:4.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-long-npm-4.0.2-e7bdc00dd4-9.zip/node_modules/@types/long/",\
+      ["npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Flong%2F-%2Flong-4.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-long-npm-4.0.2-9836db4df6-9.zip/node_modules/@types/long/",\
         "packageDependencies": [\
-          ["@types/long", "npm:4.0.2"]\
+          ["@types/long", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Flong%2F-%2Flong-4.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/minimatch", [\
-      ["npm:3.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-minimatch-npm-3.0.5-802bb0797f-9.zip/node_modules/@types/minimatch/",\
+      ["npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fminimatch%2F-%2Fminimatch-3.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-minimatch-npm-3.0.5-80d12c87af-9.zip/node_modules/@types/minimatch/",\
         "packageDependencies": [\
-          ["@types/minimatch", "npm:3.0.5"]\
+          ["@types/minimatch", "npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fminimatch%2F-%2Fminimatch-3.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:10.17.60", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-10.17.60-63ac1f669f-9.zip/node_modules/@types/node/",\
+      ["npm:10.17.60::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-10.17.60.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-10.17.60-e7dea9d674-9.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:10.17.60"]\
+          ["@types/node", "npm:10.17.60::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-10.17.60.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:12.20.55", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-12.20.55-88487587a4-9.zip/node_modules/@types/node/",\
+      ["npm:12.20.55::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-12.20.55.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-12.20.55-94054a184a-9.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:12.20.55"]\
+          ["@types/node", "npm:12.20.55::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-12.20.55.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:20.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-20.4.0-2eb9c50cc4-9.zip/node_modules/@types/node/",\
+      ["npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-20.4.1-7f3c26116f-9.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.10.66", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-8.10.66-b849acaf16-9.zip/node_modules/@types/node/",\
+      ["npm:8.10.66::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-8.10.66.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-node-npm-8.10.66-e04cca800c-9.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:8.10.66"]\
+          ["@types/node", "npm:8.10.66::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-8.10.66.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/parse-json", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-parse-json-npm-4.0.0-298522afa6-9.zip/node_modules/@types/parse-json/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fparse-json%2F-%2Fparse-json-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-parse-json-npm-4.0.0-f90dea5b49-9.zip/node_modules/@types/parse-json/",\
         "packageDependencies": [\
-          ["@types/parse-json", "npm:4.0.0"]\
+          ["@types/parse-json", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fparse-json%2F-%2Fparse-json-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/pbkdf2", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-pbkdf2-npm-3.1.0-9fa74ff7fb-9.zip/node_modules/@types/pbkdf2/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fpbkdf2%2F-%2Fpbkdf2-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-pbkdf2-npm-3.1.0-f64aabc234-9.zip/node_modules/@types/pbkdf2/",\
         "packageDependencies": [\
-          ["@types/pbkdf2", "npm:3.1.0"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/pbkdf2", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fpbkdf2%2F-%2Fpbkdf2-3.1.0.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/qs", [\
-      ["npm:6.9.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-qs-npm-6.9.7-4a3e6ca0d0-9.zip/node_modules/@types/qs/",\
+      ["npm:6.9.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fqs%2F-%2Fqs-6.9.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-qs-npm-6.9.7-2143615f43-9.zip/node_modules/@types/qs/",\
         "packageDependencies": [\
-          ["@types/qs", "npm:6.9.7"]\
+          ["@types/qs", "npm:6.9.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fqs%2F-%2Fqs-6.9.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/secp256k1", [\
-      ["npm:4.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-secp256k1-npm-4.0.3-945d1c398e-9.zip/node_modules/@types/secp256k1/",\
+      ["npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fsecp256k1%2F-%2Fsecp256k1-4.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-secp256k1-npm-4.0.3-fd06c6bfec-9.zip/node_modules/@types/secp256k1/",\
         "packageDependencies": [\
-          ["@types/secp256k1", "npm:4.0.3"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/secp256k1", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fsecp256k1%2F-%2Fsecp256k1-4.0.3.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@types/ws", [\
-      ["npm:7.4.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-ws-npm-7.4.7-d0c95c0958-9.zip/node_modules/@types/ws/",\
+      ["npm:7.4.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fws%2F-%2Fws-7.4.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@types-ws-npm-7.4.7-00b5ed0850-9.zip/node_modules/@types/ws/",\
         "packageDependencies": [\
-          ["@types/ws", "npm:7.4.7"],\
-          ["@types/node", "npm:20.4.0"]\
+          ["@types/ws", "npm:7.4.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fws%2F-%2Fws-7.4.7.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@whatwg-node/events", [\
-      ["npm:0.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@whatwg-node-events-npm-0.0.3-697fe4b65f-9.zip/node_modules/@whatwg-node/events/",\
+      ["npm:0.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Fevents%2F-%2Fevents-0.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@whatwg-node-events-npm-0.0.3-08a40957c5-9.zip/node_modules/@whatwg-node/events/",\
         "packageDependencies": [\
-          ["@whatwg-node/events", "npm:0.0.3"]\
+          ["@whatwg-node/events", "npm:0.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Fevents%2F-%2Fevents-0.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@whatwg-node/fetch", [\
-      ["npm:0.8.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@whatwg-node-fetch-npm-0.8.8-7bf71af020-9.zip/node_modules/@whatwg-node/fetch/",\
+      ["npm:0.8.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Ffetch%2F-%2Ffetch-0.8.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@whatwg-node-fetch-npm-0.8.8-8fe33eb483-9.zip/node_modules/@whatwg-node/fetch/",\
         "packageDependencies": [\
-          ["@whatwg-node/fetch", "npm:0.8.8"],\
-          ["@peculiar/webcrypto", "npm:1.4.3"],\
-          ["@whatwg-node/node-fetch", "npm:0.3.6"],\
-          ["busboy", "npm:1.6.0"],\
-          ["urlpattern-polyfill", "npm:8.0.2"],\
-          ["web-streams-polyfill", "npm:3.2.1"]\
+          ["@whatwg-node/fetch", "npm:0.8.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Ffetch%2F-%2Ffetch-0.8.8.tgz"],\
+          ["@peculiar/webcrypto", "npm:1.4.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fwebcrypto%2F-%2Fwebcrypto-1.4.3.tgz"],\
+          ["@whatwg-node/node-fetch", "npm:0.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Fnode-fetch%2F-%2Fnode-fetch-0.3.6.tgz"],\
+          ["busboy", "npm:1.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbusboy%2F-%2Fbusboy-1.6.0.tgz"],\
+          ["urlpattern-polyfill", "npm:8.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Furlpattern-polyfill%2F-%2Furlpattern-polyfill-8.0.2.tgz"],\
+          ["web-streams-polyfill", "npm:3.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb-streams-polyfill%2F-%2Fweb-streams-polyfill-3.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["@whatwg-node/node-fetch", [\
-      ["npm:0.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@whatwg-node-node-fetch-npm-0.3.6-e4f3efa43b-9.zip/node_modules/@whatwg-node/node-fetch/",\
+      ["npm:0.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Fnode-fetch%2F-%2Fnode-fetch-0.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@whatwg-node-node-fetch-npm-0.3.6-399c8eab5e-9.zip/node_modules/@whatwg-node/node-fetch/",\
         "packageDependencies": [\
-          ["@whatwg-node/node-fetch", "npm:0.3.6"],\
-          ["@whatwg-node/events", "npm:0.0.3"],\
-          ["busboy", "npm:1.6.0"],\
-          ["fast-querystring", "npm:1.1.2"],\
-          ["fast-url-parser", "npm:1.1.3"],\
-          ["tslib", "npm:2.6.0"]\
+          ["@whatwg-node/node-fetch", "npm:0.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Fnode-fetch%2F-%2Fnode-fetch-0.3.6.tgz"],\
+          ["@whatwg-node/events", "npm:0.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40whatwg-node%2Fevents%2F-%2Fevents-0.0.3.tgz"],\
+          ["busboy", "npm:1.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbusboy%2F-%2Fbusboy-1.6.0.tgz"],\
+          ["fast-querystring", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-querystring%2F-%2Ffast-querystring-1.1.2.tgz"],\
+          ["fast-url-parser", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-url-parser%2F-%2Ffast-url-parser-1.1.3.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["JSONStream", [\
-      ["npm:1.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/JSONStream-npm-1.3.2-137468f29b-9.zip/node_modules/JSONStream/",\
+      ["npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2FJSONStream%2F-%2FJSONStream-1.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/JSONStream-npm-1.3.2-cdb16d2af8-9.zip/node_modules/JSONStream/",\
         "packageDependencies": [\
-          ["JSONStream", "npm:1.3.2"],\
-          ["jsonparse", "npm:1.3.1"],\
-          ["through", "npm:2.3.8"]\
+          ["JSONStream", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2FJSONStream%2F-%2FJSONStream-1.3.2.tgz"],\
+          ["jsonparse", "npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonparse%2F-%2Fjsonparse-1.3.1.tgz"],\
+          ["through", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthrough%2F-%2Fthrough-2.3.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.3.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/JSONStream-npm-1.3.5-1987f2e6dd-9.zip/node_modules/JSONStream/",\
+      ["npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2FJSONStream%2F-%2FJSONStream-1.3.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/JSONStream-npm-1.3.5-fd8565d024-9.zip/node_modules/JSONStream/",\
         "packageDependencies": [\
-          ["JSONStream", "npm:1.3.5"],\
-          ["jsonparse", "npm:1.3.1"],\
-          ["through", "npm:2.3.8"]\
+          ["JSONStream", "npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2FJSONStream%2F-%2FJSONStream-1.3.5.tgz"],\
+          ["jsonparse", "npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonparse%2F-%2Fjsonparse-1.3.1.tgz"],\
+          ["through", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthrough%2F-%2Fthrough-2.3.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["abbrev", [\
-      ["npm:1.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/abbrev-npm-1.1.1-3659247eab-9.zip/node_modules/abbrev/",\
+      ["npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabbrev%2F-%2Fabbrev-1.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/abbrev-npm-1.1.1-f274476702-9.zip/node_modules/abbrev/",\
         "packageDependencies": [\
-          ["abbrev", "npm:1.1.1"]\
+          ["abbrev", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabbrev%2F-%2Fabbrev-1.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["abort-controller", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/abort-controller-npm-3.0.0-2f3a9a2bcb-9.zip/node_modules/abort-controller/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabort-controller%2F-%2Fabort-controller-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/abort-controller-npm-3.0.0-56009df71f-9.zip/node_modules/abort-controller/",\
         "packageDependencies": [\
-          ["abort-controller", "npm:3.0.0"],\
-          ["event-target-shim", "npm:5.0.1"]\
+          ["abort-controller", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabort-controller%2F-%2Fabort-controller-3.0.0.tgz"],\
+          ["event-target-shim", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fevent-target-shim%2F-%2Fevent-target-shim-5.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["acorn", [\
-      ["npm:8.10.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/acorn-npm-8.10.0-2230c9e83e-9.zip/node_modules/acorn/",\
+      ["npm:8.10.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Facorn%2F-%2Facorn-8.10.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/acorn-npm-8.10.0-7b2d1f818b-9.zip/node_modules/acorn/",\
         "packageDependencies": [\
-          ["acorn", "npm:8.10.0"]\
+          ["acorn", "npm:8.10.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Facorn%2F-%2Facorn-8.10.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["acorn-walk", [\
-      ["npm:8.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/acorn-walk-npm-8.2.0-2f2cac3177-9.zip/node_modules/acorn-walk/",\
+      ["npm:8.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Facorn-walk%2F-%2Facorn-walk-8.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/acorn-walk-npm-8.2.0-0804d13524-9.zip/node_modules/acorn-walk/",\
         "packageDependencies": [\
-          ["acorn-walk", "npm:8.2.0"]\
+          ["acorn-walk", "npm:8.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Facorn-walk%2F-%2Facorn-walk-8.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["agent-base", [\
-      ["npm:6.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/agent-base-npm-6.0.2-428f325a93-9.zip/node_modules/agent-base/",\
+      ["npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagent-base%2F-%2Fagent-base-6.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/agent-base-npm-6.0.2-e769fc235c-9.zip/node_modules/agent-base/",\
         "packageDependencies": [\
-          ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"]\
+          ["agent-base", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagent-base%2F-%2Fagent-base-6.0.2.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["agentkeepalive", [\
-      ["npm:4.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/agentkeepalive-npm-4.3.0-ac3d8e6807-9.zip/node_modules/agentkeepalive/",\
+      ["npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagentkeepalive%2F-%2Fagentkeepalive-4.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/agentkeepalive-npm-4.3.0-ed5e8c3026-9.zip/node_modules/agentkeepalive/",\
         "packageDependencies": [\
-          ["agentkeepalive", "npm:4.3.0"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["depd", "npm:2.0.0"],\
-          ["humanize-ms", "npm:1.2.1"]\
+          ["agentkeepalive", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagentkeepalive%2F-%2Fagentkeepalive-4.3.0.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["depd", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdepd%2F-%2Fdepd-2.0.0.tgz"],\
+          ["humanize-ms", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhumanize-ms%2F-%2Fhumanize-ms-1.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["aggregate-error", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/aggregate-error-npm-3.1.0-415a406f4e-9.zip/node_modules/aggregate-error/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faggregate-error%2F-%2Faggregate-error-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/aggregate-error-npm-3.1.0-b6ced129ef-9.zip/node_modules/aggregate-error/",\
         "packageDependencies": [\
-          ["aggregate-error", "npm:3.1.0"],\
-          ["clean-stack", "npm:2.2.0"],\
-          ["indent-string", "npm:4.0.0"]\
+          ["aggregate-error", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faggregate-error%2F-%2Faggregate-error-3.1.0.tgz"],\
+          ["clean-stack", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclean-stack%2F-%2Fclean-stack-2.2.0.tgz"],\
+          ["indent-string", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Findent-string%2F-%2Findent-string-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ajv", [\
-      ["npm:6.12.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ajv-npm-6.12.6-4b5105e2b2-9.zip/node_modules/ajv/",\
+      ["npm:6.12.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fajv%2F-%2Fajv-6.12.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ajv-npm-6.12.6-cc55c95927-9.zip/node_modules/ajv/",\
         "packageDependencies": [\
-          ["ajv", "npm:6.12.6"],\
-          ["fast-deep-equal", "npm:3.1.3"],\
-          ["fast-json-stable-stringify", "npm:2.1.0"],\
-          ["json-schema-traverse", "npm:0.4.1"],\
-          ["uri-js", "npm:4.4.1"]\
+          ["ajv", "npm:6.12.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fajv%2F-%2Fajv-6.12.6.tgz"],\
+          ["fast-deep-equal", "npm:3.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-deep-equal%2F-%2Ffast-deep-equal-3.1.3.tgz"],\
+          ["fast-json-stable-stringify", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-json-stable-stringify%2F-%2Ffast-json-stable-stringify-2.1.0.tgz"],\
+          ["json-schema-traverse", "npm:0.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-schema-traverse%2F-%2Fjson-schema-traverse-0.4.1.tgz"],\
+          ["uri-js", "npm:4.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Furi-js%2F-%2Furi-js-4.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ansi-colors", [\
-      ["npm:4.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-colors-npm-4.1.3-8ffd0ae6c7-9.zip/node_modules/ansi-colors/",\
+      ["npm:4.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-colors%2F-%2Fansi-colors-4.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-colors-npm-4.1.3-f37ea4c438-9.zip/node_modules/ansi-colors/",\
         "packageDependencies": [\
-          ["ansi-colors", "npm:4.1.3"]\
+          ["ansi-colors", "npm:4.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-colors%2F-%2Fansi-colors-4.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ansi-escapes", [\
-      ["npm:3.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-escapes-npm-3.2.0-a9d573100e-9.zip/node_modules/ansi-escapes/",\
+      ["npm:3.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-escapes%2F-%2Fansi-escapes-3.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-escapes-npm-3.2.0-72df376de3-9.zip/node_modules/ansi-escapes/",\
         "packageDependencies": [\
-          ["ansi-escapes", "npm:3.2.0"]\
+          ["ansi-escapes", "npm:3.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-escapes%2F-%2Fansi-escapes-3.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-escapes-npm-4.3.2-3ad173702f-9.zip/node_modules/ansi-escapes/",\
+      ["npm:4.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-escapes%2F-%2Fansi-escapes-4.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-escapes-npm-4.3.2-3de0f7467d-9.zip/node_modules/ansi-escapes/",\
         "packageDependencies": [\
-          ["ansi-escapes", "npm:4.3.2"],\
-          ["type-fest", "npm:0.21.3"]\
+          ["ansi-escapes", "npm:4.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-escapes%2F-%2Fansi-escapes-4.3.2.tgz"],\
+          ["type-fest", "npm:0.21.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftype-fest%2F-%2Ftype-fest-0.21.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ansi-regex", [\
-      ["npm:4.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-regex-npm-4.1.1-af0a582bb9-9.zip/node_modules/ansi-regex/",\
+      ["npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-4.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-regex-npm-4.1.1-105ef078c0-9.zip/node_modules/ansi-regex/",\
         "packageDependencies": [\
-          ["ansi-regex", "npm:4.1.1"]\
+          ["ansi-regex", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-4.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-regex-npm-5.0.1-c963a48615-9.zip/node_modules/ansi-regex/",\
+      ["npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-5.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-regex-npm-5.0.1-bb849a3e9d-9.zip/node_modules/ansi-regex/",\
         "packageDependencies": [\
-          ["ansi-regex", "npm:5.0.1"]\
+          ["ansi-regex", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-5.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-regex-npm-6.0.1-8d663a607d-9.zip/node_modules/ansi-regex/",\
+      ["npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-6.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-regex-npm-6.0.1-c95768e693-9.zip/node_modules/ansi-regex/",\
         "packageDependencies": [\
-          ["ansi-regex", "npm:6.0.1"]\
+          ["ansi-regex", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-6.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ansi-styles", [\
-      ["npm:3.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-styles-npm-3.2.1-8cb8107983-9.zip/node_modules/ansi-styles/",\
+      ["npm:3.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-3.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-styles-npm-3.2.1-de9eb3b9d4-9.zip/node_modules/ansi-styles/",\
         "packageDependencies": [\
-          ["ansi-styles", "npm:3.2.1"],\
-          ["color-convert", "npm:1.9.3"]\
+          ["ansi-styles", "npm:3.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-3.2.1.tgz"],\
+          ["color-convert", "npm:1.9.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-convert%2F-%2Fcolor-convert-1.9.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-styles-npm-4.3.0-245c7d42c7-9.zip/node_modules/ansi-styles/",\
+      ["npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-styles-npm-4.3.0-2a6ce6e8cd-9.zip/node_modules/ansi-styles/",\
         "packageDependencies": [\
-          ["ansi-styles", "npm:4.3.0"],\
-          ["color-convert", "npm:2.0.1"]\
+          ["ansi-styles", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz"],\
+          ["color-convert", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-convert%2F-%2Fcolor-convert-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-styles-npm-6.2.1-d43647018c-9.zip/node_modules/ansi-styles/",\
+      ["npm:6.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-6.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansi-styles-npm-6.2.1-2dcaca9c0a-9.zip/node_modules/ansi-styles/",\
         "packageDependencies": [\
-          ["ansi-styles", "npm:6.2.1"]\
+          ["ansi-styles", "npm:6.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-6.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ansicolors", [\
-      ["npm:0.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansicolors-npm-0.3.2-cc35882814-9.zip/node_modules/ansicolors/",\
+      ["npm:0.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansicolors%2F-%2Fansicolors-0.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ansicolors-npm-0.3.2-c5a2a580d3-9.zip/node_modules/ansicolors/",\
         "packageDependencies": [\
-          ["ansicolors", "npm:0.3.2"]\
+          ["ansicolors", "npm:0.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansicolors%2F-%2Fansicolors-0.3.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["any-signal", [\
-      ["npm:2.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/any-signal-npm-2.1.2-14d42817b2-9.zip/node_modules/any-signal/",\
+      ["npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-2.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/any-signal-npm-2.1.2-c42580360c-9.zip/node_modules/any-signal/",\
         "packageDependencies": [\
-          ["any-signal", "npm:2.1.2"],\
-          ["abort-controller", "npm:3.0.0"],\
-          ["native-abort-controller", "virtual:14d42817b2231f8a8dd06edeb23b1acf2fa57fb20de602da61a3ef140a00ff0e827e59e2af2d696c0e64f98737ed7cb42c5d09825e00687282afb3fce105533f#npm:1.0.4"]\
+          ["any-signal", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-2.1.2.tgz"],\
+          ["abort-controller", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabort-controller%2F-%2Fabort-controller-3.0.0.tgz"],\
+          ["native-abort-controller", "virtual:c42580360c84acf672ccadd2f4c69407d21eb6ba78b5f7b5df4ca41afc07e1c796ccc377061dc849b2138522d3197e7248f440c853faaf8c840cb7d837e09b1b#npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/any-signal-npm-3.0.1-e7c018609b-9.zip/node_modules/any-signal/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/any-signal-npm-3.0.1-33861def54-9.zip/node_modules/any-signal/",\
         "packageDependencies": [\
-          ["any-signal", "npm:3.0.1"]\
+          ["any-signal", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-3.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["anymatch", [\
-      ["npm:3.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/anymatch-npm-3.1.3-bc81d103b1-9.zip/node_modules/anymatch/",\
+      ["npm:3.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fanymatch%2F-%2Fanymatch-3.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/anymatch-npm-3.1.3-9ca48266b3-9.zip/node_modules/anymatch/",\
         "packageDependencies": [\
-          ["anymatch", "npm:3.1.3"],\
-          ["normalize-path", "npm:3.0.0"],\
-          ["picomatch", "npm:2.3.1"]\
+          ["anymatch", "npm:3.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fanymatch%2F-%2Fanymatch-3.1.3.tgz"],\
+          ["normalize-path", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnormalize-path%2F-%2Fnormalize-path-3.0.0.tgz"],\
+          ["picomatch", "npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpicomatch%2F-%2Fpicomatch-2.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["apisauce", [\
-      ["npm:2.1.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/apisauce-npm-2.1.6-6d66461ebc-9.zip/node_modules/apisauce/",\
+      ["npm:2.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fapisauce%2F-%2Fapisauce-2.1.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/apisauce-npm-2.1.6-3ea0a8439a-9.zip/node_modules/apisauce/",\
         "packageDependencies": [\
-          ["apisauce", "npm:2.1.6"],\
-          ["axios", "npm:0.21.4"]\
+          ["apisauce", "npm:2.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fapisauce%2F-%2Fapisauce-2.1.6.tgz"],\
+          ["axios", "npm:0.21.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-0.21.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["app-module-path", [\
-      ["npm:2.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/app-module-path-npm-2.2.0-71fdc42bce-9.zip/node_modules/app-module-path/",\
+      ["npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fapp-module-path%2F-%2Fapp-module-path-2.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/app-module-path-npm-2.2.0-d3a5e73e4d-9.zip/node_modules/app-module-path/",\
         "packageDependencies": [\
-          ["app-module-path", "npm:2.2.0"]\
+          ["app-module-path", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fapp-module-path%2F-%2Fapp-module-path-2.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["aproba", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/aproba-npm-2.0.0-8716bcfde6-9.zip/node_modules/aproba/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faproba%2F-%2Faproba-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/aproba-npm-2.0.0-6a12af0532-9.zip/node_modules/aproba/",\
         "packageDependencies": [\
-          ["aproba", "npm:2.0.0"]\
+          ["aproba", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faproba%2F-%2Faproba-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["are-we-there-yet", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/are-we-there-yet-npm-3.0.1-3395b1512f-9.zip/node_modules/are-we-there-yet/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fare-we-there-yet%2F-%2Fare-we-there-yet-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/are-we-there-yet-npm-3.0.1-6c891a5bbd-9.zip/node_modules/are-we-there-yet/",\
         "packageDependencies": [\
-          ["are-we-there-yet", "npm:3.0.1"],\
-          ["delegates", "npm:1.0.0"],\
-          ["readable-stream", "npm:3.6.2"]\
+          ["are-we-there-yet", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fare-we-there-yet%2F-%2Fare-we-there-yet-3.0.1.tgz"],\
+          ["delegates", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelegates%2F-%2Fdelegates-1.0.0.tgz"],\
+          ["readable-stream", "npm:3.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-3.6.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["arg", [\
-      ["npm:4.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/arg-npm-4.1.3-1748b966a8-9.zip/node_modules/arg/",\
+      ["npm:4.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Farg%2F-%2Farg-4.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/arg-npm-4.1.3-a03539e18e-9.zip/node_modules/arg/",\
         "packageDependencies": [\
-          ["arg", "npm:4.1.3"]\
+          ["arg", "npm:4.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Farg%2F-%2Farg-4.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["argparse", [\
-      ["npm:1.0.10", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/argparse-npm-1.0.10-528934e59d-9.zip/node_modules/argparse/",\
+      ["npm:1.0.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fargparse%2F-%2Fargparse-1.0.10.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/argparse-npm-1.0.10-2d9abd6eb9-9.zip/node_modules/argparse/",\
         "packageDependencies": [\
-          ["argparse", "npm:1.0.10"],\
-          ["sprintf-js", "npm:1.0.3"]\
+          ["argparse", "npm:1.0.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fargparse%2F-%2Fargparse-1.0.10.tgz"],\
+          ["sprintf-js", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsprintf-js%2F-%2Fsprintf-js-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/argparse-npm-2.0.1-faff7999e6-9.zip/node_modules/argparse/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fargparse%2F-%2Fargparse-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/argparse-npm-2.0.1-daeb3b8ace-9.zip/node_modules/argparse/",\
         "packageDependencies": [\
-          ["argparse", "npm:2.0.1"]\
+          ["argparse", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fargparse%2F-%2Fargparse-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["array-union", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/array-union-npm-2.1.0-4e4852b221-9.zip/node_modules/array-union/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Farray-union%2F-%2Farray-union-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/array-union-npm-2.1.0-6f740a6e1c-9.zip/node_modules/array-union/",\
         "packageDependencies": [\
-          ["array-union", "npm:2.1.0"]\
+          ["array-union", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Farray-union%2F-%2Farray-union-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["asap", [\
-      ["npm:2.0.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/asap-npm-2.0.6-36714d439d-9.zip/node_modules/asap/",\
+      ["npm:2.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasap%2F-%2Fasap-2.0.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/asap-npm-2.0.6-610ec3a9d0-9.zip/node_modules/asap/",\
         "packageDependencies": [\
-          ["asap", "npm:2.0.6"]\
+          ["asap", "npm:2.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasap%2F-%2Fasap-2.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["asn1", [\
-      ["npm:0.2.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/asn1-npm-0.2.6-bdd07356c4-9.zip/node_modules/asn1/",\
+      ["npm:0.2.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1%2F-%2Fasn1-0.2.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/asn1-npm-0.2.6-01a6580a5a-9.zip/node_modules/asn1/",\
         "packageDependencies": [\
-          ["asn1", "npm:0.2.6"],\
-          ["safer-buffer", "npm:2.1.2"]\
+          ["asn1", "npm:0.2.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1%2F-%2Fasn1-0.2.6.tgz"],\
+          ["safer-buffer", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafer-buffer%2F-%2Fsafer-buffer-2.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["asn1js", [\
-      ["npm:3.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/asn1js-npm-3.0.5-cf5558af33-9.zip/node_modules/asn1js/",\
+      ["npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1js%2F-%2Fasn1js-3.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/asn1js-npm-3.0.5-711141905e-9.zip/node_modules/asn1js/",\
         "packageDependencies": [\
-          ["asn1js", "npm:3.0.5"],\
-          ["pvtsutils", "npm:1.3.2"],\
-          ["pvutils", "npm:1.1.3"],\
-          ["tslib", "npm:2.6.0"]\
+          ["asn1js", "npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1js%2F-%2Fasn1js-3.0.5.tgz"],\
+          ["pvtsutils", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvtsutils%2F-%2Fpvtsutils-1.3.2.tgz"],\
+          ["pvutils", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvutils%2F-%2Fpvutils-1.1.3.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["assemblyscript", [\
-      ["npm:0.19.10", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/assemblyscript-npm-0.19.10-2137cd853a-9.zip/node_modules/assemblyscript/",\
+      ["npm:0.19.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.10.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/assemblyscript-npm-0.19.10-57bb78f095-9.zip/node_modules/assemblyscript/",\
         "packageDependencies": [\
-          ["assemblyscript", "npm:0.19.10"],\
-          ["binaryen", "npm:101.0.0-nightly.20210723"],\
-          ["long", "npm:4.0.0"]\
+          ["assemblyscript", "npm:0.19.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.10.tgz"],\
+          ["binaryen", "npm:101.0.0-nightly.20210723::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinaryen%2F-%2Fbinaryen-101.0.0-nightly.20210723.tgz"],\
+          ["long", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:0.19.23", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/assemblyscript-npm-0.19.23-d726685734-9.zip/node_modules/assemblyscript/",\
+      ["npm:0.19.23::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.23.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/assemblyscript-npm-0.19.23-927b9a20b3-9.zip/node_modules/assemblyscript/",\
         "packageDependencies": [\
-          ["assemblyscript", "npm:0.19.23"],\
-          ["binaryen", "npm:102.0.0-nightly.20211028"],\
-          ["long", "npm:5.2.3"],\
-          ["source-map-support", "npm:0.5.21"]\
+          ["assemblyscript", "npm:0.19.23::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.23.tgz"],\
+          ["binaryen", "npm:102.0.0-nightly.20211028::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinaryen%2F-%2Fbinaryen-102.0.0-nightly.20211028.tgz"],\
+          ["long", "npm:5.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-5.2.3.tgz"],\
+          ["source-map-support", "npm:0.5.21::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map-support%2F-%2Fsource-map-support-0.5.21.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["assert-plus", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/assert-plus-npm-1.0.0-cac95ef098-9.zip/node_modules/assert-plus/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/assert-plus-npm-1.0.0-c26ec8ba8d-9.zip/node_modules/assert-plus/",\
         "packageDependencies": [\
-          ["assert-plus", "npm:1.0.0"]\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["async", [\
-      ["npm:3.2.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/async-npm-3.2.4-aba13508f9-9.zip/node_modules/async/",\
+      ["npm:3.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasync%2F-%2Fasync-3.2.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/async-npm-3.2.4-4a61a31824-9.zip/node_modules/async/",\
         "packageDependencies": [\
-          ["async", "npm:3.2.4"]\
+          ["async", "npm:3.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasync%2F-%2Fasync-3.2.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["asynckit", [\
-      ["npm:0.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/asynckit-npm-0.4.0-c718858525-9.zip/node_modules/asynckit/",\
+      ["npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasynckit%2F-%2Fasynckit-0.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/asynckit-npm-0.4.0-147f096138-9.zip/node_modules/asynckit/",\
         "packageDependencies": [\
-          ["asynckit", "npm:0.4.0"]\
+          ["asynckit", "npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasynckit%2F-%2Fasynckit-0.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["at-least-node", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/at-least-node-npm-1.0.0-2b36e661fa-9.zip/node_modules/at-least-node/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fat-least-node%2F-%2Fat-least-node-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/at-least-node-npm-1.0.0-2493ccfc9f-9.zip/node_modules/at-least-node/",\
         "packageDependencies": [\
-          ["at-least-node", "npm:1.0.0"]\
+          ["at-least-node", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fat-least-node%2F-%2Fat-least-node-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["aws-sign2", [\
-      ["npm:0.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/aws-sign2-npm-0.7.0-656c6cb84d-9.zip/node_modules/aws-sign2/",\
+      ["npm:0.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faws-sign2%2F-%2Faws-sign2-0.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/aws-sign2-npm-0.7.0-a104bf3364-9.zip/node_modules/aws-sign2/",\
         "packageDependencies": [\
-          ["aws-sign2", "npm:0.7.0"]\
+          ["aws-sign2", "npm:0.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faws-sign2%2F-%2Faws-sign2-0.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["aws4", [\
-      ["npm:1.12.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/aws4-npm-1.12.0-af8e48a2ab-9.zip/node_modules/aws4/",\
+      ["npm:1.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faws4%2F-%2Faws4-1.12.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/aws4-npm-1.12.0-a7a3aeaf33-9.zip/node_modules/aws4/",\
         "packageDependencies": [\
-          ["aws4", "npm:1.12.0"]\
+          ["aws4", "npm:1.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faws4%2F-%2Faws4-1.12.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["axios", [\
-      ["npm:0.21.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/axios-npm-0.21.4-e278873748-9.zip/node_modules/axios/",\
+      ["npm:0.21.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-0.21.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/axios-npm-0.21.4-8372b92cd7-9.zip/node_modules/axios/",\
         "packageDependencies": [\
-          ["axios", "npm:0.21.4"],\
-          ["follow-redirects", "virtual:e278873748b4e9d158db595d2f6cb0351c74052f52b53924aec4d9299e7b6babfb62aead374cf2f6e453bc8bea3b052380dc6b1137a162bbfc102bbb1c8cac42#npm:1.15.2"]\
+          ["axios", "npm:0.21.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-0.21.4.tgz"],\
+          ["follow-redirects", "virtual:8372b92cd77b7d1697c834376f9641118e36ff6b2e103c31f2c86626e147fc93cf9f1812082e88557a67be5a97e9da726b9990806c6d4e1462859f9be29b5e69#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["balanced-match", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/balanced-match-npm-1.0.2-a53c126459-9.zip/node_modules/balanced-match/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbalanced-match%2F-%2Fbalanced-match-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/balanced-match-npm-1.0.2-f53c0c5fdc-9.zip/node_modules/balanced-match/",\
         "packageDependencies": [\
-          ["balanced-match", "npm:1.0.2"]\
+          ["balanced-match", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbalanced-match%2F-%2Fbalanced-match-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["base-x", [\
-      ["npm:3.0.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/base-x-npm-3.0.9-7b2588e106-9.zip/node_modules/base-x/",\
+      ["npm:3.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbase-x%2F-%2Fbase-x-3.0.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/base-x-npm-3.0.9-a442a2b5cc-9.zip/node_modules/base-x/",\
         "packageDependencies": [\
-          ["base-x", "npm:3.0.9"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["base-x", "npm:3.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbase-x%2F-%2Fbase-x-3.0.9.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["base64-js", [\
-      ["npm:1.5.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/base64-js-npm-1.5.1-b2f7275641-9.zip/node_modules/base64-js/",\
+      ["npm:1.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbase64-js%2F-%2Fbase64-js-1.5.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/base64-js-npm-1.5.1-be768de26d-9.zip/node_modules/base64-js/",\
         "packageDependencies": [\
-          ["base64-js", "npm:1.5.1"]\
+          ["base64-js", "npm:1.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbase64-js%2F-%2Fbase64-js-1.5.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["bcrypt-pbkdf", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bcrypt-pbkdf-npm-1.0.2-80db8b16ed-9.zip/node_modules/bcrypt-pbkdf/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbcrypt-pbkdf%2F-%2Fbcrypt-pbkdf-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bcrypt-pbkdf-npm-1.0.2-1e1820ce27-9.zip/node_modules/bcrypt-pbkdf/",\
         "packageDependencies": [\
-          ["bcrypt-pbkdf", "npm:1.0.2"],\
-          ["tweetnacl", "npm:0.14.5"]\
+          ["bcrypt-pbkdf", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbcrypt-pbkdf%2F-%2Fbcrypt-pbkdf-1.0.2.tgz"],\
+          ["tweetnacl", "npm:0.14.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftweetnacl%2F-%2Ftweetnacl-0.14.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["binary-extensions", [\
-      ["npm:2.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/binary-extensions-npm-2.2.0-180c33fec7-9.zip/node_modules/binary-extensions/",\
+      ["npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinary-extensions%2F-%2Fbinary-extensions-2.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/binary-extensions-npm-2.2.0-e3e6a271c3-9.zip/node_modules/binary-extensions/",\
         "packageDependencies": [\
-          ["binary-extensions", "npm:2.2.0"]\
+          ["binary-extensions", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinary-extensions%2F-%2Fbinary-extensions-2.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["binary-install-raw", [\
-      ["npm:0.0.13", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/binary-install-raw-npm-0.0.13-84bac418f8-9.zip/node_modules/binary-install-raw/",\
+      ["npm:0.0.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinary-install-raw%2F-%2Fbinary-install-raw-0.0.13.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/binary-install-raw-npm-0.0.13-afd122f54f-9.zip/node_modules/binary-install-raw/",\
         "packageDependencies": [\
-          ["binary-install-raw", "npm:0.0.13"],\
-          ["axios", "npm:0.21.4"],\
-          ["rimraf", "npm:3.0.2"],\
-          ["tar", "npm:6.1.15"]\
+          ["binary-install-raw", "npm:0.0.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinary-install-raw%2F-%2Fbinary-install-raw-0.0.13.tgz"],\
+          ["axios", "npm:0.21.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faxios%2F-%2Faxios-0.21.4.tgz"],\
+          ["rimraf", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-3.0.2.tgz"],\
+          ["tar", "npm:6.1.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar%2F-%2Ftar-6.1.15.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["binaryen", [\
-      ["npm:101.0.0-nightly.20210723", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/binaryen-npm-101.0.0-nightly.20210723-c972da6a0b-9.zip/node_modules/binaryen/",\
+      ["npm:101.0.0-nightly.20210723::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinaryen%2F-%2Fbinaryen-101.0.0-nightly.20210723.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/binaryen-npm-101.0.0-nightly.20210723-3878af998c-9.zip/node_modules/binaryen/",\
         "packageDependencies": [\
-          ["binaryen", "npm:101.0.0-nightly.20210723"]\
+          ["binaryen", "npm:101.0.0-nightly.20210723::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinaryen%2F-%2Fbinaryen-101.0.0-nightly.20210723.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:102.0.0-nightly.20211028", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/binaryen-npm-102.0.0-nightly.20211028-ba1465b905-9.zip/node_modules/binaryen/",\
+      ["npm:102.0.0-nightly.20211028::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinaryen%2F-%2Fbinaryen-102.0.0-nightly.20211028.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/binaryen-npm-102.0.0-nightly.20211028-e59574cc68-9.zip/node_modules/binaryen/",\
         "packageDependencies": [\
-          ["binaryen", "npm:102.0.0-nightly.20211028"]\
+          ["binaryen", "npm:102.0.0-nightly.20211028::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinaryen%2F-%2Fbinaryen-102.0.0-nightly.20211028.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["bl", [\
-      ["npm:1.2.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bl-npm-1.2.3-49c4213ca5-9.zip/node_modules/bl/",\
+      ["npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbl%2F-%2Fbl-1.2.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bl-npm-1.2.3-3a411ba5c6-9.zip/node_modules/bl/",\
         "packageDependencies": [\
-          ["bl", "npm:1.2.3"],\
-          ["readable-stream", "npm:2.3.8"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["bl", "npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbl%2F-%2Fbl-1.2.3.tgz"],\
+          ["readable-stream", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-2.3.8.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["blakejs", [\
-      ["npm:1.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/blakejs-npm-1.2.1-b1ff783529-9.zip/node_modules/blakejs/",\
+      ["npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fblakejs%2F-%2Fblakejs-1.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/blakejs-npm-1.2.1-9fba0be2ce-9.zip/node_modules/blakejs/",\
         "packageDependencies": [\
-          ["blakejs", "npm:1.2.1"]\
+          ["blakejs", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fblakejs%2F-%2Fblakejs-1.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["blob-to-it", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/blob-to-it-npm-1.0.4-ad690f7d96-9.zip/node_modules/blob-to-it/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fblob-to-it%2F-%2Fblob-to-it-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/blob-to-it-npm-1.0.4-0f1bb54e12-9.zip/node_modules/blob-to-it/",\
         "packageDependencies": [\
-          ["blob-to-it", "npm:1.0.4"],\
-          ["browser-readablestream-to-it", "npm:1.0.3"]\
+          ["blob-to-it", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fblob-to-it%2F-%2Fblob-to-it-1.0.4.tgz"],\
+          ["browser-readablestream-to-it", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowser-readablestream-to-it%2F-%2Fbrowser-readablestream-to-it-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["bn.js", [\
-      ["npm:4.11.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bn.js-npm-4.11.6-34a3bf8e02-9.zip/node_modules/bn.js/",\
+      ["npm:4.11.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.11.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bn.js-npm-4.11.6-239fe4547c-9.zip/node_modules/bn.js/",\
         "packageDependencies": [\
-          ["bn.js", "npm:4.11.6"]\
+          ["bn.js", "npm:4.11.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.11.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.12.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bn.js-npm-4.12.0-3ec6c884f6-9.zip/node_modules/bn.js/",\
+      ["npm:4.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.12.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bn.js-npm-4.12.0-93c733a875-9.zip/node_modules/bn.js/",\
         "packageDependencies": [\
-          ["bn.js", "npm:4.12.0"]\
+          ["bn.js", "npm:4.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.12.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bn.js-npm-5.2.1-dc952b1965-9.zip/node_modules/bn.js/",\
+      ["npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-5.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bn.js-npm-5.2.1-b76520409d-9.zip/node_modules/bn.js/",\
         "packageDependencies": [\
-          ["bn.js", "npm:5.2.1"]\
+          ["bn.js", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["brace-expansion", [\
-      ["npm:1.1.11", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/brace-expansion-npm-1.1.11-fb95eb05ad-9.zip/node_modules/brace-expansion/",\
+      ["npm:1.1.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-1.1.11.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/brace-expansion-npm-1.1.11-28abe9c4fc-9.zip/node_modules/brace-expansion/",\
         "packageDependencies": [\
-          ["brace-expansion", "npm:1.1.11"],\
-          ["balanced-match", "npm:1.0.2"],\
-          ["concat-map", "npm:0.0.1"]\
+          ["brace-expansion", "npm:1.1.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-1.1.11.tgz"],\
+          ["balanced-match", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbalanced-match%2F-%2Fbalanced-match-1.0.2.tgz"],\
+          ["concat-map", "npm:0.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-map%2F-%2Fconcat-map-0.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/brace-expansion-npm-2.0.1-17aa2616f9-9.zip/node_modules/brace-expansion/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/brace-expansion-npm-2.0.1-e678305318-9.zip/node_modules/brace-expansion/",\
         "packageDependencies": [\
-          ["brace-expansion", "npm:2.0.1"],\
-          ["balanced-match", "npm:1.0.2"]\
+          ["brace-expansion", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-2.0.1.tgz"],\
+          ["balanced-match", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbalanced-match%2F-%2Fbalanced-match-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["braces", [\
-      ["npm:3.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/braces-npm-3.0.2-782240b28a-9.zip/node_modules/braces/",\
+      ["npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbraces%2F-%2Fbraces-3.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/braces-npm-3.0.2-1ab6558703-9.zip/node_modules/braces/",\
         "packageDependencies": [\
-          ["braces", "npm:3.0.2"],\
-          ["fill-range", "npm:7.0.1"]\
+          ["braces", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbraces%2F-%2Fbraces-3.0.2.tgz"],\
+          ["fill-range", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffill-range%2F-%2Ffill-range-7.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["brorand", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/brorand-npm-1.1.0-ea86634c4b-9.zip/node_modules/brorand/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrorand%2F-%2Fbrorand-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/brorand-npm-1.1.0-8fd9077050-9.zip/node_modules/brorand/",\
         "packageDependencies": [\
-          ["brorand", "npm:1.1.0"]\
+          ["brorand", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrorand%2F-%2Fbrorand-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["browser-readablestream-to-it", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/browser-readablestream-to-it-npm-1.0.3-2d21636f48-9.zip/node_modules/browser-readablestream-to-it/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowser-readablestream-to-it%2F-%2Fbrowser-readablestream-to-it-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/browser-readablestream-to-it-npm-1.0.3-f843b4f7d0-9.zip/node_modules/browser-readablestream-to-it/",\
         "packageDependencies": [\
-          ["browser-readablestream-to-it", "npm:1.0.3"]\
+          ["browser-readablestream-to-it", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowser-readablestream-to-it%2F-%2Fbrowser-readablestream-to-it-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["browserify-aes", [\
-      ["npm:1.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/browserify-aes-npm-1.2.0-2ad4aeefbe-9.zip/node_modules/browserify-aes/",\
+      ["npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowserify-aes%2F-%2Fbrowserify-aes-1.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/browserify-aes-npm-1.2.0-9bbb5d44ce-9.zip/node_modules/browserify-aes/",\
         "packageDependencies": [\
-          ["browserify-aes", "npm:1.2.0"],\
-          ["buffer-xor", "npm:1.0.3"],\
-          ["cipher-base", "npm:1.0.4"],\
-          ["create-hash", "npm:1.2.0"],\
-          ["evp_bytestokey", "npm:1.0.3"],\
-          ["inherits", "npm:2.0.4"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["browserify-aes", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowserify-aes%2F-%2Fbrowserify-aes-1.2.0.tgz"],\
+          ["buffer-xor", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-xor%2F-%2Fbuffer-xor-1.0.3.tgz"],\
+          ["cipher-base", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcipher-base%2F-%2Fcipher-base-1.0.4.tgz"],\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["evp_bytestokey", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fevp_bytestokey%2F-%2Fevp_bytestokey-1.0.3.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["bs58", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bs58-npm-4.0.1-8d2a7822b1-9.zip/node_modules/bs58/",\
+      ["npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbs58%2F-%2Fbs58-4.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bs58-npm-4.0.1-f32de2d20c-9.zip/node_modules/bs58/",\
         "packageDependencies": [\
-          ["bs58", "npm:4.0.1"],\
-          ["base-x", "npm:3.0.9"]\
+          ["bs58", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbs58%2F-%2Fbs58-4.0.1.tgz"],\
+          ["base-x", "npm:3.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbase-x%2F-%2Fbase-x-3.0.9.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["bs58check", [\
-      ["npm:2.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/bs58check-npm-2.1.2-4e87e40195-9.zip/node_modules/bs58check/",\
+      ["npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbs58check%2F-%2Fbs58check-2.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/bs58check-npm-2.1.2-496300f087-9.zip/node_modules/bs58check/",\
         "packageDependencies": [\
-          ["bs58check", "npm:2.1.2"],\
-          ["bs58", "npm:4.0.1"],\
-          ["create-hash", "npm:1.2.0"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["bs58check", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbs58check%2F-%2Fbs58check-2.1.2.tgz"],\
+          ["bs58", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbs58%2F-%2Fbs58-4.0.1.tgz"],\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["buffer", [\
-      ["npm:6.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-npm-6.0.3-cd90dfedfe-9.zip/node_modules/buffer/",\
+      ["npm:6.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer%2F-%2Fbuffer-6.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-npm-6.0.3-c8b350038c-9.zip/node_modules/buffer/",\
         "packageDependencies": [\
-          ["buffer", "npm:6.0.3"],\
-          ["base64-js", "npm:1.5.1"],\
-          ["ieee754", "npm:1.2.1"]\
+          ["buffer", "npm:6.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer%2F-%2Fbuffer-6.0.3.tgz"],\
+          ["base64-js", "npm:1.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbase64-js%2F-%2Fbase64-js-1.5.1.tgz"],\
+          ["ieee754", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fieee754%2F-%2Fieee754-1.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["buffer-alloc", [\
-      ["npm:1.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-alloc-npm-1.2.0-388beee0c7-9.zip/node_modules/buffer-alloc/",\
+      ["npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-alloc%2F-%2Fbuffer-alloc-1.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-alloc-npm-1.2.0-68778d24f4-9.zip/node_modules/buffer-alloc/",\
         "packageDependencies": [\
-          ["buffer-alloc", "npm:1.2.0"],\
-          ["buffer-alloc-unsafe", "npm:1.1.0"],\
-          ["buffer-fill", "npm:1.0.0"]\
+          ["buffer-alloc", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-alloc%2F-%2Fbuffer-alloc-1.2.0.tgz"],\
+          ["buffer-alloc-unsafe", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-alloc-unsafe%2F-%2Fbuffer-alloc-unsafe-1.1.0.tgz"],\
+          ["buffer-fill", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-fill%2F-%2Fbuffer-fill-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["buffer-alloc-unsafe", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-alloc-unsafe-npm-1.1.0-b5d7ccb44c-9.zip/node_modules/buffer-alloc-unsafe/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-alloc-unsafe%2F-%2Fbuffer-alloc-unsafe-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-alloc-unsafe-npm-1.1.0-3c04d91f90-9.zip/node_modules/buffer-alloc-unsafe/",\
         "packageDependencies": [\
-          ["buffer-alloc-unsafe", "npm:1.1.0"]\
+          ["buffer-alloc-unsafe", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-alloc-unsafe%2F-%2Fbuffer-alloc-unsafe-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["buffer-fill", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-fill-npm-1.0.0-915809118a-9.zip/node_modules/buffer-fill/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-fill%2F-%2Fbuffer-fill-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-fill-npm-1.0.0-cff1f09e0e-9.zip/node_modules/buffer-fill/",\
         "packageDependencies": [\
-          ["buffer-fill", "npm:1.0.0"]\
+          ["buffer-fill", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-fill%2F-%2Fbuffer-fill-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["buffer-from", [\
-      ["npm:1.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-from-npm-1.1.2-03d2f20d7e-9.zip/node_modules/buffer-from/",\
+      ["npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-from%2F-%2Fbuffer-from-1.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-from-npm-1.1.2-2ffdf0e9dd-9.zip/node_modules/buffer-from/",\
         "packageDependencies": [\
-          ["buffer-from", "npm:1.1.2"]\
+          ["buffer-from", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-from%2F-%2Fbuffer-from-1.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["buffer-xor", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-xor-npm-1.0.3-56bb81b0dd-9.zip/node_modules/buffer-xor/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-xor%2F-%2Fbuffer-xor-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/buffer-xor-npm-1.0.3-0ce037198c-9.zip/node_modules/buffer-xor/",\
         "packageDependencies": [\
-          ["buffer-xor", "npm:1.0.3"]\
+          ["buffer-xor", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-xor%2F-%2Fbuffer-xor-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["busboy", [\
-      ["npm:1.6.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/busboy-npm-1.6.0-ebb5cbb04b-9.zip/node_modules/busboy/",\
+      ["npm:1.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbusboy%2F-%2Fbusboy-1.6.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/busboy-npm-1.6.0-c89fb0716d-9.zip/node_modules/busboy/",\
         "packageDependencies": [\
-          ["busboy", "npm:1.6.0"],\
-          ["streamsearch", "npm:1.1.0"]\
+          ["busboy", "npm:1.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbusboy%2F-%2Fbusboy-1.6.0.tgz"],\
+          ["streamsearch", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstreamsearch%2F-%2Fstreamsearch-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cacache", [\
-      ["npm:17.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cacache-npm-17.1.3-f75f768a29-9.zip/node_modules/cacache/",\
+      ["npm:17.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcacache%2F-%2Fcacache-17.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cacache-npm-17.1.3-5120a4aee4-9.zip/node_modules/cacache/",\
         "packageDependencies": [\
-          ["cacache", "npm:17.1.3"],\
-          ["@npmcli/fs", "npm:3.1.0"],\
-          ["fs-minipass", "npm:3.0.2"],\
-          ["glob", "npm:10.3.1"],\
-          ["lru-cache", "npm:7.18.3"],\
-          ["minipass", "npm:5.0.0"],\
-          ["minipass-collect", "npm:1.0.2"],\
-          ["minipass-flush", "npm:1.0.5"],\
-          ["minipass-pipeline", "npm:1.2.4"],\
-          ["p-map", "npm:4.0.0"],\
-          ["ssri", "npm:10.0.4"],\
-          ["tar", "npm:6.1.15"],\
-          ["unique-filename", "npm:3.0.0"]\
+          ["cacache", "npm:17.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcacache%2F-%2Fcacache-17.1.3.tgz"],\
+          ["@npmcli/fs", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40npmcli%2Ffs%2F-%2Ffs-3.1.0.tgz"],\
+          ["fs-minipass", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-minipass%2F-%2Ffs-minipass-3.0.2.tgz"],\
+          ["glob", "npm:10.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-10.3.3.tgz"],\
+          ["lru-cache", "npm:7.18.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-7.18.3.tgz"],\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"],\
+          ["minipass-collect", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-collect%2F-%2Fminipass-collect-1.0.2.tgz"],\
+          ["minipass-flush", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-flush%2F-%2Fminipass-flush-1.0.5.tgz"],\
+          ["minipass-pipeline", "npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-pipeline%2F-%2Fminipass-pipeline-1.2.4.tgz"],\
+          ["p-map", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-map%2F-%2Fp-map-4.0.0.tgz"],\
+          ["ssri", "npm:10.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fssri%2F-%2Fssri-10.0.4.tgz"],\
+          ["tar", "npm:6.1.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar%2F-%2Ftar-6.1.15.tgz"],\
+          ["unique-filename", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funique-filename%2F-%2Funique-filename-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["call-bind", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/call-bind-npm-1.0.2-c957124861-9.zip/node_modules/call-bind/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcall-bind%2F-%2Fcall-bind-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/call-bind-npm-1.0.2-fe2859e906-9.zip/node_modules/call-bind/",\
         "packageDependencies": [\
-          ["call-bind", "npm:1.0.2"],\
-          ["function-bind", "npm:1.1.1"],\
-          ["get-intrinsic", "npm:1.2.1"]\
+          ["call-bind", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcall-bind%2F-%2Fcall-bind-1.0.2.tgz"],\
+          ["function-bind", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffunction-bind%2F-%2Ffunction-bind-1.1.1.tgz"],\
+          ["get-intrinsic", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-intrinsic%2F-%2Fget-intrinsic-1.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["callsites", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/callsites-npm-3.1.0-268f989910-9.zip/node_modules/callsites/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcallsites%2F-%2Fcallsites-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/callsites-npm-3.1.0-2f256b451d-9.zip/node_modules/callsites/",\
         "packageDependencies": [\
-          ["callsites", "npm:3.1.0"]\
+          ["callsites", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcallsites%2F-%2Fcallsites-3.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cardinal", [\
-      ["npm:2.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cardinal-npm-2.1.1-b77e7b28a7-9.zip/node_modules/cardinal/",\
+      ["npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcardinal%2F-%2Fcardinal-2.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cardinal-npm-2.1.1-fd49eb61b9-9.zip/node_modules/cardinal/",\
         "packageDependencies": [\
-          ["cardinal", "npm:2.1.1"],\
-          ["ansicolors", "npm:0.3.2"],\
-          ["redeyed", "npm:2.1.1"]\
+          ["cardinal", "npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcardinal%2F-%2Fcardinal-2.1.1.tgz"],\
+          ["ansicolors", "npm:0.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansicolors%2F-%2Fansicolors-0.3.2.tgz"],\
+          ["redeyed", "npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fredeyed%2F-%2Fredeyed-2.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["caseless", [\
-      ["npm:0.12.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/caseless-npm-0.12.0-e83bc5df83-9.zip/node_modules/caseless/",\
+      ["npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcaseless%2F-%2Fcaseless-0.12.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/caseless-npm-0.12.0-785418633a-9.zip/node_modules/caseless/",\
         "packageDependencies": [\
-          ["caseless", "npm:0.12.0"]\
+          ["caseless", "npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcaseless%2F-%2Fcaseless-0.12.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cborg", [\
-      ["npm:1.10.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cborg-npm-1.10.2-0c859907fc-9.zip/node_modules/cborg/",\
+      ["npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcborg%2F-%2Fcborg-1.10.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cborg-npm-1.10.2-4fd10089ab-9.zip/node_modules/cborg/",\
         "packageDependencies": [\
-          ["cborg", "npm:1.10.2"]\
+          ["cborg", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcborg%2F-%2Fcborg-1.10.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["chalk", [\
-      ["npm:2.4.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/chalk-npm-2.4.2-3ea16dd91e-9.zip/node_modules/chalk/",\
+      ["npm:2.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-2.4.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/chalk-npm-2.4.2-2162567d7c-9.zip/node_modules/chalk/",\
         "packageDependencies": [\
-          ["chalk", "npm:2.4.2"],\
-          ["ansi-styles", "npm:3.2.1"],\
-          ["escape-string-regexp", "npm:1.0.5"],\
-          ["supports-color", "npm:5.5.0"]\
+          ["chalk", "npm:2.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-2.4.2.tgz"],\
+          ["ansi-styles", "npm:3.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-3.2.1.tgz"],\
+          ["escape-string-regexp", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fescape-string-regexp%2F-%2Fescape-string-regexp-1.0.5.tgz"],\
+          ["supports-color", "npm:5.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-5.5.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/chalk-npm-3.0.0-e813208025-9.zip/node_modules/chalk/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/chalk-npm-3.0.0-251fbfba9c-9.zip/node_modules/chalk/",\
         "packageDependencies": [\
-          ["chalk", "npm:3.0.0"],\
-          ["ansi-styles", "npm:4.3.0"],\
-          ["supports-color", "npm:7.2.0"]\
+          ["chalk", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-3.0.0.tgz"],\
+          ["ansi-styles", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz"],\
+          ["supports-color", "npm:7.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-7.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/chalk-npm-4.1.2-ba8b67ab80-9.zip/node_modules/chalk/",\
+      ["npm:4.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-4.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/chalk-npm-4.1.2-8b7a90bfcb-9.zip/node_modules/chalk/",\
         "packageDependencies": [\
-          ["chalk", "npm:4.1.2"],\
-          ["ansi-styles", "npm:4.3.0"],\
-          ["supports-color", "npm:7.2.0"]\
+          ["chalk", "npm:4.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-4.1.2.tgz"],\
+          ["ansi-styles", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz"],\
+          ["supports-color", "npm:7.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-7.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["chokidar", [\
-      ["npm:3.5.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/chokidar-npm-3.5.3-c5f9b0a56a-9.zip/node_modules/chokidar/",\
+      ["npm:3.5.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchokidar%2F-%2Fchokidar-3.5.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/chokidar-npm-3.5.3-80ef9574a2-9.zip/node_modules/chokidar/",\
         "packageDependencies": [\
-          ["chokidar", "npm:3.5.3"],\
-          ["anymatch", "npm:3.1.3"],\
-          ["braces", "npm:3.0.2"],\
-          ["fsevents", "patch:fsevents@npm%3A2.3.2#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
-          ["glob-parent", "npm:5.1.2"],\
-          ["is-binary-path", "npm:2.1.0"],\
-          ["is-glob", "npm:4.0.3"],\
-          ["normalize-path", "npm:3.0.0"],\
-          ["readdirp", "npm:3.6.0"]\
+          ["chokidar", "npm:3.5.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchokidar%2F-%2Fchokidar-3.5.3.tgz"],\
+          ["anymatch", "npm:3.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fanymatch%2F-%2Fanymatch-3.1.3.tgz"],\
+          ["braces", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbraces%2F-%2Fbraces-3.0.2.tgz"],\
+          ["fsevents", "patch:fsevents@npm%3A2.3.2%3A%3A__archiveUrl=https%253A%252F%252Fregistry.npmmirror.com%252Ffsevents%252F-%252Ffsevents-2.3.2.tgz#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
+          ["glob-parent", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob-parent%2F-%2Fglob-parent-5.1.2.tgz"],\
+          ["is-binary-path", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-binary-path%2F-%2Fis-binary-path-2.1.0.tgz"],\
+          ["is-glob", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-glob%2F-%2Fis-glob-4.0.3.tgz"],\
+          ["normalize-path", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnormalize-path%2F-%2Fnormalize-path-3.0.0.tgz"],\
+          ["readdirp", "npm:3.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freaddirp%2F-%2Freaddirp-3.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["chownr", [\
-      ["npm:1.1.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/chownr-npm-1.1.4-5bd400ab08-9.zip/node_modules/chownr/",\
+      ["npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchownr%2F-%2Fchownr-1.1.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/chownr-npm-1.1.4-950cd2eea5-9.zip/node_modules/chownr/",\
         "packageDependencies": [\
-          ["chownr", "npm:1.1.4"]\
+          ["chownr", "npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchownr%2F-%2Fchownr-1.1.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/chownr-npm-2.0.0-638f1c9c61-9.zip/node_modules/chownr/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchownr%2F-%2Fchownr-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/chownr-npm-2.0.0-7dbfd16c3e-9.zip/node_modules/chownr/",\
         "packageDependencies": [\
-          ["chownr", "npm:2.0.0"]\
+          ["chownr", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchownr%2F-%2Fchownr-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cipher-base", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cipher-base-npm-1.0.4-2e98b97140-9.zip/node_modules/cipher-base/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcipher-base%2F-%2Fcipher-base-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cipher-base-npm-1.0.4-0a83ebe98f-9.zip/node_modules/cipher-base/",\
         "packageDependencies": [\
-          ["cipher-base", "npm:1.0.4"],\
-          ["inherits", "npm:2.0.4"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["cipher-base", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcipher-base%2F-%2Fcipher-base-1.0.4.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["clean-stack", [\
-      ["npm:2.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/clean-stack-npm-2.2.0-a8ce435a5c-9.zip/node_modules/clean-stack/",\
+      ["npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclean-stack%2F-%2Fclean-stack-2.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/clean-stack-npm-2.2.0-0ce1867596-9.zip/node_modules/clean-stack/",\
         "packageDependencies": [\
-          ["clean-stack", "npm:2.2.0"]\
+          ["clean-stack", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclean-stack%2F-%2Fclean-stack-2.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/clean-stack-npm-3.0.1-85c3878b76-9.zip/node_modules/clean-stack/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclean-stack%2F-%2Fclean-stack-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/clean-stack-npm-3.0.1-4e60f8bae8-9.zip/node_modules/clean-stack/",\
         "packageDependencies": [\
-          ["clean-stack", "npm:3.0.1"],\
-          ["escape-string-regexp", "npm:4.0.0"]\
+          ["clean-stack", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclean-stack%2F-%2Fclean-stack-3.0.1.tgz"],\
+          ["escape-string-regexp", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fescape-string-regexp%2F-%2Fescape-string-regexp-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cli-cursor", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-cursor-npm-3.1.0-fee1e46b5e-9.zip/node_modules/cli-cursor/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-cursor%2F-%2Fcli-cursor-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-cursor-npm-3.1.0-8b79e03fba-9.zip/node_modules/cli-cursor/",\
         "packageDependencies": [\
-          ["cli-cursor", "npm:3.1.0"],\
-          ["restore-cursor", "npm:3.1.0"]\
+          ["cli-cursor", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-cursor%2F-%2Fcli-cursor-3.1.0.tgz"],\
+          ["restore-cursor", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frestore-cursor%2F-%2Frestore-cursor-3.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cli-progress", [\
-      ["npm:3.12.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-progress-npm-3.12.0-d686625154-9.zip/node_modules/cli-progress/",\
+      ["npm:3.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-progress%2F-%2Fcli-progress-3.12.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-progress-npm-3.12.0-4f8e241ed0-9.zip/node_modules/cli-progress/",\
         "packageDependencies": [\
-          ["cli-progress", "npm:3.12.0"],\
-          ["string-width", "npm:4.2.3"]\
+          ["cli-progress", "npm:3.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-progress%2F-%2Fcli-progress-3.12.0.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cli-spinners", [\
-      ["npm:2.9.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-spinners-npm-2.9.0-227cd236ed-9.zip/node_modules/cli-spinners/",\
+      ["npm:2.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-spinners%2F-%2Fcli-spinners-2.9.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-spinners-npm-2.9.0-9ddc686558-9.zip/node_modules/cli-spinners/",\
         "packageDependencies": [\
-          ["cli-spinners", "npm:2.9.0"]\
+          ["cli-spinners", "npm:2.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-spinners%2F-%2Fcli-spinners-2.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cli-table3", [\
-      ["npm:0.6.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-table3-npm-0.6.0-049737be8a-9.zip/node_modules/cli-table3/",\
+      ["npm:0.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-table3%2F-%2Fcli-table3-0.6.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cli-table3-npm-0.6.0-d9da80b469-9.zip/node_modules/cli-table3/",\
         "packageDependencies": [\
-          ["cli-table3", "npm:0.6.0"],\
-          ["colors", "npm:1.4.0"],\
-          ["object-assign", "npm:4.1.1"],\
-          ["string-width", "npm:4.2.3"]\
+          ["cli-table3", "npm:0.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-table3%2F-%2Fcli-table3-0.6.0.tgz"],\
+          ["colors", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolors%2F-%2Fcolors-1.4.0.tgz"],\
+          ["object-assign", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-assign%2F-%2Fobject-assign-4.1.1.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["clone", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/clone-npm-1.0.4-a610fcbcf9-9.zip/node_modules/clone/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclone%2F-%2Fclone-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/clone-npm-1.0.4-f37e2b7287-9.zip/node_modules/clone/",\
         "packageDependencies": [\
-          ["clone", "npm:1.0.4"]\
+          ["clone", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclone%2F-%2Fclone-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["color-convert", [\
-      ["npm:1.9.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-convert-npm-1.9.3-1fe690075e-9.zip/node_modules/color-convert/",\
+      ["npm:1.9.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-convert%2F-%2Fcolor-convert-1.9.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-convert-npm-1.9.3-5576f50cbb-9.zip/node_modules/color-convert/",\
         "packageDependencies": [\
-          ["color-convert", "npm:1.9.3"],\
-          ["color-name", "npm:1.1.3"]\
+          ["color-convert", "npm:1.9.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-convert%2F-%2Fcolor-convert-1.9.3.tgz"],\
+          ["color-name", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-name%2F-%2Fcolor-name-1.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-convert-npm-2.0.1-79730e935b-9.zip/node_modules/color-convert/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-convert%2F-%2Fcolor-convert-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-convert-npm-2.0.1-24fbfb05b1-9.zip/node_modules/color-convert/",\
         "packageDependencies": [\
-          ["color-convert", "npm:2.0.1"],\
-          ["color-name", "npm:1.1.4"]\
+          ["color-convert", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-convert%2F-%2Fcolor-convert-2.0.1.tgz"],\
+          ["color-name", "npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-name%2F-%2Fcolor-name-1.1.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["color-name", [\
-      ["npm:1.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-name-npm-1.1.3-728b7b5d39-9.zip/node_modules/color-name/",\
+      ["npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-name%2F-%2Fcolor-name-1.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-name-npm-1.1.3-22fb98e3c7-9.zip/node_modules/color-name/",\
         "packageDependencies": [\
-          ["color-name", "npm:1.1.3"]\
+          ["color-name", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-name%2F-%2Fcolor-name-1.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.1.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-name-npm-1.1.4-025792b0ea-9.zip/node_modules/color-name/",\
+      ["npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-name%2F-%2Fcolor-name-1.1.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-name-npm-1.1.4-f8cb0b2ec0-9.zip/node_modules/color-name/",\
         "packageDependencies": [\
-          ["color-name", "npm:1.1.4"]\
+          ["color-name", "npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-name%2F-%2Fcolor-name-1.1.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["color-support", [\
-      ["npm:1.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-support-npm-1.1.3-3be5c53455-9.zip/node_modules/color-support/",\
+      ["npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-support%2F-%2Fcolor-support-1.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/color-support-npm-1.1.3-752591bc6f-9.zip/node_modules/color-support/",\
         "packageDependencies": [\
-          ["color-support", "npm:1.1.3"]\
+          ["color-support", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-support%2F-%2Fcolor-support-1.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["colors", [\
-      ["npm:1.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/colors-npm-1.4.0-7e2cf12234-9.zip/node_modules/colors/",\
+      ["npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolors%2F-%2Fcolors-1.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/colors-npm-1.4.0-8d0b527186-9.zip/node_modules/colors/",\
         "packageDependencies": [\
-          ["colors", "npm:1.4.0"]\
+          ["colors", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolors%2F-%2Fcolors-1.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["combined-stream", [\
-      ["npm:1.0.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/combined-stream-npm-1.0.8-dc14d4a63a-9.zip/node_modules/combined-stream/",\
+      ["npm:1.0.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcombined-stream%2F-%2Fcombined-stream-1.0.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/combined-stream-npm-1.0.8-6caf1b0e43-9.zip/node_modules/combined-stream/",\
         "packageDependencies": [\
-          ["combined-stream", "npm:1.0.8"],\
-          ["delayed-stream", "npm:1.0.0"]\
+          ["combined-stream", "npm:1.0.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcombined-stream%2F-%2Fcombined-stream-1.0.8.tgz"],\
+          ["delayed-stream", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelayed-stream%2F-%2Fdelayed-stream-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["commander", [\
-      ["npm:2.20.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/commander-npm-2.20.3-d8dcbaa39b-9.zip/node_modules/commander/",\
+      ["npm:2.20.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcommander%2F-%2Fcommander-2.20.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/commander-npm-2.20.3-748766a3aa-9.zip/node_modules/commander/",\
         "packageDependencies": [\
-          ["commander", "npm:2.20.3"]\
+          ["commander", "npm:2.20.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcommander%2F-%2Fcommander-2.20.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["concat-map", [\
-      ["npm:0.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/concat-map-npm-0.0.1-85a921b7ee-9.zip/node_modules/concat-map/",\
+      ["npm:0.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-map%2F-%2Fconcat-map-0.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/concat-map-npm-0.0.1-6378cd8725-9.zip/node_modules/concat-map/",\
         "packageDependencies": [\
-          ["concat-map", "npm:0.0.1"]\
+          ["concat-map", "npm:0.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-map%2F-%2Fconcat-map-0.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["concat-stream", [\
-      ["npm:1.6.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/concat-stream-npm-1.6.2-2bee337060-9.zip/node_modules/concat-stream/",\
+      ["npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-stream%2F-%2Fconcat-stream-1.6.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/concat-stream-npm-1.6.2-bc328884cf-9.zip/node_modules/concat-stream/",\
         "packageDependencies": [\
-          ["concat-stream", "npm:1.6.2"],\
-          ["buffer-from", "npm:1.1.2"],\
-          ["inherits", "npm:2.0.4"],\
-          ["readable-stream", "npm:2.3.8"],\
-          ["typedarray", "npm:0.0.6"]\
+          ["concat-stream", "npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-stream%2F-%2Fconcat-stream-1.6.2.tgz"],\
+          ["buffer-from", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-from%2F-%2Fbuffer-from-1.1.2.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["readable-stream", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-2.3.8.tgz"],\
+          ["typedarray", "npm:0.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftypedarray%2F-%2Ftypedarray-0.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["console-control-strings", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/console-control-strings-npm-1.1.0-e3160e5275-9.zip/node_modules/console-control-strings/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconsole-control-strings%2F-%2Fconsole-control-strings-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/console-control-strings-npm-1.1.0-5d30202861-9.zip/node_modules/console-control-strings/",\
         "packageDependencies": [\
-          ["console-control-strings", "npm:1.1.0"]\
+          ["console-control-strings", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconsole-control-strings%2F-%2Fconsole-control-strings-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["core-util-is", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/core-util-is-npm-1.0.2-9fc2b94dc3-9.zip/node_modules/core-util-is/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/core-util-is-npm-1.0.2-781621e9fb-9.zip/node_modules/core-util-is/",\
         "packageDependencies": [\
-          ["core-util-is", "npm:1.0.2"]\
+          ["core-util-is", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/core-util-is-npm-1.0.3-ca74b76c90-9.zip/node_modules/core-util-is/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/core-util-is-npm-1.0.3-7f2e2f4ea2-9.zip/node_modules/core-util-is/",\
         "packageDependencies": [\
-          ["core-util-is", "npm:1.0.3"]\
+          ["core-util-is", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cosmiconfig", [\
-      ["npm:7.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cosmiconfig-npm-7.0.1-dd19ae2403-9.zip/node_modules/cosmiconfig/",\
+      ["npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcosmiconfig%2F-%2Fcosmiconfig-7.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cosmiconfig-npm-7.0.1-bc6a0cb7b9-9.zip/node_modules/cosmiconfig/",\
         "packageDependencies": [\
-          ["cosmiconfig", "npm:7.0.1"],\
-          ["@types/parse-json", "npm:4.0.0"],\
-          ["import-fresh", "npm:3.3.0"],\
-          ["parse-json", "npm:5.2.0"],\
-          ["path-type", "npm:4.0.0"],\
-          ["yaml", "npm:1.10.2"]\
+          ["cosmiconfig", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcosmiconfig%2F-%2Fcosmiconfig-7.0.1.tgz"],\
+          ["@types/parse-json", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fparse-json%2F-%2Fparse-json-4.0.0.tgz"],\
+          ["import-fresh", "npm:3.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimport-fresh%2F-%2Fimport-fresh-3.3.0.tgz"],\
+          ["parse-json", "npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-json%2F-%2Fparse-json-5.2.0.tgz"],\
+          ["path-type", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-type%2F-%2Fpath-type-4.0.0.tgz"],\
+          ["yaml", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyaml%2F-%2Fyaml-1.10.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["create-hash", [\
-      ["npm:1.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/create-hash-npm-1.2.0-afd048e1ce-9.zip/node_modules/create-hash/",\
+      ["npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/create-hash-npm-1.2.0-f82974335c-9.zip/node_modules/create-hash/",\
         "packageDependencies": [\
-          ["create-hash", "npm:1.2.0"],\
-          ["cipher-base", "npm:1.0.4"],\
-          ["inherits", "npm:2.0.4"],\
-          ["md5.js", "npm:1.3.5"],\
-          ["ripemd160", "npm:2.0.2"],\
-          ["sha.js", "npm:2.4.11"]\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["cipher-base", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcipher-base%2F-%2Fcipher-base-1.0.4.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["md5.js", "npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmd5.js%2F-%2Fmd5.js-1.3.5.tgz"],\
+          ["ripemd160", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fripemd160%2F-%2Fripemd160-2.0.2.tgz"],\
+          ["sha.js", "npm:2.4.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsha.js%2F-%2Fsha.js-2.4.11.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["create-hmac", [\
-      ["npm:1.1.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/create-hmac-npm-1.1.7-b4ef32668a-9.zip/node_modules/create-hmac/",\
+      ["npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hmac%2F-%2Fcreate-hmac-1.1.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/create-hmac-npm-1.1.7-e9d2757c51-9.zip/node_modules/create-hmac/",\
         "packageDependencies": [\
-          ["create-hmac", "npm:1.1.7"],\
-          ["cipher-base", "npm:1.0.4"],\
-          ["create-hash", "npm:1.2.0"],\
-          ["inherits", "npm:2.0.4"],\
-          ["ripemd160", "npm:2.0.2"],\
-          ["safe-buffer", "npm:5.2.1"],\
-          ["sha.js", "npm:2.4.11"]\
+          ["create-hmac", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hmac%2F-%2Fcreate-hmac-1.1.7.tgz"],\
+          ["cipher-base", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcipher-base%2F-%2Fcipher-base-1.0.4.tgz"],\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["ripemd160", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fripemd160%2F-%2Fripemd160-2.0.2.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"],\
+          ["sha.js", "npm:2.4.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsha.js%2F-%2Fsha.js-2.4.11.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["create-require", [\
-      ["npm:1.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/create-require-npm-1.1.1-839884ca2e-9.zip/node_modules/create-require/",\
+      ["npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-require%2F-%2Fcreate-require-1.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/create-require-npm-1.1.1-9dfbc17164-9.zip/node_modules/create-require/",\
         "packageDependencies": [\
-          ["create-require", "npm:1.1.1"]\
+          ["create-require", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-require%2F-%2Fcreate-require-1.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["cross-spawn", [\
-      ["npm:6.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cross-spawn-npm-6.0.5-2deab6c280-9.zip/node_modules/cross-spawn/",\
+      ["npm:6.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-6.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cross-spawn-npm-6.0.5-011d2b0b07-9.zip/node_modules/cross-spawn/",\
         "packageDependencies": [\
-          ["cross-spawn", "npm:6.0.5"],\
-          ["nice-try", "npm:1.0.5"],\
-          ["path-key", "npm:2.0.1"],\
-          ["semver", "npm:5.7.1"],\
-          ["shebang-command", "npm:1.2.0"],\
-          ["which", "npm:1.3.1"]\
+          ["cross-spawn", "npm:6.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-6.0.5.tgz"],\
+          ["nice-try", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnice-try%2F-%2Fnice-try-1.0.5.tgz"],\
+          ["path-key", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-2.0.1.tgz"],\
+          ["semver", "npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-5.7.1.tgz"],\
+          ["shebang-command", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-command%2F-%2Fshebang-command-1.2.0.tgz"],\
+          ["which", "npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-1.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/cross-spawn-npm-7.0.3-e4ff3e65b3-9.zip/node_modules/cross-spawn/",\
+      ["npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-7.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/cross-spawn-npm-7.0.3-d17aa76256-9.zip/node_modules/cross-spawn/",\
         "packageDependencies": [\
-          ["cross-spawn", "npm:7.0.3"],\
-          ["path-key", "npm:3.1.1"],\
-          ["shebang-command", "npm:2.0.0"],\
-          ["which", "npm:2.0.2"]\
+          ["cross-spawn", "npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-7.0.3.tgz"],\
+          ["path-key", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-3.1.1.tgz"],\
+          ["shebang-command", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-command%2F-%2Fshebang-command-2.0.0.tgz"],\
+          ["which", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-2.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["dashdash", [\
-      ["npm:1.14.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/dashdash-npm-1.14.1-be8f10a286-9.zip/node_modules/dashdash/",\
+      ["npm:1.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdashdash%2F-%2Fdashdash-1.14.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/dashdash-npm-1.14.1-bb69e2910e-9.zip/node_modules/dashdash/",\
         "packageDependencies": [\
-          ["dashdash", "npm:1.14.1"],\
-          ["assert-plus", "npm:1.0.0"]\
+          ["dashdash", "npm:1.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdashdash%2F-%2Fdashdash-1.14.1.tgz"],\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["debug", [\
-      ["npm:3.2.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/debug-npm-3.2.7-754e818c7a-9.zip/node_modules/debug/",\
+      ["npm:3.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-3.2.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/debug-npm-3.2.7-117e54d2eb-9.zip/node_modules/debug/",\
         "packageDependencies": [\
-          ["debug", "npm:3.2.7"]\
+          ["debug", "npm:3.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-3.2.7.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["npm:4.3.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/debug-npm-4.3.4-4513954577-9.zip/node_modules/debug/",\
+      ["npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/debug-npm-4.3.4-947c2502ae-9.zip/node_modules/debug/",\
         "packageDependencies": [\
-          ["debug", "npm:4.3.4"]\
+          ["debug", "npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:56255ec7d0321807e5eda5bc4956ffab38d449d38737e32be896bb2cfff99f5f4736abd1f00e659320c4e0e2c28d159d83ddea362034a4c6d81adc4410107e5c#npm:3.2.7", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-1b96217b57/7/root/.yarn/berry/cache/debug-npm-3.2.7-754e818c7a-9.zip/node_modules/debug/",\
+      ["virtual:095f72ae8b18f0f712926363587e5f604c80553b773ebdd8a0a6b7a19b15ada05dc431ad8e3a2dd9838dff891002c5cc668d9bcff3eebed62c1cbeb8920c2c3f#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-90984905f9/7/root/.yarn/berry/cache/debug-npm-4.3.4-947c2502ae-9.zip/node_modules/debug/",\
         "packageDependencies": [\
-          ["debug", "virtual:56255ec7d0321807e5eda5bc4956ffab38d449d38737e32be896bb2cfff99f5f4736abd1f00e659320c4e0e2c28d159d83ddea362034a4c6d81adc4410107e5c#npm:3.2.7"],\
+          ["debug", "virtual:095f72ae8b18f0f712926363587e5f604c80553b773ebdd8a0a6b7a19b15ada05dc431ad8e3a2dd9838dff891002c5cc668d9bcff3eebed62c1cbeb8920c2c3f#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
           ["@types/supports-color", null],\
-          ["ms", "npm:2.1.3"],\
+          ["ms", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.2.tgz"],\
+          ["supports-color", "npm:8.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-8.1.1.tgz"]\
+        ],\
+        "packagePeers": [\
+          "@types/supports-color",\
+          "supports-color"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:14a0185c9a64bf8b92de3b96d09f1304fd0723b27dec4e2cebecad3f62d2aed8195db9a02a211233f0ea6d0210e3f15b4aaa3e8441e3daa4985b25dc5f1ace66#npm:3.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-3.2.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-e666dbc742/7/root/.yarn/berry/cache/debug-npm-3.2.7-117e54d2eb-9.zip/node_modules/debug/",\
+        "packageDependencies": [\
+          ["debug", "virtual:14a0185c9a64bf8b92de3b96d09f1304fd0723b27dec4e2cebecad3f62d2aed8195db9a02a211233f0ea6d0210e3f15b4aaa3e8441e3daa4985b25dc5f1ace66#npm:3.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-3.2.7.tgz"],\
+          ["@types/supports-color", null],\
+          ["ms", "npm:2.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.3.tgz"],\
           ["supports-color", null]\
         ],\
         "packagePeers": [\
@@ -2039,26 +2053,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["virtual:7ad760c0c32abc43e0555f6de5ed4b9b338afc038e373a0cfc0d4015589646ef1368b70a8c4b3a71b6fcd7050ca2d44637614089607a55dc0650a1d8469d52eb#npm:4.3.4", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-a688d0bdd2/7/root/.yarn/berry/cache/debug-npm-4.3.4-4513954577-9.zip/node_modules/debug/",\
+      ["virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-11ac263ec8/7/root/.yarn/berry/cache/debug-npm-4.3.4-947c2502ae-9.zip/node_modules/debug/",\
         "packageDependencies": [\
-          ["debug", "virtual:7ad760c0c32abc43e0555f6de5ed4b9b338afc038e373a0cfc0d4015589646ef1368b70a8c4b3a71b6fcd7050ca2d44637614089607a55dc0650a1d8469d52eb#npm:4.3.4"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
           ["@types/supports-color", null],\
-          ["ms", "npm:2.1.2"],\
-          ["supports-color", "npm:8.1.1"]\
-        ],\
-        "packagePeers": [\
-          "@types/supports-color",\
-          "supports-color"\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-ebc9063b40/7/root/.yarn/berry/cache/debug-npm-4.3.4-4513954577-9.zip/node_modules/debug/",\
-        "packageDependencies": [\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["@types/supports-color", null],\
-          ["ms", "npm:2.1.2"],\
+          ["ms", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.2.tgz"],\
           ["supports-color", null]\
         ],\
         "packagePeers": [\
@@ -2069,559 +2069,559 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["defaults", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/defaults-npm-1.0.4-f3fbaf2528-9.zip/node_modules/defaults/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdefaults%2F-%2Fdefaults-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/defaults-npm-1.0.4-19742d43e5-9.zip/node_modules/defaults/",\
         "packageDependencies": [\
-          ["defaults", "npm:1.0.4"],\
-          ["clone", "npm:1.0.4"]\
+          ["defaults", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdefaults%2F-%2Fdefaults-1.0.4.tgz"],\
+          ["clone", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fclone%2F-%2Fclone-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["delay", [\
-      ["npm:5.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/delay-npm-5.0.0-1d1c758b46-9.zip/node_modules/delay/",\
+      ["npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelay%2F-%2Fdelay-5.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/delay-npm-5.0.0-f741303be1-9.zip/node_modules/delay/",\
         "packageDependencies": [\
-          ["delay", "npm:5.0.0"]\
+          ["delay", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelay%2F-%2Fdelay-5.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["delayed-stream", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/delayed-stream-npm-1.0.0-c5a4c4cc02-9.zip/node_modules/delayed-stream/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelayed-stream%2F-%2Fdelayed-stream-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/delayed-stream-npm-1.0.0-a56844dffd-9.zip/node_modules/delayed-stream/",\
         "packageDependencies": [\
-          ["delayed-stream", "npm:1.0.0"]\
+          ["delayed-stream", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelayed-stream%2F-%2Fdelayed-stream-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["delegates", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/delegates-npm-1.0.0-9b1942d75f-9.zip/node_modules/delegates/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelegates%2F-%2Fdelegates-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/delegates-npm-1.0.0-b943a326cf-9.zip/node_modules/delegates/",\
         "packageDependencies": [\
-          ["delegates", "npm:1.0.0"]\
+          ["delegates", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelegates%2F-%2Fdelegates-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["depd", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/depd-npm-2.0.0-b6c51a4b43-9.zip/node_modules/depd/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdepd%2F-%2Fdepd-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/depd-npm-2.0.0-2de8124ae7-9.zip/node_modules/depd/",\
         "packageDependencies": [\
-          ["depd", "npm:2.0.0"]\
+          ["depd", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdepd%2F-%2Fdepd-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["diff", [\
-      ["npm:4.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/diff-npm-4.0.2-73133c7102-9.zip/node_modules/diff/",\
+      ["npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdiff%2F-%2Fdiff-4.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/diff-npm-4.0.2-807e5c40ab-9.zip/node_modules/diff/",\
         "packageDependencies": [\
-          ["diff", "npm:4.0.2"]\
+          ["diff", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdiff%2F-%2Fdiff-4.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["dir-glob", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/dir-glob-npm-3.0.1-1aea628b1b-9.zip/node_modules/dir-glob/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdir-glob%2F-%2Fdir-glob-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/dir-glob-npm-3.0.1-95632eeef8-9.zip/node_modules/dir-glob/",\
         "packageDependencies": [\
-          ["dir-glob", "npm:3.0.1"],\
-          ["path-type", "npm:4.0.0"]\
+          ["dir-glob", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdir-glob%2F-%2Fdir-glob-3.0.1.tgz"],\
+          ["path-type", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-type%2F-%2Fpath-type-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["dns-over-http-resolver", [\
-      ["npm:1.2.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/dns-over-http-resolver-npm-1.2.3-44ae921843-9.zip/node_modules/dns-over-http-resolver/",\
+      ["npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdns-over-http-resolver%2F-%2Fdns-over-http-resolver-1.2.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/dns-over-http-resolver-npm-1.2.3-bd8e1cfc22-9.zip/node_modules/dns-over-http-resolver/",\
         "packageDependencies": [\
-          ["dns-over-http-resolver", "npm:1.2.3"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["native-fetch", "virtual:44ae921843a40f79e037a9ef63c8661a9d6b4f9abe0d89622479a6ef01fe400749c4dad34c41b6957f7078f0aac238136f2857444ade7cc5c7f096c4f4141f58#npm:3.0.0"],\
-          ["receptacle", "npm:1.3.2"]\
+          ["dns-over-http-resolver", "npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdns-over-http-resolver%2F-%2Fdns-over-http-resolver-1.2.3.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["native-fetch", "virtual:bd8e1cfc225ab3225f6216169ed19842ae34021e0d7061502e8a837b37c9a6fdb48782016cb6a8b11b75afad51961964be5e3b59aac4c1188d2b5153eb3795a0#npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz"],\
+          ["receptacle", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freceptacle%2F-%2Freceptacle-1.3.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["docker-compose", [\
-      ["npm:0.23.19", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/docker-compose-npm-0.23.19-4aa35f017f-9.zip/node_modules/docker-compose/",\
+      ["npm:0.23.19::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdocker-compose%2F-%2Fdocker-compose-0.23.19.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/docker-compose-npm-0.23.19-2b034494d0-9.zip/node_modules/docker-compose/",\
         "packageDependencies": [\
-          ["docker-compose", "npm:0.23.19"],\
-          ["yaml", "npm:1.10.2"]\
+          ["docker-compose", "npm:0.23.19::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdocker-compose%2F-%2Fdocker-compose-0.23.19.tgz"],\
+          ["yaml", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyaml%2F-%2Fyaml-1.10.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["docker-modem", [\
-      ["npm:1.0.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/docker-modem-npm-1.0.9-56255ec7d0-9.zip/node_modules/docker-modem/",\
+      ["npm:1.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdocker-modem%2F-%2Fdocker-modem-1.0.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/docker-modem-npm-1.0.9-14a0185c9a-9.zip/node_modules/docker-modem/",\
         "packageDependencies": [\
-          ["docker-modem", "npm:1.0.9"],\
-          ["JSONStream", "npm:1.3.2"],\
-          ["debug", "virtual:56255ec7d0321807e5eda5bc4956ffab38d449d38737e32be896bb2cfff99f5f4736abd1f00e659320c4e0e2c28d159d83ddea362034a4c6d81adc4410107e5c#npm:3.2.7"],\
-          ["readable-stream", "npm:1.0.34"],\
-          ["split-ca", "npm:1.0.1"]\
+          ["docker-modem", "npm:1.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdocker-modem%2F-%2Fdocker-modem-1.0.9.tgz"],\
+          ["JSONStream", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2FJSONStream%2F-%2FJSONStream-1.3.2.tgz"],\
+          ["debug", "virtual:14a0185c9a64bf8b92de3b96d09f1304fd0723b27dec4e2cebecad3f62d2aed8195db9a02a211233f0ea6d0210e3f15b4aaa3e8441e3daa4985b25dc5f1ace66#npm:3.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-3.2.7.tgz"],\
+          ["readable-stream", "npm:1.0.34::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-1.0.34.tgz"],\
+          ["split-ca", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsplit-ca%2F-%2Fsplit-ca-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["dockerode", [\
-      ["npm:2.5.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/dockerode-npm-2.5.8-5303b25b6a-9.zip/node_modules/dockerode/",\
+      ["npm:2.5.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdockerode%2F-%2Fdockerode-2.5.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/dockerode-npm-2.5.8-850a674424-9.zip/node_modules/dockerode/",\
         "packageDependencies": [\
-          ["dockerode", "npm:2.5.8"],\
-          ["concat-stream", "npm:1.6.2"],\
-          ["docker-modem", "npm:1.0.9"],\
-          ["tar-fs", "npm:1.16.3"]\
+          ["dockerode", "npm:2.5.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdockerode%2F-%2Fdockerode-2.5.8.tgz"],\
+          ["concat-stream", "npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-stream%2F-%2Fconcat-stream-1.6.2.tgz"],\
+          ["docker-modem", "npm:1.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdocker-modem%2F-%2Fdocker-modem-1.0.9.tgz"],\
+          ["tar-fs", "npm:1.16.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar-fs%2F-%2Ftar-fs-1.16.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["eastasianwidth", [\
-      ["npm:0.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/eastasianwidth-npm-0.2.0-c37eb16bd1-9.zip/node_modules/eastasianwidth/",\
+      ["npm:0.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Feastasianwidth%2F-%2Feastasianwidth-0.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/eastasianwidth-npm-0.2.0-fcca053f7e-9.zip/node_modules/eastasianwidth/",\
         "packageDependencies": [\
-          ["eastasianwidth", "npm:0.2.0"]\
+          ["eastasianwidth", "npm:0.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Feastasianwidth%2F-%2Feastasianwidth-0.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ecc-jsbn", [\
-      ["npm:0.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ecc-jsbn-npm-0.1.2-85b7a7be89-9.zip/node_modules/ecc-jsbn/",\
+      ["npm:0.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fecc-jsbn%2F-%2Fecc-jsbn-0.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ecc-jsbn-npm-0.1.2-459b57488a-9.zip/node_modules/ecc-jsbn/",\
         "packageDependencies": [\
-          ["ecc-jsbn", "npm:0.1.2"],\
-          ["jsbn", "npm:0.1.1"],\
-          ["safer-buffer", "npm:2.1.2"]\
+          ["ecc-jsbn", "npm:0.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fecc-jsbn%2F-%2Fecc-jsbn-0.1.2.tgz"],\
+          ["jsbn", "npm:0.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsbn%2F-%2Fjsbn-0.1.1.tgz"],\
+          ["safer-buffer", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafer-buffer%2F-%2Fsafer-buffer-2.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ejs", [\
-      ["npm:3.1.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ejs-npm-3.1.6-03db39fd15-9.zip/node_modules/ejs/",\
+      ["npm:3.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fejs%2F-%2Fejs-3.1.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ejs-npm-3.1.6-77bbf6ba46-9.zip/node_modules/ejs/",\
         "packageDependencies": [\
-          ["ejs", "npm:3.1.6"],\
-          ["jake", "npm:10.8.7"]\
+          ["ejs", "npm:3.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fejs%2F-%2Fejs-3.1.6.tgz"],\
+          ["jake", "npm:10.8.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjake%2F-%2Fjake-10.8.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.1.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ejs-npm-3.1.9-e201b2088c-9.zip/node_modules/ejs/",\
+      ["npm:3.1.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fejs%2F-%2Fejs-3.1.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ejs-npm-3.1.9-4591c091aa-9.zip/node_modules/ejs/",\
         "packageDependencies": [\
-          ["ejs", "npm:3.1.9"],\
-          ["jake", "npm:10.8.7"]\
+          ["ejs", "npm:3.1.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fejs%2F-%2Fejs-3.1.9.tgz"],\
+          ["jake", "npm:10.8.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjake%2F-%2Fjake-10.8.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["electron-fetch", [\
-      ["npm:1.9.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/electron-fetch-npm-1.9.1-8630840ecb-9.zip/node_modules/electron-fetch/",\
+      ["npm:1.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felectron-fetch%2F-%2Felectron-fetch-1.9.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/electron-fetch-npm-1.9.1-307a6f0649-9.zip/node_modules/electron-fetch/",\
         "packageDependencies": [\
-          ["electron-fetch", "npm:1.9.1"],\
-          ["encoding", "npm:0.1.13"]\
+          ["electron-fetch", "npm:1.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felectron-fetch%2F-%2Felectron-fetch-1.9.1.tgz"],\
+          ["encoding", "npm:0.1.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fencoding%2F-%2Fencoding-0.1.13.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["elliptic", [\
-      ["npm:6.5.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/elliptic-npm-6.5.4-0ca8204a86-9.zip/node_modules/elliptic/",\
+      ["npm:6.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felliptic%2F-%2Felliptic-6.5.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/elliptic-npm-6.5.4-62e9297187-9.zip/node_modules/elliptic/",\
         "packageDependencies": [\
-          ["elliptic", "npm:6.5.4"],\
-          ["bn.js", "npm:4.12.0"],\
-          ["brorand", "npm:1.1.0"],\
-          ["hash.js", "npm:1.1.7"],\
-          ["hmac-drbg", "npm:1.0.1"],\
-          ["inherits", "npm:2.0.4"],\
-          ["minimalistic-assert", "npm:1.0.1"],\
-          ["minimalistic-crypto-utils", "npm:1.0.1"]\
+          ["elliptic", "npm:6.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felliptic%2F-%2Felliptic-6.5.4.tgz"],\
+          ["bn.js", "npm:4.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.12.0.tgz"],\
+          ["brorand", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrorand%2F-%2Fbrorand-1.1.0.tgz"],\
+          ["hash.js", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash.js%2F-%2Fhash.js-1.1.7.tgz"],\
+          ["hmac-drbg", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhmac-drbg%2F-%2Fhmac-drbg-1.0.1.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["minimalistic-assert", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-assert%2F-%2Fminimalistic-assert-1.0.1.tgz"],\
+          ["minimalistic-crypto-utils", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-crypto-utils%2F-%2Fminimalistic-crypto-utils-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["emoji-regex", [\
-      ["npm:8.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/emoji-regex-npm-8.0.0-213764015c-9.zip/node_modules/emoji-regex/",\
+      ["npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Femoji-regex%2F-%2Femoji-regex-8.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/emoji-regex-npm-8.0.0-a3a7a92d00-9.zip/node_modules/emoji-regex/",\
         "packageDependencies": [\
-          ["emoji-regex", "npm:8.0.0"]\
+          ["emoji-regex", "npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Femoji-regex%2F-%2Femoji-regex-8.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:9.2.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/emoji-regex-npm-9.2.2-e6fac8d058-9.zip/node_modules/emoji-regex/",\
+      ["npm:9.2.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Femoji-regex%2F-%2Femoji-regex-9.2.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/emoji-regex-npm-9.2.2-8e0772d6dd-9.zip/node_modules/emoji-regex/",\
         "packageDependencies": [\
-          ["emoji-regex", "npm:9.2.2"]\
+          ["emoji-regex", "npm:9.2.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Femoji-regex%2F-%2Femoji-regex-9.2.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["encoding", [\
-      ["npm:0.1.13", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/encoding-npm-0.1.13-82a1837d30-9.zip/node_modules/encoding/",\
+      ["npm:0.1.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fencoding%2F-%2Fencoding-0.1.13.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/encoding-npm-0.1.13-84de74d973-9.zip/node_modules/encoding/",\
         "packageDependencies": [\
-          ["encoding", "npm:0.1.13"],\
-          ["iconv-lite", "npm:0.6.3"]\
+          ["encoding", "npm:0.1.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fencoding%2F-%2Fencoding-0.1.13.tgz"],\
+          ["iconv-lite", "npm:0.6.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ficonv-lite%2F-%2Ficonv-lite-0.6.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["end-of-stream", [\
-      ["npm:1.4.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/end-of-stream-npm-1.4.4-497fc6dee1-9.zip/node_modules/end-of-stream/",\
+      ["npm:1.4.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fend-of-stream%2F-%2Fend-of-stream-1.4.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/end-of-stream-npm-1.4.4-b9f2fc3377-9.zip/node_modules/end-of-stream/",\
         "packageDependencies": [\
-          ["end-of-stream", "npm:1.4.4"],\
-          ["once", "npm:1.4.0"]\
+          ["end-of-stream", "npm:1.4.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fend-of-stream%2F-%2Fend-of-stream-1.4.4.tgz"],\
+          ["once", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonce%2F-%2Fonce-1.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["enquirer", [\
-      ["npm:2.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/enquirer-npm-2.3.6-7899175762-9.zip/node_modules/enquirer/",\
+      ["npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fenquirer%2F-%2Fenquirer-2.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/enquirer-npm-2.3.6-0add0b2af2-9.zip/node_modules/enquirer/",\
         "packageDependencies": [\
-          ["enquirer", "npm:2.3.6"],\
-          ["ansi-colors", "npm:4.1.3"]\
+          ["enquirer", "npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fenquirer%2F-%2Fenquirer-2.3.6.tgz"],\
+          ["ansi-colors", "npm:4.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-colors%2F-%2Fansi-colors-4.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["env-paths", [\
-      ["npm:2.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/env-paths-npm-2.2.1-7c7577428c-9.zip/node_modules/env-paths/",\
+      ["npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fenv-paths%2F-%2Fenv-paths-2.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/env-paths-npm-2.2.1-82ac110ec3-9.zip/node_modules/env-paths/",\
         "packageDependencies": [\
-          ["env-paths", "npm:2.2.1"]\
+          ["env-paths", "npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fenv-paths%2F-%2Fenv-paths-2.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["err-code", [\
-      ["npm:2.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/err-code-npm-2.0.3-082e0ff9a7-9.zip/node_modules/err-code/",\
+      ["npm:2.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-2.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/err-code-npm-2.0.3-904b4d315f-9.zip/node_modules/err-code/",\
         "packageDependencies": [\
-          ["err-code", "npm:2.0.3"]\
+          ["err-code", "npm:2.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-2.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/err-code-npm-3.0.1-3a0dc5fc51-9.zip/node_modules/err-code/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/err-code-npm-3.0.1-ff96f3136d-9.zip/node_modules/err-code/",\
         "packageDependencies": [\
-          ["err-code", "npm:3.0.1"]\
+          ["err-code", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["error-ex", [\
-      ["npm:1.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/error-ex-npm-1.3.2-5654f80c0f-9.zip/node_modules/error-ex/",\
+      ["npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferror-ex%2F-%2Ferror-ex-1.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/error-ex-npm-1.3.2-9d6faf1c52-9.zip/node_modules/error-ex/",\
         "packageDependencies": [\
-          ["error-ex", "npm:1.3.2"],\
-          ["is-arrayish", "npm:0.2.1"]\
+          ["error-ex", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferror-ex%2F-%2Ferror-ex-1.3.2.tgz"],\
+          ["is-arrayish", "npm:0.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-arrayish%2F-%2Fis-arrayish-0.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["es6-promise", [\
-      ["npm:4.2.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/es6-promise-npm-4.2.8-c9f5b11f66-9.zip/node_modules/es6-promise/",\
+      ["npm:4.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fes6-promise%2F-%2Fes6-promise-4.2.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/es6-promise-npm-4.2.8-b997c46ea0-9.zip/node_modules/es6-promise/",\
         "packageDependencies": [\
-          ["es6-promise", "npm:4.2.8"]\
+          ["es6-promise", "npm:4.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fes6-promise%2F-%2Fes6-promise-4.2.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["es6-promisify", [\
-      ["npm:5.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/es6-promisify-npm-5.0.0-3726550934-9.zip/node_modules/es6-promisify/",\
+      ["npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fes6-promisify%2F-%2Fes6-promisify-5.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/es6-promisify-npm-5.0.0-4103ce128e-9.zip/node_modules/es6-promisify/",\
         "packageDependencies": [\
-          ["es6-promisify", "npm:5.0.0"],\
-          ["es6-promise", "npm:4.2.8"]\
+          ["es6-promisify", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fes6-promisify%2F-%2Fes6-promisify-5.0.0.tgz"],\
+          ["es6-promise", "npm:4.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fes6-promise%2F-%2Fes6-promise-4.2.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["escape-string-regexp", [\
-      ["npm:1.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/escape-string-regexp-npm-1.0.5-3284de402f-9.zip/node_modules/escape-string-regexp/",\
+      ["npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fescape-string-regexp%2F-%2Fescape-string-regexp-1.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/escape-string-regexp-npm-1.0.5-4600f74a4c-9.zip/node_modules/escape-string-regexp/",\
         "packageDependencies": [\
-          ["escape-string-regexp", "npm:1.0.5"]\
+          ["escape-string-regexp", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fescape-string-regexp%2F-%2Fescape-string-regexp-1.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/escape-string-regexp-npm-4.0.0-4b531d8d59-9.zip/node_modules/escape-string-regexp/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fescape-string-regexp%2F-%2Fescape-string-regexp-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/escape-string-regexp-npm-4.0.0-6d4b8ef2f6-9.zip/node_modules/escape-string-regexp/",\
         "packageDependencies": [\
-          ["escape-string-regexp", "npm:4.0.0"]\
+          ["escape-string-regexp", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fescape-string-regexp%2F-%2Fescape-string-regexp-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["esprima", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/esprima-npm-4.0.1-1084e98778-9.zip/node_modules/esprima/",\
+      ["npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fesprima%2F-%2Fesprima-4.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/esprima-npm-4.0.1-22290d5cf5-9.zip/node_modules/esprima/",\
         "packageDependencies": [\
-          ["esprima", "npm:4.0.1"]\
+          ["esprima", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fesprima%2F-%2Fesprima-4.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ethereum-bloom-filters", [\
-      ["npm:1.0.10", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethereum-bloom-filters-npm-1.0.10-5a486457fa-9.zip/node_modules/ethereum-bloom-filters/",\
+      ["npm:1.0.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereum-bloom-filters%2F-%2Fethereum-bloom-filters-1.0.10.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethereum-bloom-filters-npm-1.0.10-c28d587fe6-9.zip/node_modules/ethereum-bloom-filters/",\
         "packageDependencies": [\
-          ["ethereum-bloom-filters", "npm:1.0.10"],\
-          ["js-sha3", "npm:0.8.0"]\
+          ["ethereum-bloom-filters", "npm:1.0.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereum-bloom-filters%2F-%2Fethereum-bloom-filters-1.0.10.tgz"],\
+          ["js-sha3", "npm:0.8.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-sha3%2F-%2Fjs-sha3-0.8.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ethereum-cryptography", [\
-      ["npm:0.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethereum-cryptography-npm-0.1.3-ab43fc624b-9.zip/node_modules/ethereum-cryptography/",\
+      ["npm:0.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereum-cryptography%2F-%2Fethereum-cryptography-0.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethereum-cryptography-npm-0.1.3-33d2ce5e10-9.zip/node_modules/ethereum-cryptography/",\
         "packageDependencies": [\
-          ["ethereum-cryptography", "npm:0.1.3"],\
-          ["@types/pbkdf2", "npm:3.1.0"],\
-          ["@types/secp256k1", "npm:4.0.3"],\
-          ["blakejs", "npm:1.2.1"],\
-          ["browserify-aes", "npm:1.2.0"],\
-          ["bs58check", "npm:2.1.2"],\
-          ["create-hash", "npm:1.2.0"],\
-          ["create-hmac", "npm:1.1.7"],\
-          ["hash.js", "npm:1.1.7"],\
-          ["keccak", "npm:3.0.3"],\
-          ["pbkdf2", "npm:3.1.2"],\
-          ["randombytes", "npm:2.1.0"],\
-          ["safe-buffer", "npm:5.2.1"],\
-          ["scrypt-js", "npm:3.0.1"],\
-          ["secp256k1", "npm:4.0.3"],\
-          ["setimmediate", "npm:1.0.5"]\
+          ["ethereum-cryptography", "npm:0.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereum-cryptography%2F-%2Fethereum-cryptography-0.1.3.tgz"],\
+          ["@types/pbkdf2", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fpbkdf2%2F-%2Fpbkdf2-3.1.0.tgz"],\
+          ["@types/secp256k1", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fsecp256k1%2F-%2Fsecp256k1-4.0.3.tgz"],\
+          ["blakejs", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fblakejs%2F-%2Fblakejs-1.2.1.tgz"],\
+          ["browserify-aes", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowserify-aes%2F-%2Fbrowserify-aes-1.2.0.tgz"],\
+          ["bs58check", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbs58check%2F-%2Fbs58check-2.1.2.tgz"],\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["create-hmac", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hmac%2F-%2Fcreate-hmac-1.1.7.tgz"],\
+          ["hash.js", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash.js%2F-%2Fhash.js-1.1.7.tgz"],\
+          ["keccak", "npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fkeccak%2F-%2Fkeccak-3.0.3.tgz"],\
+          ["pbkdf2", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpbkdf2%2F-%2Fpbkdf2-3.1.2.tgz"],\
+          ["randombytes", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frandombytes%2F-%2Frandombytes-2.1.0.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"],\
+          ["scrypt-js", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fscrypt-js%2F-%2Fscrypt-js-3.0.1.tgz"],\
+          ["secp256k1", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsecp256k1%2F-%2Fsecp256k1-4.0.3.tgz"],\
+          ["setimmediate", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsetimmediate%2F-%2Fsetimmediate-1.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ethereumjs-util", [\
-      ["npm:7.1.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethereumjs-util-npm-7.1.5-5bb4d00000-9.zip/node_modules/ethereumjs-util/",\
+      ["npm:7.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereumjs-util%2F-%2Fethereumjs-util-7.1.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethereumjs-util-npm-7.1.5-d734502e2e-9.zip/node_modules/ethereumjs-util/",\
         "packageDependencies": [\
-          ["ethereumjs-util", "npm:7.1.5"],\
-          ["@types/bn.js", "npm:5.1.1"],\
-          ["bn.js", "npm:5.2.1"],\
-          ["create-hash", "npm:1.2.0"],\
-          ["ethereum-cryptography", "npm:0.1.3"],\
-          ["rlp", "npm:2.2.7"]\
+          ["ethereumjs-util", "npm:7.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereumjs-util%2F-%2Fethereumjs-util-7.1.5.tgz"],\
+          ["@types/bn.js", "npm:5.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fbn.js%2F-%2Fbn.js-5.1.1.tgz"],\
+          ["bn.js", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-5.2.1.tgz"],\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["ethereum-cryptography", "npm:0.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereum-cryptography%2F-%2Fethereum-cryptography-0.1.3.tgz"],\
+          ["rlp", "npm:2.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frlp%2F-%2Frlp-2.2.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ethjs-unit", [\
-      ["npm:0.1.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethjs-unit-npm-0.1.6-fb3575f27f-9.zip/node_modules/ethjs-unit/",\
+      ["npm:0.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethjs-unit%2F-%2Fethjs-unit-0.1.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ethjs-unit-npm-0.1.6-78d2ac64b9-9.zip/node_modules/ethjs-unit/",\
         "packageDependencies": [\
-          ["ethjs-unit", "npm:0.1.6"],\
-          ["bn.js", "npm:4.11.6"],\
-          ["number-to-bn", "npm:1.7.0"]\
+          ["ethjs-unit", "npm:0.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethjs-unit%2F-%2Fethjs-unit-0.1.6.tgz"],\
+          ["bn.js", "npm:4.11.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.11.6.tgz"],\
+          ["number-to-bn", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnumber-to-bn%2F-%2Fnumber-to-bn-1.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["event-target-shim", [\
-      ["npm:5.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/event-target-shim-npm-5.0.1-cb48709025-9.zip/node_modules/event-target-shim/",\
+      ["npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fevent-target-shim%2F-%2Fevent-target-shim-5.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/event-target-shim-npm-5.0.1-e51f8baa28-9.zip/node_modules/event-target-shim/",\
         "packageDependencies": [\
-          ["event-target-shim", "npm:5.0.1"]\
+          ["event-target-shim", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fevent-target-shim%2F-%2Fevent-target-shim-5.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["evp_bytestokey", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/evp_bytestokey-npm-1.0.3-4a2644aaea-9.zip/node_modules/evp_bytestokey/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fevp_bytestokey%2F-%2Fevp_bytestokey-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/evp_bytestokey-npm-1.0.3-7744f0bb86-9.zip/node_modules/evp_bytestokey/",\
         "packageDependencies": [\
-          ["evp_bytestokey", "npm:1.0.3"],\
-          ["md5.js", "npm:1.3.5"],\
-          ["node-gyp", "npm:9.4.0"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["evp_bytestokey", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fevp_bytestokey%2F-%2Fevp_bytestokey-1.0.3.tgz"],\
+          ["md5.js", "npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmd5.js%2F-%2Fmd5.js-1.3.5.tgz"],\
+          ["node-gyp", "npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["execa", [\
-      ["npm:5.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/execa-npm-5.1.1-191347acf5-9.zip/node_modules/execa/",\
+      ["npm:5.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fexeca%2F-%2Fexeca-5.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/execa-npm-5.1.1-e429155c92-9.zip/node_modules/execa/",\
         "packageDependencies": [\
-          ["execa", "npm:5.1.1"],\
-          ["cross-spawn", "npm:7.0.3"],\
-          ["get-stream", "npm:6.0.1"],\
-          ["human-signals", "npm:2.1.0"],\
-          ["is-stream", "npm:2.0.1"],\
-          ["merge-stream", "npm:2.0.0"],\
-          ["npm-run-path", "npm:4.0.1"],\
-          ["onetime", "npm:5.1.2"],\
-          ["signal-exit", "npm:3.0.7"],\
-          ["strip-final-newline", "npm:2.0.0"]\
+          ["execa", "npm:5.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fexeca%2F-%2Fexeca-5.1.1.tgz"],\
+          ["cross-spawn", "npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-7.0.3.tgz"],\
+          ["get-stream", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-stream%2F-%2Fget-stream-6.0.1.tgz"],\
+          ["human-signals", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhuman-signals%2F-%2Fhuman-signals-2.1.0.tgz"],\
+          ["is-stream", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-stream%2F-%2Fis-stream-2.0.1.tgz"],\
+          ["merge-stream", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-stream%2F-%2Fmerge-stream-2.0.0.tgz"],\
+          ["npm-run-path", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnpm-run-path%2F-%2Fnpm-run-path-4.0.1.tgz"],\
+          ["onetime", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonetime%2F-%2Fonetime-5.1.2.tgz"],\
+          ["signal-exit", "npm:3.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-3.0.7.tgz"],\
+          ["strip-final-newline", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-final-newline%2F-%2Fstrip-final-newline-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["exponential-backoff", [\
-      ["npm:3.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/exponential-backoff-npm-3.1.1-04df458b30-9.zip/node_modules/exponential-backoff/",\
+      ["npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fexponential-backoff%2F-%2Fexponential-backoff-3.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/exponential-backoff-npm-3.1.1-09d45275c6-9.zip/node_modules/exponential-backoff/",\
         "packageDependencies": [\
-          ["exponential-backoff", "npm:3.1.1"]\
+          ["exponential-backoff", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fexponential-backoff%2F-%2Fexponential-backoff-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["extend", [\
-      ["npm:3.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/extend-npm-3.0.2-e1ca07ac54-9.zip/node_modules/extend/",\
+      ["npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextend%2F-%2Fextend-3.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/extend-npm-3.0.2-5d5e6a44b6-9.zip/node_modules/extend/",\
         "packageDependencies": [\
-          ["extend", "npm:3.0.2"]\
+          ["extend", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextend%2F-%2Fextend-3.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["extsprintf", [\
-      ["npm:1.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/extsprintf-npm-1.3.0-61a92b324c-9.zip/node_modules/extsprintf/",\
+      ["npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextsprintf%2F-%2Fextsprintf-1.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/extsprintf-npm-1.3.0-6f4473d24f-9.zip/node_modules/extsprintf/",\
         "packageDependencies": [\
-          ["extsprintf", "npm:1.3.0"]\
+          ["extsprintf", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextsprintf%2F-%2Fextsprintf-1.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.4.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/extsprintf-npm-1.4.1-140b2f27ab-9.zip/node_modules/extsprintf/",\
+      ["npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextsprintf%2F-%2Fextsprintf-1.4.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/extsprintf-npm-1.4.1-535bb7c290-9.zip/node_modules/extsprintf/",\
         "packageDependencies": [\
-          ["extsprintf", "npm:1.4.1"]\
+          ["extsprintf", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextsprintf%2F-%2Fextsprintf-1.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["eyes", [\
-      ["npm:0.1.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/eyes-npm-0.1.8-4f28ed333f-9.zip/node_modules/eyes/",\
+      ["npm:0.1.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Feyes%2F-%2Feyes-0.1.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/eyes-npm-0.1.8-1e923c28bf-9.zip/node_modules/eyes/",\
         "packageDependencies": [\
-          ["eyes", "npm:0.1.8"]\
+          ["eyes", "npm:0.1.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Feyes%2F-%2Feyes-0.1.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-decode-uri-component", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-decode-uri-component-npm-1.0.1-578ba9fecf-9.zip/node_modules/fast-decode-uri-component/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-decode-uri-component%2F-%2Ffast-decode-uri-component-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-decode-uri-component-npm-1.0.1-682e808565-9.zip/node_modules/fast-decode-uri-component/",\
         "packageDependencies": [\
-          ["fast-decode-uri-component", "npm:1.0.1"]\
+          ["fast-decode-uri-component", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-decode-uri-component%2F-%2Ffast-decode-uri-component-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-deep-equal", [\
-      ["npm:3.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-deep-equal-npm-3.1.3-790edcfcf5-9.zip/node_modules/fast-deep-equal/",\
+      ["npm:3.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-deep-equal%2F-%2Ffast-deep-equal-3.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-deep-equal-npm-3.1.3-8a9d2da905-9.zip/node_modules/fast-deep-equal/",\
         "packageDependencies": [\
-          ["fast-deep-equal", "npm:3.1.3"]\
+          ["fast-deep-equal", "npm:3.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-deep-equal%2F-%2Ffast-deep-equal-3.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-fifo", [\
-      ["npm:1.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-fifo-npm-1.3.0-bd15200000-9.zip/node_modules/fast-fifo/",\
+      ["npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-fifo%2F-%2Ffast-fifo-1.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-fifo-npm-1.3.0-bc568dc27c-9.zip/node_modules/fast-fifo/",\
         "packageDependencies": [\
-          ["fast-fifo", "npm:1.3.0"]\
+          ["fast-fifo", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-fifo%2F-%2Ffast-fifo-1.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-glob", [\
-      ["npm:3.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-glob-npm-3.3.0-e5a806a3c2-9.zip/node_modules/fast-glob/",\
+      ["npm:3.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-glob%2F-%2Ffast-glob-3.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-glob-npm-3.3.0-4a6b74cc4e-9.zip/node_modules/fast-glob/",\
         "packageDependencies": [\
-          ["fast-glob", "npm:3.3.0"],\
-          ["@nodelib/fs.stat", "npm:2.0.5"],\
-          ["@nodelib/fs.walk", "npm:1.2.8"],\
-          ["glob-parent", "npm:5.1.2"],\
-          ["merge2", "npm:1.4.1"],\
-          ["micromatch", "npm:4.0.5"]\
+          ["fast-glob", "npm:3.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-glob%2F-%2Ffast-glob-3.3.0.tgz"],\
+          ["@nodelib/fs.stat", "npm:2.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.stat%2F-%2Ffs.stat-2.0.5.tgz"],\
+          ["@nodelib/fs.walk", "npm:1.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40nodelib%2Ffs.walk%2F-%2Ffs.walk-1.2.8.tgz"],\
+          ["glob-parent", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob-parent%2F-%2Fglob-parent-5.1.2.tgz"],\
+          ["merge2", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge2%2F-%2Fmerge2-1.4.1.tgz"],\
+          ["micromatch", "npm:4.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmicromatch%2F-%2Fmicromatch-4.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-json-stable-stringify", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-json-stable-stringify-npm-2.1.0-02e8905fda-9.zip/node_modules/fast-json-stable-stringify/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-json-stable-stringify%2F-%2Ffast-json-stable-stringify-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-json-stable-stringify-npm-2.1.0-b5483b4a94-9.zip/node_modules/fast-json-stable-stringify/",\
         "packageDependencies": [\
-          ["fast-json-stable-stringify", "npm:2.1.0"]\
+          ["fast-json-stable-stringify", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-json-stable-stringify%2F-%2Ffast-json-stable-stringify-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-querystring", [\
-      ["npm:1.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-querystring-npm-1.1.2-81dfb4019b-9.zip/node_modules/fast-querystring/",\
+      ["npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-querystring%2F-%2Ffast-querystring-1.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-querystring-npm-1.1.2-f46174dd5d-9.zip/node_modules/fast-querystring/",\
         "packageDependencies": [\
-          ["fast-querystring", "npm:1.1.2"],\
-          ["fast-decode-uri-component", "npm:1.0.1"]\
+          ["fast-querystring", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-querystring%2F-%2Ffast-querystring-1.1.2.tgz"],\
+          ["fast-decode-uri-component", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-decode-uri-component%2F-%2Ffast-decode-uri-component-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fast-url-parser", [\
-      ["npm:1.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-url-parser-npm-1.1.3-9be698120a-9.zip/node_modules/fast-url-parser/",\
+      ["npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-url-parser%2F-%2Ffast-url-parser-1.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fast-url-parser-npm-1.1.3-6b99cb2ddf-9.zip/node_modules/fast-url-parser/",\
         "packageDependencies": [\
-          ["fast-url-parser", "npm:1.1.3"],\
-          ["punycode", "npm:1.4.1"]\
+          ["fast-url-parser", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-url-parser%2F-%2Ffast-url-parser-1.1.3.tgz"],\
+          ["punycode", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-1.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fastq", [\
-      ["npm:1.15.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fastq-npm-1.15.0-1013f6514e-9.zip/node_modules/fastq/",\
+      ["npm:1.15.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffastq%2F-%2Ffastq-1.15.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fastq-npm-1.15.0-0ba691ec4f-9.zip/node_modules/fastq/",\
         "packageDependencies": [\
-          ["fastq", "npm:1.15.0"],\
-          ["reusify", "npm:1.0.4"]\
+          ["fastq", "npm:1.15.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffastq%2F-%2Ffastq-1.15.0.tgz"],\
+          ["reusify", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freusify%2F-%2Freusify-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["filelist", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/filelist-npm-1.0.4-3a835ae0a7-9.zip/node_modules/filelist/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffilelist%2F-%2Ffilelist-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/filelist-npm-1.0.4-29a3db2b4a-9.zip/node_modules/filelist/",\
         "packageDependencies": [\
-          ["filelist", "npm:1.0.4"],\
-          ["minimatch", "npm:5.1.6"]\
+          ["filelist", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffilelist%2F-%2Ffilelist-1.0.4.tgz"],\
+          ["minimatch", "npm:5.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-5.1.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fill-range", [\
-      ["npm:7.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fill-range-npm-7.0.1-b8b1817caa-9.zip/node_modules/fill-range/",\
+      ["npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffill-range%2F-%2Ffill-range-7.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fill-range-npm-7.0.1-debb11a549-9.zip/node_modules/fill-range/",\
         "packageDependencies": [\
-          ["fill-range", "npm:7.0.1"],\
-          ["to-regex-range", "npm:5.0.1"]\
+          ["fill-range", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffill-range%2F-%2Ffill-range-7.0.1.tgz"],\
+          ["to-regex-range", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fto-regex-range%2F-%2Fto-regex-range-5.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["follow-redirects", [\
-      ["npm:1.15.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/follow-redirects-npm-1.15.2-1ec1dd82be-9.zip/node_modules/follow-redirects/",\
+      ["npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/follow-redirects-npm-1.15.2-64f626b9a8-9.zip/node_modules/follow-redirects/",\
         "packageDependencies": [\
-          ["follow-redirects", "npm:1.15.2"]\
+          ["follow-redirects", "npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:e278873748b4e9d158db595d2f6cb0351c74052f52b53924aec4d9299e7b6babfb62aead374cf2f6e453bc8bea3b052380dc6b1137a162bbfc102bbb1c8cac42#npm:1.15.2", {\
-        "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-a3e7f4d39a/7/root/.yarn/berry/cache/follow-redirects-npm-1.15.2-1ec1dd82be-9.zip/node_modules/follow-redirects/",\
+      ["virtual:8372b92cd77b7d1697c834376f9641118e36ff6b2e103c31f2c86626e147fc93cf9f1812082e88557a67be5a97e9da726b9990806c6d4e1462859f9be29b5e69#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-865279d369/7/root/.yarn/berry/cache/follow-redirects-npm-1.15.2-64f626b9a8-9.zip/node_modules/follow-redirects/",\
         "packageDependencies": [\
-          ["follow-redirects", "virtual:e278873748b4e9d158db595d2f6cb0351c74052f52b53924aec4d9299e7b6babfb62aead374cf2f6e453bc8bea3b052380dc6b1137a162bbfc102bbb1c8cac42#npm:1.15.2"],\
+          ["follow-redirects", "virtual:8372b92cd77b7d1697c834376f9641118e36ff6b2e103c31f2c86626e147fc93cf9f1812082e88557a67be5a97e9da726b9990806c6d4e1462859f9be29b5e69#npm:1.15.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffollow-redirects%2F-%2Ffollow-redirects-1.15.2.tgz"],\
           ["@types/debug", null],\
           ["debug", null]\
         ],\
@@ -2633,343 +2633,343 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["foreground-child", [\
-      ["npm:3.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/foreground-child-npm-3.1.1-77e78ed774-9.zip/node_modules/foreground-child/",\
+      ["npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fforeground-child%2F-%2Fforeground-child-3.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/foreground-child-npm-3.1.1-ed3f5a7465-9.zip/node_modules/foreground-child/",\
         "packageDependencies": [\
-          ["foreground-child", "npm:3.1.1"],\
-          ["cross-spawn", "npm:7.0.3"],\
-          ["signal-exit", "npm:4.0.2"]\
+          ["foreground-child", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fforeground-child%2F-%2Fforeground-child-3.1.1.tgz"],\
+          ["cross-spawn", "npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-7.0.3.tgz"],\
+          ["signal-exit", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-4.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["forever-agent", [\
-      ["npm:0.6.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/forever-agent-npm-0.6.1-01dae53bf9-9.zip/node_modules/forever-agent/",\
+      ["npm:0.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fforever-agent%2F-%2Fforever-agent-0.6.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/forever-agent-npm-0.6.1-921756648c-9.zip/node_modules/forever-agent/",\
         "packageDependencies": [\
-          ["forever-agent", "npm:0.6.1"]\
+          ["forever-agent", "npm:0.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fforever-agent%2F-%2Fforever-agent-0.6.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["form-data", [\
-      ["npm:2.3.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/form-data-npm-2.3.3-c016cc11c0-9.zip/node_modules/form-data/",\
+      ["npm:2.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-2.3.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/form-data-npm-2.3.3-b3b4381ce3-9.zip/node_modules/form-data/",\
         "packageDependencies": [\
-          ["form-data", "npm:2.3.3"],\
-          ["asynckit", "npm:0.4.0"],\
-          ["combined-stream", "npm:1.0.8"],\
-          ["mime-types", "npm:2.1.35"]\
+          ["form-data", "npm:2.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-2.3.3.tgz"],\
+          ["asynckit", "npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasynckit%2F-%2Fasynckit-0.4.0.tgz"],\
+          ["combined-stream", "npm:1.0.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcombined-stream%2F-%2Fcombined-stream-1.0.8.tgz"],\
+          ["mime-types", "npm:2.1.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-types%2F-%2Fmime-types-2.1.35.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.5.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/form-data-npm-2.5.1-47256351b5-9.zip/node_modules/form-data/",\
+      ["npm:2.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-2.5.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/form-data-npm-2.5.1-98b9a1cadf-9.zip/node_modules/form-data/",\
         "packageDependencies": [\
-          ["form-data", "npm:2.5.1"],\
-          ["asynckit", "npm:0.4.0"],\
-          ["combined-stream", "npm:1.0.8"],\
-          ["mime-types", "npm:2.1.35"]\
+          ["form-data", "npm:2.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-2.5.1.tgz"],\
+          ["asynckit", "npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasynckit%2F-%2Fasynckit-0.4.0.tgz"],\
+          ["combined-stream", "npm:1.0.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcombined-stream%2F-%2Fcombined-stream-1.0.8.tgz"],\
+          ["mime-types", "npm:2.1.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-types%2F-%2Fmime-types-2.1.35.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fs-constants", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-constants-npm-1.0.0-59576b2177-9.zip/node_modules/fs-constants/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-constants%2F-%2Ffs-constants-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-constants-npm-1.0.0-716205a584-9.zip/node_modules/fs-constants/",\
         "packageDependencies": [\
-          ["fs-constants", "npm:1.0.0"]\
+          ["fs-constants", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-constants%2F-%2Ffs-constants-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fs-extra", [\
-      ["npm:9.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-extra-npm-9.1.0-983c2ddb4c-9.zip/node_modules/fs-extra/",\
+      ["npm:9.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-extra%2F-%2Ffs-extra-9.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-extra-npm-9.1.0-75bcbac911-9.zip/node_modules/fs-extra/",\
         "packageDependencies": [\
-          ["fs-extra", "npm:9.1.0"],\
-          ["at-least-node", "npm:1.0.0"],\
-          ["graceful-fs", "npm:4.2.11"],\
-          ["jsonfile", "npm:6.1.0"],\
-          ["universalify", "npm:2.0.0"]\
+          ["fs-extra", "npm:9.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-extra%2F-%2Ffs-extra-9.1.0.tgz"],\
+          ["at-least-node", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fat-least-node%2F-%2Fat-least-node-1.0.0.tgz"],\
+          ["graceful-fs", "npm:4.2.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraceful-fs%2F-%2Fgraceful-fs-4.2.11.tgz"],\
+          ["jsonfile", "npm:6.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonfile%2F-%2Fjsonfile-6.1.0.tgz"],\
+          ["universalify", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funiversalify%2F-%2Funiversalify-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fs-jetpack", [\
-      ["npm:4.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-jetpack-npm-4.3.1-db8c1c3372-9.zip/node_modules/fs-jetpack/",\
+      ["npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-jetpack%2F-%2Ffs-jetpack-4.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-jetpack-npm-4.3.1-36b8aa6c0b-9.zip/node_modules/fs-jetpack/",\
         "packageDependencies": [\
-          ["fs-jetpack", "npm:4.3.1"],\
-          ["minimatch", "npm:3.1.2"],\
-          ["rimraf", "npm:2.7.1"]\
+          ["fs-jetpack", "npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-jetpack%2F-%2Ffs-jetpack-4.3.1.tgz"],\
+          ["minimatch", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-3.1.2.tgz"],\
+          ["rimraf", "npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-2.7.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fs-minipass", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-minipass-npm-2.1.0-501ef87306-9.zip/node_modules/fs-minipass/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-minipass%2F-%2Ffs-minipass-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-minipass-npm-2.1.0-998dc03419-9.zip/node_modules/fs-minipass/",\
         "packageDependencies": [\
-          ["fs-minipass", "npm:2.1.0"],\
-          ["minipass", "npm:3.3.6"]\
+          ["fs-minipass", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-minipass%2F-%2Ffs-minipass-2.1.0.tgz"],\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-minipass-npm-3.0.2-a27ef235f5-9.zip/node_modules/fs-minipass/",\
+      ["npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-minipass%2F-%2Ffs-minipass-3.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs-minipass-npm-3.0.2-1b0c8b072c-9.zip/node_modules/fs-minipass/",\
         "packageDependencies": [\
-          ["fs-minipass", "npm:3.0.2"],\
-          ["minipass", "npm:5.0.0"]\
+          ["fs-minipass", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-minipass%2F-%2Ffs-minipass-3.0.2.tgz"],\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fs.realpath", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs.realpath-npm-1.0.0-c8f05d8126-9.zip/node_modules/fs.realpath/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs.realpath%2F-%2Ffs.realpath-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/fs.realpath-npm-1.0.0-284daaf625-9.zip/node_modules/fs.realpath/",\
         "packageDependencies": [\
-          ["fs.realpath", "npm:1.0.0"]\
+          ["fs.realpath", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs.realpath%2F-%2Ffs.realpath-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["fsevents", [\
-      ["patch:fsevents@npm%3A2.3.2#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1", {\
-        "packageLocation": "./.yarn/unplugged/fsevents-patch-19706e7e35/node_modules/fsevents/",\
+      ["patch:fsevents@npm%3A2.3.2%3A%3A__archiveUrl=https%253A%252F%252Fregistry.npmmirror.com%252Ffsevents%252F-%252Ffsevents-2.3.2.tgz#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1", {\
+        "packageLocation": "./.yarn/unplugged/fsevents-patch-87f1bad2ff/node_modules/fsevents/",\
         "packageDependencies": [\
-          ["fsevents", "patch:fsevents@npm%3A2.3.2#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
-          ["node-gyp", "npm:9.4.0"]\
+          ["fsevents", "patch:fsevents@npm%3A2.3.2%3A%3A__archiveUrl=https%253A%252F%252Fregistry.npmmirror.com%252Ffsevents%252F-%252Ffsevents-2.3.2.tgz#optional!builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"],\
+          ["node-gyp", "npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["function-bind", [\
-      ["npm:1.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/function-bind-npm-1.1.1-b56b322ae9-9.zip/node_modules/function-bind/",\
+      ["npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffunction-bind%2F-%2Ffunction-bind-1.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/function-bind-npm-1.1.1-b12b4c6b46-9.zip/node_modules/function-bind/",\
         "packageDependencies": [\
-          ["function-bind", "npm:1.1.1"]\
+          ["function-bind", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffunction-bind%2F-%2Ffunction-bind-1.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["gauge", [\
-      ["npm:4.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/gauge-npm-4.0.4-8f878385e9-9.zip/node_modules/gauge/",\
+      ["npm:4.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgauge%2F-%2Fgauge-4.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/gauge-npm-4.0.4-8c9409b69b-9.zip/node_modules/gauge/",\
         "packageDependencies": [\
-          ["gauge", "npm:4.0.4"],\
-          ["aproba", "npm:2.0.0"],\
-          ["color-support", "npm:1.1.3"],\
-          ["console-control-strings", "npm:1.1.0"],\
-          ["has-unicode", "npm:2.0.1"],\
-          ["signal-exit", "npm:3.0.7"],\
-          ["string-width", "npm:4.2.3"],\
-          ["strip-ansi", "npm:6.0.1"],\
-          ["wide-align", "npm:1.1.5"]\
+          ["gauge", "npm:4.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgauge%2F-%2Fgauge-4.0.4.tgz"],\
+          ["aproba", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faproba%2F-%2Faproba-2.0.0.tgz"],\
+          ["color-support", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolor-support%2F-%2Fcolor-support-1.1.3.tgz"],\
+          ["console-control-strings", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconsole-control-strings%2F-%2Fconsole-control-strings-1.1.0.tgz"],\
+          ["has-unicode", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-unicode%2F-%2Fhas-unicode-2.0.1.tgz"],\
+          ["signal-exit", "npm:3.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-3.0.7.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"],\
+          ["strip-ansi", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz"],\
+          ["wide-align", "npm:1.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwide-align%2F-%2Fwide-align-1.1.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["get-intrinsic", [\
-      ["npm:1.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-intrinsic-npm-1.2.1-ae857fd610-9.zip/node_modules/get-intrinsic/",\
+      ["npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-intrinsic%2F-%2Fget-intrinsic-1.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-intrinsic-npm-1.2.1-091b529469-9.zip/node_modules/get-intrinsic/",\
         "packageDependencies": [\
-          ["get-intrinsic", "npm:1.2.1"],\
-          ["function-bind", "npm:1.1.1"],\
-          ["has", "npm:1.0.3"],\
-          ["has-proto", "npm:1.0.1"],\
-          ["has-symbols", "npm:1.0.3"]\
+          ["get-intrinsic", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-intrinsic%2F-%2Fget-intrinsic-1.2.1.tgz"],\
+          ["function-bind", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffunction-bind%2F-%2Ffunction-bind-1.1.1.tgz"],\
+          ["has", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas%2F-%2Fhas-1.0.3.tgz"],\
+          ["has-proto", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-proto%2F-%2Fhas-proto-1.0.1.tgz"],\
+          ["has-symbols", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-symbols%2F-%2Fhas-symbols-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["get-iterator", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-iterator-npm-1.0.2-5e7d7f186f-9.zip/node_modules/get-iterator/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-iterator%2F-%2Fget-iterator-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-iterator-npm-1.0.2-8d3aee1d54-9.zip/node_modules/get-iterator/",\
         "packageDependencies": [\
-          ["get-iterator", "npm:1.0.2"]\
+          ["get-iterator", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-iterator%2F-%2Fget-iterator-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["get-package-type", [\
-      ["npm:0.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-package-type-npm-0.1.0-6c70cdc8ab-9.zip/node_modules/get-package-type/",\
+      ["npm:0.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-package-type%2F-%2Fget-package-type-0.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-package-type-npm-0.1.0-8d081e88ea-9.zip/node_modules/get-package-type/",\
         "packageDependencies": [\
-          ["get-package-type", "npm:0.1.0"]\
+          ["get-package-type", "npm:0.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-package-type%2F-%2Fget-package-type-0.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["get-port", [\
-      ["npm:3.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-port-npm-3.2.0-4093f8843e-9.zip/node_modules/get-port/",\
+      ["npm:3.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-port%2F-%2Fget-port-3.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-port-npm-3.2.0-ac57b58e18-9.zip/node_modules/get-port/",\
         "packageDependencies": [\
-          ["get-port", "npm:3.2.0"]\
+          ["get-port", "npm:3.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-port%2F-%2Fget-port-3.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["get-stream", [\
-      ["npm:6.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-stream-npm-6.0.1-83e51a4642-9.zip/node_modules/get-stream/",\
+      ["npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-stream%2F-%2Fget-stream-6.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/get-stream-npm-6.0.1-0b82057aaf-9.zip/node_modules/get-stream/",\
         "packageDependencies": [\
-          ["get-stream", "npm:6.0.1"]\
+          ["get-stream", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-stream%2F-%2Fget-stream-6.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["getpass", [\
-      ["npm:0.1.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/getpass-npm-0.1.7-519164a3be-9.zip/node_modules/getpass/",\
+      ["npm:0.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgetpass%2F-%2Fgetpass-0.1.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/getpass-npm-0.1.7-b009720ced-9.zip/node_modules/getpass/",\
         "packageDependencies": [\
-          ["getpass", "npm:0.1.7"],\
-          ["assert-plus", "npm:1.0.0"]\
+          ["getpass", "npm:0.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgetpass%2F-%2Fgetpass-0.1.7.tgz"],\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["glob", [\
-      ["npm:10.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-npm-10.3.1-100b936079-9.zip/node_modules/glob/",\
+      ["npm:10.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-10.3.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-npm-10.3.3-382e8a6ad4-9.zip/node_modules/glob/",\
         "packageDependencies": [\
-          ["glob", "npm:10.3.1"],\
-          ["foreground-child", "npm:3.1.1"],\
-          ["jackspeak", "npm:2.2.1"],\
-          ["minimatch", "npm:9.0.3"],\
-          ["minipass", "npm:6.0.2"],\
-          ["path-scurry", "npm:1.10.0"]\
+          ["glob", "npm:10.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-10.3.3.tgz"],\
+          ["foreground-child", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fforeground-child%2F-%2Fforeground-child-3.1.1.tgz"],\
+          ["jackspeak", "npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjackspeak%2F-%2Fjackspeak-2.2.1.tgz"],\
+          ["minimatch", "npm:9.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-9.0.3.tgz"],\
+          ["minipass", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-7.0.1.tgz"],\
+          ["path-scurry", "npm:1.10.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-scurry%2F-%2Fpath-scurry-1.10.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.2.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-npm-7.2.3-2d866d17a5-9.zip/node_modules/glob/",\
+      ["npm:7.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-7.2.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-npm-7.2.3-9f0ad80c04-9.zip/node_modules/glob/",\
         "packageDependencies": [\
-          ["glob", "npm:7.2.3"],\
-          ["fs.realpath", "npm:1.0.0"],\
-          ["inflight", "npm:1.0.6"],\
-          ["inherits", "npm:2.0.4"],\
-          ["minimatch", "npm:3.1.2"],\
-          ["once", "npm:1.4.0"],\
-          ["path-is-absolute", "npm:1.0.1"]\
+          ["glob", "npm:7.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-7.2.3.tgz"],\
+          ["fs.realpath", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs.realpath%2F-%2Ffs.realpath-1.0.0.tgz"],\
+          ["inflight", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finflight%2F-%2Finflight-1.0.6.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["minimatch", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-3.1.2.tgz"],\
+          ["once", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonce%2F-%2Fonce-1.4.0.tgz"],\
+          ["path-is-absolute", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-is-absolute%2F-%2Fpath-is-absolute-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:9.3.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-npm-9.3.5-2f602083f0-9.zip/node_modules/glob/",\
+      ["npm:9.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-9.3.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-npm-9.3.5-e32b05b380-9.zip/node_modules/glob/",\
         "packageDependencies": [\
-          ["glob", "npm:9.3.5"],\
-          ["fs.realpath", "npm:1.0.0"],\
-          ["minimatch", "npm:8.0.4"],\
-          ["minipass", "npm:4.2.8"],\
-          ["path-scurry", "npm:1.10.0"]\
+          ["glob", "npm:9.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-9.3.5.tgz"],\
+          ["fs.realpath", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs.realpath%2F-%2Ffs.realpath-1.0.0.tgz"],\
+          ["minimatch", "npm:8.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-8.0.4.tgz"],\
+          ["minipass", "npm:4.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-4.2.8.tgz"],\
+          ["path-scurry", "npm:1.10.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-scurry%2F-%2Fpath-scurry-1.10.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["glob-parent", [\
-      ["npm:5.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-parent-npm-5.1.2-021ab32634-9.zip/node_modules/glob-parent/",\
+      ["npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob-parent%2F-%2Fglob-parent-5.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/glob-parent-npm-5.1.2-d1e1e3b33b-9.zip/node_modules/glob-parent/",\
         "packageDependencies": [\
-          ["glob-parent", "npm:5.1.2"],\
-          ["is-glob", "npm:4.0.3"]\
+          ["glob-parent", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob-parent%2F-%2Fglob-parent-5.1.2.tgz"],\
+          ["is-glob", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-glob%2F-%2Fis-glob-4.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["globby", [\
-      ["npm:11.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/globby-npm-11.1.0-bdcdf20c71-9.zip/node_modules/globby/",\
+      ["npm:11.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglobby%2F-%2Fglobby-11.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/globby-npm-11.1.0-4a101598ed-9.zip/node_modules/globby/",\
         "packageDependencies": [\
-          ["globby", "npm:11.1.0"],\
-          ["array-union", "npm:2.1.0"],\
-          ["dir-glob", "npm:3.0.1"],\
-          ["fast-glob", "npm:3.3.0"],\
-          ["ignore", "npm:5.2.4"],\
-          ["merge2", "npm:1.4.1"],\
-          ["slash", "npm:3.0.0"]\
+          ["globby", "npm:11.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglobby%2F-%2Fglobby-11.1.0.tgz"],\
+          ["array-union", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Farray-union%2F-%2Farray-union-2.1.0.tgz"],\
+          ["dir-glob", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdir-glob%2F-%2Fdir-glob-3.0.1.tgz"],\
+          ["fast-glob", "npm:3.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-glob%2F-%2Ffast-glob-3.3.0.tgz"],\
+          ["ignore", "npm:5.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fignore%2F-%2Fignore-5.2.4.tgz"],\
+          ["merge2", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge2%2F-%2Fmerge2-1.4.1.tgz"],\
+          ["slash", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fslash%2F-%2Fslash-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["gluegun", [\
-      ["npm:5.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/gluegun-npm-5.1.2-eac6d57f1e-9.zip/node_modules/gluegun/",\
+      ["npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgluegun%2F-%2Fgluegun-5.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/gluegun-npm-5.1.2-cc9a28a592-9.zip/node_modules/gluegun/",\
         "packageDependencies": [\
-          ["gluegun", "npm:5.1.2"],\
-          ["apisauce", "npm:2.1.6"],\
-          ["app-module-path", "npm:2.2.0"],\
-          ["cli-table3", "npm:0.6.0"],\
-          ["colors", "npm:1.4.0"],\
-          ["cosmiconfig", "npm:7.0.1"],\
-          ["cross-spawn", "npm:7.0.3"],\
-          ["ejs", "npm:3.1.6"],\
-          ["enquirer", "npm:2.3.6"],\
-          ["execa", "npm:5.1.1"],\
-          ["fs-jetpack", "npm:4.3.1"],\
-          ["lodash.camelcase", "npm:4.3.0"],\
-          ["lodash.kebabcase", "npm:4.1.1"],\
-          ["lodash.lowercase", "npm:4.3.0"],\
-          ["lodash.lowerfirst", "npm:4.3.1"],\
-          ["lodash.pad", "npm:4.5.1"],\
-          ["lodash.padend", "npm:4.6.1"],\
-          ["lodash.padstart", "npm:4.6.1"],\
-          ["lodash.repeat", "npm:4.1.0"],\
-          ["lodash.snakecase", "npm:4.1.1"],\
-          ["lodash.startcase", "npm:4.4.0"],\
-          ["lodash.trim", "npm:4.5.1"],\
-          ["lodash.trimend", "npm:4.5.1"],\
-          ["lodash.trimstart", "npm:4.5.1"],\
-          ["lodash.uppercase", "npm:4.3.0"],\
-          ["lodash.upperfirst", "npm:4.3.1"],\
-          ["ora", "npm:4.0.2"],\
-          ["pluralize", "npm:8.0.0"],\
-          ["semver", "npm:7.3.5"],\
-          ["which", "npm:2.0.2"],\
-          ["yargs-parser", "npm:21.1.1"]\
+          ["gluegun", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgluegun%2F-%2Fgluegun-5.1.2.tgz"],\
+          ["apisauce", "npm:2.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fapisauce%2F-%2Fapisauce-2.1.6.tgz"],\
+          ["app-module-path", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fapp-module-path%2F-%2Fapp-module-path-2.2.0.tgz"],\
+          ["cli-table3", "npm:0.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-table3%2F-%2Fcli-table3-0.6.0.tgz"],\
+          ["colors", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcolors%2F-%2Fcolors-1.4.0.tgz"],\
+          ["cosmiconfig", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcosmiconfig%2F-%2Fcosmiconfig-7.0.1.tgz"],\
+          ["cross-spawn", "npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-7.0.3.tgz"],\
+          ["ejs", "npm:3.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fejs%2F-%2Fejs-3.1.6.tgz"],\
+          ["enquirer", "npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fenquirer%2F-%2Fenquirer-2.3.6.tgz"],\
+          ["execa", "npm:5.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fexeca%2F-%2Fexeca-5.1.1.tgz"],\
+          ["fs-jetpack", "npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-jetpack%2F-%2Ffs-jetpack-4.3.1.tgz"],\
+          ["lodash.camelcase", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.camelcase%2F-%2Flodash.camelcase-4.3.0.tgz"],\
+          ["lodash.kebabcase", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.kebabcase%2F-%2Flodash.kebabcase-4.1.1.tgz"],\
+          ["lodash.lowercase", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.lowercase%2F-%2Flodash.lowercase-4.3.0.tgz"],\
+          ["lodash.lowerfirst", "npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.lowerfirst%2F-%2Flodash.lowerfirst-4.3.1.tgz"],\
+          ["lodash.pad", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.pad%2F-%2Flodash.pad-4.5.1.tgz"],\
+          ["lodash.padend", "npm:4.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.padend%2F-%2Flodash.padend-4.6.1.tgz"],\
+          ["lodash.padstart", "npm:4.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.padstart%2F-%2Flodash.padstart-4.6.1.tgz"],\
+          ["lodash.repeat", "npm:4.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.repeat%2F-%2Flodash.repeat-4.1.0.tgz"],\
+          ["lodash.snakecase", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.snakecase%2F-%2Flodash.snakecase-4.1.1.tgz"],\
+          ["lodash.startcase", "npm:4.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.startcase%2F-%2Flodash.startcase-4.4.0.tgz"],\
+          ["lodash.trim", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trim%2F-%2Flodash.trim-4.5.1.tgz"],\
+          ["lodash.trimend", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trimend%2F-%2Flodash.trimend-4.5.1.tgz"],\
+          ["lodash.trimstart", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trimstart%2F-%2Flodash.trimstart-4.5.1.tgz"],\
+          ["lodash.uppercase", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.uppercase%2F-%2Flodash.uppercase-4.3.0.tgz"],\
+          ["lodash.upperfirst", "npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.upperfirst%2F-%2Flodash.upperfirst-4.3.1.tgz"],\
+          ["ora", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fora%2F-%2Fora-4.0.2.tgz"],\
+          ["pluralize", "npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpluralize%2F-%2Fpluralize-8.0.0.tgz"],\
+          ["semver", "npm:7.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.5.tgz"],\
+          ["which", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-2.0.2.tgz"],\
+          ["yargs-parser", "npm:21.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyargs-parser%2F-%2Fyargs-parser-21.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["graceful-fs", [\
-      ["npm:4.2.11", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/graceful-fs-npm-4.2.11-24bb648a68-9.zip/node_modules/graceful-fs/",\
+      ["npm:4.2.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraceful-fs%2F-%2Fgraceful-fs-4.2.11.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/graceful-fs-npm-4.2.11-086b8ad66c-9.zip/node_modules/graceful-fs/",\
         "packageDependencies": [\
-          ["graceful-fs", "npm:4.2.11"]\
+          ["graceful-fs", "npm:4.2.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraceful-fs%2F-%2Fgraceful-fs-4.2.11.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["graphql", [\
-      ["npm:15.5.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/graphql-npm-15.5.0-65986c56be-9.zip/node_modules/graphql/",\
+      ["npm:15.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-15.5.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/graphql-npm-15.5.0-623ae63193-9.zip/node_modules/graphql/",\
         "packageDependencies": [\
-          ["graphql", "npm:15.5.0"]\
+          ["graphql", "npm:15.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-15.5.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:16.7.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/graphql-npm-16.7.1-0f9416280c-9.zip/node_modules/graphql/",\
+      ["npm:16.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-16.7.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/graphql-npm-16.7.1-e2a1d3c96e-9.zip/node_modules/graphql/",\
         "packageDependencies": [\
-          ["graphql", "npm:16.7.1"]\
+          ["graphql", "npm:16.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-16.7.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["graphql-import-node", [\
-      ["npm:0.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/graphql-import-node-npm-0.0.5-b1cf351f68-9.zip/node_modules/graphql-import-node/",\
+      ["npm:0.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql-import-node%2F-%2Fgraphql-import-node-0.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/graphql-import-node-npm-0.0.5-ec68a5740d-9.zip/node_modules/graphql-import-node/",\
         "packageDependencies": [\
-          ["graphql-import-node", "npm:0.0.5"]\
+          ["graphql-import-node", "npm:0.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql-import-node%2F-%2Fgraphql-import-node-0.0.5.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:eb69d14a1a4d45e3540bbe8fffc370854025924c348c3a845d2e5055bee68f768d75946ff587525345f3aed6360b88fb75d578c754c547b161930a2122c30b1d#npm:0.0.5", {\
-        "packageLocation": "./.yarn/__virtual__/graphql-import-node-virtual-194de7742e/7/root/.yarn/berry/cache/graphql-import-node-npm-0.0.5-b1cf351f68-9.zip/node_modules/graphql-import-node/",\
+      ["virtual:77a1004fa7bf5be7160859b83b400910f756312aeae71ce511f85854253ee6905247123e8867c4b837cbb7b9f68f2c08d33bcb0bd5c62c77692d3980ab9faba2#npm:0.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql-import-node%2F-%2Fgraphql-import-node-0.0.5.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/graphql-import-node-virtual-a143c22040/7/root/.yarn/berry/cache/graphql-import-node-npm-0.0.5-ec68a5740d-9.zip/node_modules/graphql-import-node/",\
         "packageDependencies": [\
-          ["graphql-import-node", "virtual:eb69d14a1a4d45e3540bbe8fffc370854025924c348c3a845d2e5055bee68f768d75946ff587525345f3aed6360b88fb75d578c754c547b161930a2122c30b1d#npm:0.0.5"],\
+          ["graphql-import-node", "virtual:77a1004fa7bf5be7160859b83b400910f756312aeae71ce511f85854253ee6905247123e8867c4b837cbb7b9f68f2c08d33bcb0bd5c62c77692d3980ab9faba2#npm:0.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql-import-node%2F-%2Fgraphql-import-node-0.0.5.tgz"],\
           ["@types/graphql", null],\
-          ["graphql", "npm:16.7.1"]\
+          ["graphql", "npm:16.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraphql%2F-%2Fgraphql-16.7.1.tgz"]\
         ],\
         "packagePeers": [\
           "@types/graphql",\
@@ -2979,634 +2979,634 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["har-schema", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/har-schema-npm-2.0.0-3a318c0ca5-9.zip/node_modules/har-schema/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhar-schema%2F-%2Fhar-schema-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/har-schema-npm-2.0.0-f5aae14fe6-9.zip/node_modules/har-schema/",\
         "packageDependencies": [\
-          ["har-schema", "npm:2.0.0"]\
+          ["har-schema", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhar-schema%2F-%2Fhar-schema-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["har-validator", [\
-      ["npm:5.1.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/har-validator-npm-5.1.5-bd9ac162f5-9.zip/node_modules/har-validator/",\
+      ["npm:5.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhar-validator%2F-%2Fhar-validator-5.1.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/har-validator-npm-5.1.5-321911ebf4-9.zip/node_modules/har-validator/",\
         "packageDependencies": [\
-          ["har-validator", "npm:5.1.5"],\
-          ["ajv", "npm:6.12.6"],\
-          ["har-schema", "npm:2.0.0"]\
+          ["har-validator", "npm:5.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhar-validator%2F-%2Fhar-validator-5.1.5.tgz"],\
+          ["ajv", "npm:6.12.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fajv%2F-%2Fajv-6.12.6.tgz"],\
+          ["har-schema", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhar-schema%2F-%2Fhar-schema-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["has", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-npm-1.0.3-b7f00631c1-9.zip/node_modules/has/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas%2F-%2Fhas-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-npm-1.0.3-33d3d56d35-9.zip/node_modules/has/",\
         "packageDependencies": [\
-          ["has", "npm:1.0.3"],\
-          ["function-bind", "npm:1.1.1"]\
+          ["has", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas%2F-%2Fhas-1.0.3.tgz"],\
+          ["function-bind", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffunction-bind%2F-%2Ffunction-bind-1.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["has-flag", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-flag-npm-3.0.0-16ac11fe05-9.zip/node_modules/has-flag/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-flag-npm-3.0.0-9ab67bcfcb-9.zip/node_modules/has-flag/",\
         "packageDependencies": [\
-          ["has-flag", "npm:3.0.0"]\
+          ["has-flag", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-flag-npm-4.0.0-32af9f0536-9.zip/node_modules/has-flag/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-flag-npm-4.0.0-96def58930-9.zip/node_modules/has-flag/",\
         "packageDependencies": [\
-          ["has-flag", "npm:4.0.0"]\
+          ["has-flag", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["has-proto", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-proto-npm-1.0.1-631ea9d820-9.zip/node_modules/has-proto/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-proto%2F-%2Fhas-proto-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-proto-npm-1.0.1-be00be7771-9.zip/node_modules/has-proto/",\
         "packageDependencies": [\
-          ["has-proto", "npm:1.0.1"]\
+          ["has-proto", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-proto%2F-%2Fhas-proto-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["has-symbols", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-symbols-npm-1.0.3-1986bff2c4-9.zip/node_modules/has-symbols/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-symbols%2F-%2Fhas-symbols-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-symbols-npm-1.0.3-16835fdeae-9.zip/node_modules/has-symbols/",\
         "packageDependencies": [\
-          ["has-symbols", "npm:1.0.3"]\
+          ["has-symbols", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-symbols%2F-%2Fhas-symbols-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["has-unicode", [\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-unicode-npm-2.0.1-893adb4747-9.zip/node_modules/has-unicode/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-unicode%2F-%2Fhas-unicode-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/has-unicode-npm-2.0.1-7ec5541eba-9.zip/node_modules/has-unicode/",\
         "packageDependencies": [\
-          ["has-unicode", "npm:2.0.1"]\
+          ["has-unicode", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-unicode%2F-%2Fhas-unicode-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["hash-base", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/hash-base-npm-3.1.0-26fc5711dd-9.zip/node_modules/hash-base/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash-base%2F-%2Fhash-base-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/hash-base-npm-3.1.0-ff468307ec-9.zip/node_modules/hash-base/",\
         "packageDependencies": [\
-          ["hash-base", "npm:3.1.0"],\
-          ["inherits", "npm:2.0.4"],\
-          ["readable-stream", "npm:3.6.2"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["hash-base", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash-base%2F-%2Fhash-base-3.1.0.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["readable-stream", "npm:3.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-3.6.2.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["hash.js", [\
-      ["npm:1.1.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/hash.js-npm-1.1.7-f1ad187358-9.zip/node_modules/hash.js/",\
+      ["npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash.js%2F-%2Fhash.js-1.1.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/hash.js-npm-1.1.7-412ab5dc07-9.zip/node_modules/hash.js/",\
         "packageDependencies": [\
-          ["hash.js", "npm:1.1.7"],\
-          ["inherits", "npm:2.0.4"],\
-          ["minimalistic-assert", "npm:1.0.1"]\
+          ["hash.js", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash.js%2F-%2Fhash.js-1.1.7.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["minimalistic-assert", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-assert%2F-%2Fminimalistic-assert-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["hmac-drbg", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/hmac-drbg-npm-1.0.1-3499ad31cd-9.zip/node_modules/hmac-drbg/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhmac-drbg%2F-%2Fhmac-drbg-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/hmac-drbg-npm-1.0.1-070a85eb5c-9.zip/node_modules/hmac-drbg/",\
         "packageDependencies": [\
-          ["hmac-drbg", "npm:1.0.1"],\
-          ["hash.js", "npm:1.1.7"],\
-          ["minimalistic-assert", "npm:1.0.1"],\
-          ["minimalistic-crypto-utils", "npm:1.0.1"]\
+          ["hmac-drbg", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhmac-drbg%2F-%2Fhmac-drbg-1.0.1.tgz"],\
+          ["hash.js", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash.js%2F-%2Fhash.js-1.1.7.tgz"],\
+          ["minimalistic-assert", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-assert%2F-%2Fminimalistic-assert-1.0.1.tgz"],\
+          ["minimalistic-crypto-utils", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-crypto-utils%2F-%2Fminimalistic-crypto-utils-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["http-basic", [\
-      ["npm:8.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-basic-npm-8.1.3-ae54b14025-9.zip/node_modules/http-basic/",\
+      ["npm:8.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-basic%2F-%2Fhttp-basic-8.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-basic-npm-8.1.3-d5f556e212-9.zip/node_modules/http-basic/",\
         "packageDependencies": [\
-          ["http-basic", "npm:8.1.3"],\
-          ["caseless", "npm:0.12.0"],\
-          ["concat-stream", "npm:1.6.2"],\
-          ["http-response-object", "npm:3.0.2"],\
-          ["parse-cache-control", "npm:1.0.1"]\
+          ["http-basic", "npm:8.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-basic%2F-%2Fhttp-basic-8.1.3.tgz"],\
+          ["caseless", "npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcaseless%2F-%2Fcaseless-0.12.0.tgz"],\
+          ["concat-stream", "npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-stream%2F-%2Fconcat-stream-1.6.2.tgz"],\
+          ["http-response-object", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-response-object%2F-%2Fhttp-response-object-3.0.2.tgz"],\
+          ["parse-cache-control", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-cache-control%2F-%2Fparse-cache-control-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["http-cache-semantics", [\
-      ["npm:4.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-cache-semantics-npm-4.1.1-1120131375-9.zip/node_modules/http-cache-semantics/",\
+      ["npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-cache-semantics%2F-%2Fhttp-cache-semantics-4.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-cache-semantics-npm-4.1.1-d7ac24c4a4-9.zip/node_modules/http-cache-semantics/",\
         "packageDependencies": [\
-          ["http-cache-semantics", "npm:4.1.1"]\
+          ["http-cache-semantics", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-cache-semantics%2F-%2Fhttp-cache-semantics-4.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["http-proxy-agent", [\
-      ["npm:5.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-proxy-agent-npm-5.0.0-7f1f121b83-9.zip/node_modules/http-proxy-agent/",\
+      ["npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-proxy-agent%2F-%2Fhttp-proxy-agent-5.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-proxy-agent-npm-5.0.0-6f5c95a1bb-9.zip/node_modules/http-proxy-agent/",\
         "packageDependencies": [\
-          ["http-proxy-agent", "npm:5.0.0"],\
-          ["@tootallnate/once", "npm:2.0.0"],\
-          ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"]\
+          ["http-proxy-agent", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-proxy-agent%2F-%2Fhttp-proxy-agent-5.0.0.tgz"],\
+          ["@tootallnate/once", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tootallnate%2Fonce%2F-%2Fonce-2.0.0.tgz"],\
+          ["agent-base", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagent-base%2F-%2Fagent-base-6.0.2.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["http-response-object", [\
-      ["npm:3.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-response-object-npm-3.0.2-cbb68c5487-9.zip/node_modules/http-response-object/",\
+      ["npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-response-object%2F-%2Fhttp-response-object-3.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-response-object-npm-3.0.2-8a1b363da3-9.zip/node_modules/http-response-object/",\
         "packageDependencies": [\
-          ["http-response-object", "npm:3.0.2"],\
-          ["@types/node", "npm:10.17.60"]\
+          ["http-response-object", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-response-object%2F-%2Fhttp-response-object-3.0.2.tgz"],\
+          ["@types/node", "npm:10.17.60::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-10.17.60.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["http-signature", [\
-      ["npm:1.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-signature-npm-1.2.0-ee92426f34-9.zip/node_modules/http-signature/",\
+      ["npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-signature%2F-%2Fhttp-signature-1.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/http-signature-npm-1.2.0-dcc95e49c0-9.zip/node_modules/http-signature/",\
         "packageDependencies": [\
-          ["http-signature", "npm:1.2.0"],\
-          ["assert-plus", "npm:1.0.0"],\
-          ["jsprim", "npm:1.4.2"],\
-          ["sshpk", "npm:1.17.0"]\
+          ["http-signature", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-signature%2F-%2Fhttp-signature-1.2.0.tgz"],\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"],\
+          ["jsprim", "npm:1.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsprim%2F-%2Fjsprim-1.4.2.tgz"],\
+          ["sshpk", "npm:1.17.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsshpk%2F-%2Fsshpk-1.17.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["https-proxy-agent", [\
-      ["npm:5.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/https-proxy-agent-npm-5.0.1-42d65f358e-9.zip/node_modules/https-proxy-agent/",\
+      ["npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttps-proxy-agent%2F-%2Fhttps-proxy-agent-5.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/https-proxy-agent-npm-5.0.1-7b80bbca73-9.zip/node_modules/https-proxy-agent/",\
         "packageDependencies": [\
-          ["https-proxy-agent", "npm:5.0.1"],\
-          ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"]\
+          ["https-proxy-agent", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttps-proxy-agent%2F-%2Fhttps-proxy-agent-5.0.1.tgz"],\
+          ["agent-base", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagent-base%2F-%2Fagent-base-6.0.2.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["human-signals", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/human-signals-npm-2.1.0-f75815481d-9.zip/node_modules/human-signals/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhuman-signals%2F-%2Fhuman-signals-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/human-signals-npm-2.1.0-861e8c3349-9.zip/node_modules/human-signals/",\
         "packageDependencies": [\
-          ["human-signals", "npm:2.1.0"]\
+          ["human-signals", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhuman-signals%2F-%2Fhuman-signals-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["humanize-ms", [\
-      ["npm:1.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/humanize-ms-npm-1.2.1-e942bd7329-9.zip/node_modules/humanize-ms/",\
+      ["npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhumanize-ms%2F-%2Fhumanize-ms-1.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/humanize-ms-npm-1.2.1-d8062ddc3c-9.zip/node_modules/humanize-ms/",\
         "packageDependencies": [\
-          ["humanize-ms", "npm:1.2.1"],\
-          ["ms", "npm:2.1.3"]\
+          ["humanize-ms", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhumanize-ms%2F-%2Fhumanize-ms-1.2.1.tgz"],\
+          ["ms", "npm:2.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["hyperlinker", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/hyperlinker-npm-1.0.0-c2e60c3b2a-9.zip/node_modules/hyperlinker/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhyperlinker%2F-%2Fhyperlinker-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/hyperlinker-npm-1.0.0-1f5b9ebbef-9.zip/node_modules/hyperlinker/",\
         "packageDependencies": [\
-          ["hyperlinker", "npm:1.0.0"]\
+          ["hyperlinker", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhyperlinker%2F-%2Fhyperlinker-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["iconv-lite", [\
-      ["npm:0.6.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/iconv-lite-npm-0.6.3-24b8aae27e-9.zip/node_modules/iconv-lite/",\
+      ["npm:0.6.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ficonv-lite%2F-%2Ficonv-lite-0.6.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/iconv-lite-npm-0.6.3-49fb9d090f-9.zip/node_modules/iconv-lite/",\
         "packageDependencies": [\
-          ["iconv-lite", "npm:0.6.3"],\
-          ["safer-buffer", "npm:2.1.2"]\
+          ["iconv-lite", "npm:0.6.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ficonv-lite%2F-%2Ficonv-lite-0.6.3.tgz"],\
+          ["safer-buffer", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafer-buffer%2F-%2Fsafer-buffer-2.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ieee754", [\
-      ["npm:1.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ieee754-npm-1.2.1-fb63b3caeb-9.zip/node_modules/ieee754/",\
+      ["npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fieee754%2F-%2Fieee754-1.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ieee754-npm-1.2.1-83e4c3daf8-9.zip/node_modules/ieee754/",\
         "packageDependencies": [\
-          ["ieee754", "npm:1.2.1"]\
+          ["ieee754", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fieee754%2F-%2Fieee754-1.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ignore", [\
-      ["npm:5.2.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ignore-npm-5.2.4-fbe6e989e5-9.zip/node_modules/ignore/",\
+      ["npm:5.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fignore%2F-%2Fignore-5.2.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ignore-npm-5.2.4-ec1f47d803-9.zip/node_modules/ignore/",\
         "packageDependencies": [\
-          ["ignore", "npm:5.2.4"]\
+          ["ignore", "npm:5.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fignore%2F-%2Fignore-5.2.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["immutable", [\
-      ["npm:4.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/immutable-npm-4.2.1-1b52575f26-9.zip/node_modules/immutable/",\
+      ["npm:4.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimmutable%2F-%2Fimmutable-4.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/immutable-npm-4.2.1-566b3071fc-9.zip/node_modules/immutable/",\
         "packageDependencies": [\
-          ["immutable", "npm:4.2.1"]\
+          ["immutable", "npm:4.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimmutable%2F-%2Fimmutable-4.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["import-fresh", [\
-      ["npm:3.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/import-fresh-npm-3.3.0-3e34265ca9-9.zip/node_modules/import-fresh/",\
+      ["npm:3.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimport-fresh%2F-%2Fimport-fresh-3.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/import-fresh-npm-3.3.0-cbe3c51f20-9.zip/node_modules/import-fresh/",\
         "packageDependencies": [\
-          ["import-fresh", "npm:3.3.0"],\
-          ["parent-module", "npm:1.0.1"],\
-          ["resolve-from", "npm:4.0.0"]\
+          ["import-fresh", "npm:3.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimport-fresh%2F-%2Fimport-fresh-3.3.0.tgz"],\
+          ["parent-module", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparent-module%2F-%2Fparent-module-1.0.1.tgz"],\
+          ["resolve-from", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fresolve-from%2F-%2Fresolve-from-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["imurmurhash", [\
-      ["npm:0.1.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/imurmurhash-npm-0.1.4-610c5068a0-9.zip/node_modules/imurmurhash/",\
+      ["npm:0.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimurmurhash%2F-%2Fimurmurhash-0.1.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/imurmurhash-npm-0.1.4-64a9044924-9.zip/node_modules/imurmurhash/",\
         "packageDependencies": [\
-          ["imurmurhash", "npm:0.1.4"]\
+          ["imurmurhash", "npm:0.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimurmurhash%2F-%2Fimurmurhash-0.1.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["indent-string", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/indent-string-npm-4.0.0-7b717435b2-9.zip/node_modules/indent-string/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Findent-string%2F-%2Findent-string-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/indent-string-npm-4.0.0-506520a296-9.zip/node_modules/indent-string/",\
         "packageDependencies": [\
-          ["indent-string", "npm:4.0.0"]\
+          ["indent-string", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Findent-string%2F-%2Findent-string-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["inflight", [\
-      ["npm:1.0.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/inflight-npm-1.0.6-ccedb4b908-9.zip/node_modules/inflight/",\
+      ["npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finflight%2F-%2Finflight-1.0.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/inflight-npm-1.0.6-46a7a4fa48-9.zip/node_modules/inflight/",\
         "packageDependencies": [\
-          ["inflight", "npm:1.0.6"],\
-          ["once", "npm:1.4.0"],\
-          ["wrappy", "npm:1.0.2"]\
+          ["inflight", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finflight%2F-%2Finflight-1.0.6.tgz"],\
+          ["once", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonce%2F-%2Fonce-1.4.0.tgz"],\
+          ["wrappy", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrappy%2F-%2Fwrappy-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["inherits", [\
-      ["npm:2.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/inherits-npm-2.0.4-c66b3957a0-9.zip/node_modules/inherits/",\
+      ["npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/inherits-npm-2.0.4-a32f933e07-9.zip/node_modules/inherits/",\
         "packageDependencies": [\
-          ["inherits", "npm:2.0.4"]\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["interface-datastore", [\
-      ["npm:6.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/interface-datastore-npm-6.1.1-7554a8dd39-9.zip/node_modules/interface-datastore/",\
+      ["npm:6.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finterface-datastore%2F-%2Finterface-datastore-6.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/interface-datastore-npm-6.1.1-1e1b7406de-9.zip/node_modules/interface-datastore/",\
         "packageDependencies": [\
-          ["interface-datastore", "npm:6.1.1"],\
-          ["interface-store", "npm:2.0.2"],\
-          ["nanoid", "npm:3.3.6"],\
-          ["uint8arrays", "npm:3.1.1"]\
+          ["interface-datastore", "npm:6.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finterface-datastore%2F-%2Finterface-datastore-6.1.1.tgz"],\
+          ["interface-store", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finterface-store%2F-%2Finterface-store-2.0.2.tgz"],\
+          ["nanoid", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2F-%2Fnanoid-3.3.6.tgz"],\
+          ["uint8arrays", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuint8arrays%2F-%2Fuint8arrays-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["interface-store", [\
-      ["npm:2.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/interface-store-npm-2.0.2-52e7e068e6-9.zip/node_modules/interface-store/",\
+      ["npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finterface-store%2F-%2Finterface-store-2.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/interface-store-npm-2.0.2-0d316a2ef6-9.zip/node_modules/interface-store/",\
         "packageDependencies": [\
-          ["interface-store", "npm:2.0.2"]\
+          ["interface-store", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finterface-store%2F-%2Finterface-store-2.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ip", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ip-npm-2.0.0-204facb3cc-9.zip/node_modules/ip/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fip%2F-%2Fip-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ip-npm-2.0.0-c77d409b77-9.zip/node_modules/ip/",\
         "packageDependencies": [\
-          ["ip", "npm:2.0.0"]\
+          ["ip", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fip%2F-%2Fip-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ip-regex", [\
-      ["npm:4.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ip-regex-npm-4.3.0-4ac12c6be9-9.zip/node_modules/ip-regex/",\
+      ["npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fip-regex%2F-%2Fip-regex-4.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ip-regex-npm-4.3.0-86bb87a3b3-9.zip/node_modules/ip-regex/",\
         "packageDependencies": [\
-          ["ip-regex", "npm:4.3.0"]\
+          ["ip-regex", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fip-regex%2F-%2Fip-regex-4.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ipfs-core-types", [\
-      ["npm:0.9.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-core-types-npm-0.9.0-375bec901e-9.zip/node_modules/ipfs-core-types/",\
+      ["npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-types%2F-%2Fipfs-core-types-0.9.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-core-types-npm-0.9.0-f4051c3429-9.zip/node_modules/ipfs-core-types/",\
         "packageDependencies": [\
-          ["ipfs-core-types", "npm:0.9.0"],\
-          ["interface-datastore", "npm:6.1.1"],\
-          ["multiaddr", "npm:10.0.1"],\
-          ["multiformats", "npm:9.9.0"]\
+          ["ipfs-core-types", "npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-types%2F-%2Fipfs-core-types-0.9.0.tgz"],\
+          ["interface-datastore", "npm:6.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finterface-datastore%2F-%2Finterface-datastore-6.1.1.tgz"],\
+          ["multiaddr", "npm:10.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr%2F-%2Fmultiaddr-10.0.1.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ipfs-core-utils", [\
-      ["npm:0.13.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-core-utils-npm-0.13.0-843cabbc4a-9.zip/node_modules/ipfs-core-utils/",\
+      ["npm:0.13.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-utils%2F-%2Fipfs-core-utils-0.13.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-core-utils-npm-0.13.0-85de4aef95-9.zip/node_modules/ipfs-core-utils/",\
         "packageDependencies": [\
-          ["ipfs-core-utils", "npm:0.13.0"],\
-          ["any-signal", "npm:2.1.2"],\
-          ["blob-to-it", "npm:1.0.4"],\
-          ["browser-readablestream-to-it", "npm:1.0.3"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["err-code", "npm:3.0.1"],\
-          ["ipfs-core-types", "npm:0.9.0"],\
-          ["ipfs-unixfs", "npm:6.0.9"],\
-          ["ipfs-utils", "npm:9.0.14"],\
-          ["it-all", "npm:1.0.6"],\
-          ["it-map", "npm:1.0.6"],\
-          ["it-peekable", "npm:1.0.3"],\
-          ["it-to-stream", "npm:1.0.0"],\
-          ["merge-options", "npm:3.0.4"],\
-          ["multiaddr", "npm:10.0.1"],\
-          ["multiaddr-to-uri", "npm:8.0.0"],\
-          ["multiformats", "npm:9.9.0"],\
-          ["nanoid", "npm:3.3.6"],\
-          ["parse-duration", "npm:1.1.0"],\
-          ["timeout-abort-controller", "npm:2.0.0"],\
-          ["uint8arrays", "npm:3.1.1"]\
+          ["ipfs-core-utils", "npm:0.13.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-utils%2F-%2Fipfs-core-utils-0.13.0.tgz"],\
+          ["any-signal", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-2.1.2.tgz"],\
+          ["blob-to-it", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fblob-to-it%2F-%2Fblob-to-it-1.0.4.tgz"],\
+          ["browser-readablestream-to-it", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowser-readablestream-to-it%2F-%2Fbrowser-readablestream-to-it-1.0.3.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["err-code", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz"],\
+          ["ipfs-core-types", "npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-types%2F-%2Fipfs-core-types-0.9.0.tgz"],\
+          ["ipfs-unixfs", "npm:6.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-unixfs%2F-%2Fipfs-unixfs-6.0.9.tgz"],\
+          ["ipfs-utils", "npm:9.0.14::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-utils%2F-%2Fipfs-utils-9.0.14.tgz"],\
+          ["it-all", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-all%2F-%2Fit-all-1.0.6.tgz"],\
+          ["it-map", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-map%2F-%2Fit-map-1.0.6.tgz"],\
+          ["it-peekable", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-peekable%2F-%2Fit-peekable-1.0.3.tgz"],\
+          ["it-to-stream", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-to-stream%2F-%2Fit-to-stream-1.0.0.tgz"],\
+          ["merge-options", "npm:3.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-options%2F-%2Fmerge-options-3.0.4.tgz"],\
+          ["multiaddr", "npm:10.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr%2F-%2Fmultiaddr-10.0.1.tgz"],\
+          ["multiaddr-to-uri", "npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr-to-uri%2F-%2Fmultiaddr-to-uri-8.0.0.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"],\
+          ["nanoid", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2F-%2Fnanoid-3.3.6.tgz"],\
+          ["parse-duration", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-duration%2F-%2Fparse-duration-1.1.0.tgz"],\
+          ["timeout-abort-controller", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftimeout-abort-controller%2F-%2Ftimeout-abort-controller-2.0.0.tgz"],\
+          ["uint8arrays", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuint8arrays%2F-%2Fuint8arrays-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ipfs-http-client", [\
-      ["npm:55.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-http-client-npm-55.0.0-f609b76f4a-9.zip/node_modules/ipfs-http-client/",\
+      ["npm:55.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-http-client%2F-%2Fipfs-http-client-55.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-http-client-npm-55.0.0-576abe61bc-9.zip/node_modules/ipfs-http-client/",\
         "packageDependencies": [\
-          ["ipfs-http-client", "npm:55.0.0"],\
-          ["@ipld/dag-cbor", "npm:7.0.3"],\
-          ["@ipld/dag-json", "npm:8.0.11"],\
-          ["@ipld/dag-pb", "npm:2.1.18"],\
-          ["abort-controller", "npm:3.0.0"],\
-          ["any-signal", "npm:2.1.2"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["err-code", "npm:3.0.1"],\
-          ["ipfs-core-types", "npm:0.9.0"],\
-          ["ipfs-core-utils", "npm:0.13.0"],\
-          ["ipfs-utils", "npm:9.0.14"],\
-          ["it-first", "npm:1.0.7"],\
-          ["it-last", "npm:1.0.6"],\
-          ["merge-options", "npm:3.0.4"],\
-          ["multiaddr", "npm:10.0.1"],\
-          ["multiformats", "npm:9.9.0"],\
-          ["native-abort-controller", "virtual:14d42817b2231f8a8dd06edeb23b1acf2fa57fb20de602da61a3ef140a00ff0e827e59e2af2d696c0e64f98737ed7cb42c5d09825e00687282afb3fce105533f#npm:1.0.4"],\
-          ["parse-duration", "npm:1.1.0"],\
-          ["stream-to-it", "npm:0.2.4"],\
-          ["uint8arrays", "npm:3.1.1"]\
+          ["ipfs-http-client", "npm:55.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-http-client%2F-%2Fipfs-http-client-55.0.0.tgz"],\
+          ["@ipld/dag-cbor", "npm:7.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-cbor%2F-%2Fdag-cbor-7.0.3.tgz"],\
+          ["@ipld/dag-json", "npm:8.0.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-json%2F-%2Fdag-json-8.0.11.tgz"],\
+          ["@ipld/dag-pb", "npm:2.1.18::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ipld%2Fdag-pb%2F-%2Fdag-pb-2.1.18.tgz"],\
+          ["abort-controller", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabort-controller%2F-%2Fabort-controller-3.0.0.tgz"],\
+          ["any-signal", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-2.1.2.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["err-code", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz"],\
+          ["ipfs-core-types", "npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-types%2F-%2Fipfs-core-types-0.9.0.tgz"],\
+          ["ipfs-core-utils", "npm:0.13.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-core-utils%2F-%2Fipfs-core-utils-0.13.0.tgz"],\
+          ["ipfs-utils", "npm:9.0.14::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-utils%2F-%2Fipfs-utils-9.0.14.tgz"],\
+          ["it-first", "npm:1.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-first%2F-%2Fit-first-1.0.7.tgz"],\
+          ["it-last", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-last%2F-%2Fit-last-1.0.6.tgz"],\
+          ["merge-options", "npm:3.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-options%2F-%2Fmerge-options-3.0.4.tgz"],\
+          ["multiaddr", "npm:10.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr%2F-%2Fmultiaddr-10.0.1.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"],\
+          ["native-abort-controller", "virtual:c42580360c84acf672ccadd2f4c69407d21eb6ba78b5f7b5df4ca41afc07e1c796ccc377061dc849b2138522d3197e7248f440c853faaf8c840cb7d837e09b1b#npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz"],\
+          ["parse-duration", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-duration%2F-%2Fparse-duration-1.1.0.tgz"],\
+          ["stream-to-it", "npm:0.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstream-to-it%2F-%2Fstream-to-it-0.2.4.tgz"],\
+          ["uint8arrays", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuint8arrays%2F-%2Fuint8arrays-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ipfs-unixfs", [\
-      ["npm:6.0.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-unixfs-npm-6.0.9-a69279d618-9.zip/node_modules/ipfs-unixfs/",\
+      ["npm:6.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-unixfs%2F-%2Fipfs-unixfs-6.0.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-unixfs-npm-6.0.9-e88850b424-9.zip/node_modules/ipfs-unixfs/",\
         "packageDependencies": [\
-          ["ipfs-unixfs", "npm:6.0.9"],\
-          ["err-code", "npm:3.0.1"],\
-          ["protobufjs", "npm:6.11.3"]\
+          ["ipfs-unixfs", "npm:6.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-unixfs%2F-%2Fipfs-unixfs-6.0.9.tgz"],\
+          ["err-code", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz"],\
+          ["protobufjs", "npm:6.11.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprotobufjs%2F-%2Fprotobufjs-6.11.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ipfs-utils", [\
-      ["npm:9.0.14", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-utils-npm-9.0.14-015393dfc3-9.zip/node_modules/ipfs-utils/",\
+      ["npm:9.0.14::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-utils%2F-%2Fipfs-utils-9.0.14.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ipfs-utils-npm-9.0.14-b3e0e574f9-9.zip/node_modules/ipfs-utils/",\
         "packageDependencies": [\
-          ["ipfs-utils", "npm:9.0.14"],\
-          ["any-signal", "npm:3.0.1"],\
-          ["browser-readablestream-to-it", "npm:1.0.3"],\
-          ["buffer", "npm:6.0.3"],\
-          ["electron-fetch", "npm:1.9.1"],\
-          ["err-code", "npm:3.0.1"],\
-          ["is-electron", "npm:2.2.2"],\
-          ["iso-url", "npm:1.2.1"],\
-          ["it-all", "npm:1.0.6"],\
-          ["it-glob", "npm:1.0.2"],\
-          ["it-to-stream", "npm:1.0.0"],\
-          ["merge-options", "npm:3.0.4"],\
-          ["nanoid", "npm:3.3.6"],\
-          ["native-fetch", "virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:3.0.0"],\
-          ["node-fetch", "virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:2.6.12"],\
-          ["react-native-fetch-api", "npm:3.0.0"],\
-          ["stream-to-it", "npm:0.2.4"]\
+          ["ipfs-utils", "npm:9.0.14::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fipfs-utils%2F-%2Fipfs-utils-9.0.14.tgz"],\
+          ["any-signal", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fany-signal%2F-%2Fany-signal-3.0.1.tgz"],\
+          ["browser-readablestream-to-it", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrowser-readablestream-to-it%2F-%2Fbrowser-readablestream-to-it-1.0.3.tgz"],\
+          ["buffer", "npm:6.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer%2F-%2Fbuffer-6.0.3.tgz"],\
+          ["electron-fetch", "npm:1.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felectron-fetch%2F-%2Felectron-fetch-1.9.1.tgz"],\
+          ["err-code", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz"],\
+          ["is-electron", "npm:2.2.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-electron%2F-%2Fis-electron-2.2.2.tgz"],\
+          ["iso-url", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fiso-url%2F-%2Fiso-url-1.2.1.tgz"],\
+          ["it-all", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-all%2F-%2Fit-all-1.0.6.tgz"],\
+          ["it-glob", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-glob%2F-%2Fit-glob-1.0.2.tgz"],\
+          ["it-to-stream", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-to-stream%2F-%2Fit-to-stream-1.0.0.tgz"],\
+          ["merge-options", "npm:3.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-options%2F-%2Fmerge-options-3.0.4.tgz"],\
+          ["nanoid", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2F-%2Fnanoid-3.3.6.tgz"],\
+          ["native-fetch", "virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz"],\
+          ["node-fetch", "virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:2.6.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-fetch%2F-%2Fnode-fetch-2.6.12.tgz"],\
+          ["react-native-fetch-api", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact-native-fetch-api%2F-%2Freact-native-fetch-api-3.0.0.tgz"],\
+          ["stream-to-it", "npm:0.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstream-to-it%2F-%2Fstream-to-it-0.2.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-arrayish", [\
-      ["npm:0.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-arrayish-npm-0.2.1-23927dfb15-9.zip/node_modules/is-arrayish/",\
+      ["npm:0.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-arrayish%2F-%2Fis-arrayish-0.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-arrayish-npm-0.2.1-e3bb6fff74-9.zip/node_modules/is-arrayish/",\
         "packageDependencies": [\
-          ["is-arrayish", "npm:0.2.1"]\
+          ["is-arrayish", "npm:0.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-arrayish%2F-%2Fis-arrayish-0.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-binary-path", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-binary-path-npm-2.1.0-e61d46f557-9.zip/node_modules/is-binary-path/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-binary-path%2F-%2Fis-binary-path-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-binary-path-npm-2.1.0-cfd85572ac-9.zip/node_modules/is-binary-path/",\
         "packageDependencies": [\
-          ["is-binary-path", "npm:2.1.0"],\
-          ["binary-extensions", "npm:2.2.0"]\
+          ["is-binary-path", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-binary-path%2F-%2Fis-binary-path-2.1.0.tgz"],\
+          ["binary-extensions", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbinary-extensions%2F-%2Fbinary-extensions-2.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-docker", [\
-      ["npm:2.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-docker-npm-2.2.1-3f18a53aff-9.zip/node_modules/is-docker/",\
+      ["npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-docker%2F-%2Fis-docker-2.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-docker-npm-2.2.1-124f7716e7-9.zip/node_modules/is-docker/",\
         "packageDependencies": [\
-          ["is-docker", "npm:2.2.1"]\
+          ["is-docker", "npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-docker%2F-%2Fis-docker-2.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-electron", [\
-      ["npm:2.2.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-electron-npm-2.2.2-f91452a3d8-9.zip/node_modules/is-electron/",\
+      ["npm:2.2.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-electron%2F-%2Fis-electron-2.2.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-electron-npm-2.2.2-bbbadf6a2e-9.zip/node_modules/is-electron/",\
         "packageDependencies": [\
-          ["is-electron", "npm:2.2.2"]\
+          ["is-electron", "npm:2.2.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-electron%2F-%2Fis-electron-2.2.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-extglob", [\
-      ["npm:2.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-extglob-npm-2.1.1-0870ea68b5-9.zip/node_modules/is-extglob/",\
+      ["npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-extglob%2F-%2Fis-extglob-2.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-extglob-npm-2.1.1-3cd6c45a08-9.zip/node_modules/is-extglob/",\
         "packageDependencies": [\
-          ["is-extglob", "npm:2.1.1"]\
+          ["is-extglob", "npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-extglob%2F-%2Fis-extglob-2.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-fullwidth-code-point", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-fullwidth-code-point-npm-3.0.0-1ecf4ebee5-9.zip/node_modules/is-fullwidth-code-point/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-fullwidth-code-point%2F-%2Fis-fullwidth-code-point-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-fullwidth-code-point-npm-3.0.0-60d4efebe1-9.zip/node_modules/is-fullwidth-code-point/",\
         "packageDependencies": [\
-          ["is-fullwidth-code-point", "npm:3.0.0"]\
+          ["is-fullwidth-code-point", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-fullwidth-code-point%2F-%2Fis-fullwidth-code-point-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-glob", [\
-      ["npm:4.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-glob-npm-4.0.3-cb87bf1bdb-9.zip/node_modules/is-glob/",\
+      ["npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-glob%2F-%2Fis-glob-4.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-glob-npm-4.0.3-083a7dd516-9.zip/node_modules/is-glob/",\
         "packageDependencies": [\
-          ["is-glob", "npm:4.0.3"],\
-          ["is-extglob", "npm:2.1.1"]\
+          ["is-glob", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-glob%2F-%2Fis-glob-4.0.3.tgz"],\
+          ["is-extglob", "npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-extglob%2F-%2Fis-extglob-2.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-hex-prefixed", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-hex-prefixed-npm-1.0.0-676e6251c7-9.zip/node_modules/is-hex-prefixed/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-hex-prefixed%2F-%2Fis-hex-prefixed-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-hex-prefixed-npm-1.0.0-2db329f992-9.zip/node_modules/is-hex-prefixed/",\
         "packageDependencies": [\
-          ["is-hex-prefixed", "npm:1.0.0"]\
+          ["is-hex-prefixed", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-hex-prefixed%2F-%2Fis-hex-prefixed-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-interactive", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-interactive-npm-1.0.0-7ff7c6e04a-9.zip/node_modules/is-interactive/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-interactive%2F-%2Fis-interactive-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-interactive-npm-1.0.0-9594db070a-9.zip/node_modules/is-interactive/",\
         "packageDependencies": [\
-          ["is-interactive", "npm:1.0.0"]\
+          ["is-interactive", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-interactive%2F-%2Fis-interactive-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-ip", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-ip-npm-3.1.0-7b8bc9330c-9.zip/node_modules/is-ip/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-ip%2F-%2Fis-ip-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-ip-npm-3.1.0-b004d2c54d-9.zip/node_modules/is-ip/",\
         "packageDependencies": [\
-          ["is-ip", "npm:3.1.0"],\
-          ["ip-regex", "npm:4.3.0"]\
+          ["is-ip", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-ip%2F-%2Fis-ip-3.1.0.tgz"],\
+          ["ip-regex", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fip-regex%2F-%2Fip-regex-4.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-lambda", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-lambda-npm-1.0.1-7ab55bc8a8-9.zip/node_modules/is-lambda/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-lambda%2F-%2Fis-lambda-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-lambda-npm-1.0.1-4cb34e0321-9.zip/node_modules/is-lambda/",\
         "packageDependencies": [\
-          ["is-lambda", "npm:1.0.1"]\
+          ["is-lambda", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-lambda%2F-%2Fis-lambda-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-number", [\
-      ["npm:7.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-number-npm-7.0.0-060086935c-9.zip/node_modules/is-number/",\
+      ["npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-number%2F-%2Fis-number-7.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-number-npm-7.0.0-f919f13d79-9.zip/node_modules/is-number/",\
         "packageDependencies": [\
-          ["is-number", "npm:7.0.0"]\
+          ["is-number", "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-number%2F-%2Fis-number-7.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-plain-obj", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-plain-obj-npm-2.1.0-8dffd7ae9c-9.zip/node_modules/is-plain-obj/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-plain-obj%2F-%2Fis-plain-obj-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-plain-obj-npm-2.1.0-0d9c750e6f-9.zip/node_modules/is-plain-obj/",\
         "packageDependencies": [\
-          ["is-plain-obj", "npm:2.1.0"]\
+          ["is-plain-obj", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-plain-obj%2F-%2Fis-plain-obj-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-stream", [\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-stream-npm-2.0.1-c802db55e7-9.zip/node_modules/is-stream/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-stream%2F-%2Fis-stream-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-stream-npm-2.0.1-f03e2ffad7-9.zip/node_modules/is-stream/",\
         "packageDependencies": [\
-          ["is-stream", "npm:2.0.1"]\
+          ["is-stream", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-stream%2F-%2Fis-stream-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-typedarray", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-typedarray-npm-1.0.0-bbd99de5b6-9.zip/node_modules/is-typedarray/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-typedarray%2F-%2Fis-typedarray-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-typedarray-npm-1.0.0-2bbeba06e9-9.zip/node_modules/is-typedarray/",\
         "packageDependencies": [\
-          ["is-typedarray", "npm:1.0.0"]\
+          ["is-typedarray", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-typedarray%2F-%2Fis-typedarray-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["is-wsl", [\
-      ["npm:2.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-wsl-npm-2.2.0-2ba10d6393-9.zip/node_modules/is-wsl/",\
+      ["npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-wsl%2F-%2Fis-wsl-2.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/is-wsl-npm-2.2.0-28c9fcaa39-9.zip/node_modules/is-wsl/",\
         "packageDependencies": [\
-          ["is-wsl", "npm:2.2.0"],\
-          ["is-docker", "npm:2.2.1"]\
+          ["is-wsl", "npm:2.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-wsl%2F-%2Fis-wsl-2.2.0.tgz"],\
+          ["is-docker", "npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-docker%2F-%2Fis-docker-2.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["isarray", [\
-      ["npm:0.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/isarray-npm-0.0.1-92e37e0a70-9.zip/node_modules/isarray/",\
+      ["npm:0.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisarray%2F-%2Fisarray-0.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/isarray-npm-0.0.1-ce71827095-9.zip/node_modules/isarray/",\
         "packageDependencies": [\
-          ["isarray", "npm:0.0.1"]\
+          ["isarray", "npm:0.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisarray%2F-%2Fisarray-0.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/isarray-npm-1.0.0-db4f547720-9.zip/node_modules/isarray/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisarray%2F-%2Fisarray-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/isarray-npm-1.0.0-a4bdb07537-9.zip/node_modules/isarray/",\
         "packageDependencies": [\
-          ["isarray", "npm:1.0.0"]\
+          ["isarray", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisarray%2F-%2Fisarray-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["isexe", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/isexe-npm-2.0.0-b58870bd2e-9.zip/node_modules/isexe/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisexe%2F-%2Fisexe-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/isexe-npm-2.0.0-eab4a972fb-9.zip/node_modules/isexe/",\
         "packageDependencies": [\
-          ["isexe", "npm:2.0.0"]\
+          ["isexe", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisexe%2F-%2Fisexe-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["iso-url", [\
-      ["npm:1.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/iso-url-npm-1.2.1-494c3c59bc-9.zip/node_modules/iso-url/",\
+      ["npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fiso-url%2F-%2Fiso-url-1.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/iso-url-npm-1.2.1-09872f09b8-9.zip/node_modules/iso-url/",\
         "packageDependencies": [\
-          ["iso-url", "npm:1.2.1"]\
+          ["iso-url", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fiso-url%2F-%2Fiso-url-1.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["isomorphic-ws", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/isomorphic-ws-npm-4.0.1-aa39192848-9.zip/node_modules/isomorphic-ws/",\
+      ["npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisomorphic-ws%2F-%2Fisomorphic-ws-4.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/isomorphic-ws-npm-4.0.1-4ee389b391-9.zip/node_modules/isomorphic-ws/",\
         "packageDependencies": [\
-          ["isomorphic-ws", "npm:4.0.1"]\
+          ["isomorphic-ws", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisomorphic-ws%2F-%2Fisomorphic-ws-4.0.1.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:4.0.1", {\
-        "packageLocation": "./.yarn/__virtual__/isomorphic-ws-virtual-7b273f2c23/7/root/.yarn/berry/cache/isomorphic-ws-npm-4.0.1-aa39192848-9.zip/node_modules/isomorphic-ws/",\
+      ["virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisomorphic-ws%2F-%2Fisomorphic-ws-4.0.1.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/isomorphic-ws-virtual-e0e57a94a2/7/root/.yarn/berry/cache/isomorphic-ws-npm-4.0.1-4ee389b391-9.zip/node_modules/isomorphic-ws/",\
         "packageDependencies": [\
-          ["isomorphic-ws", "virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:4.0.1"],\
-          ["@types/ws", "npm:7.4.7"],\
-          ["ws", "virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:7.5.9"]\
+          ["isomorphic-ws", "virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisomorphic-ws%2F-%2Fisomorphic-ws-4.0.1.tgz"],\
+          ["@types/ws", "npm:7.4.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fws%2F-%2Fws-7.4.7.tgz"],\
+          ["ws", "virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:7.5.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fws%2F-%2Fws-7.5.9.tgz"]\
         ],\
         "packagePeers": [\
           "@types/ws",\
@@ -3616,822 +3616,822 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["isstream", [\
-      ["npm:0.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/isstream-npm-0.1.2-8581c75385-9.zip/node_modules/isstream/",\
+      ["npm:0.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisstream%2F-%2Fisstream-0.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/isstream-npm-0.1.2-29b6255694-9.zip/node_modules/isstream/",\
         "packageDependencies": [\
-          ["isstream", "npm:0.1.2"]\
+          ["isstream", "npm:0.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisstream%2F-%2Fisstream-0.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-all", [\
-      ["npm:1.0.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-all-npm-1.0.6-123b7bd5fa-9.zip/node_modules/it-all/",\
+      ["npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-all%2F-%2Fit-all-1.0.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-all-npm-1.0.6-e029dc322e-9.zip/node_modules/it-all/",\
         "packageDependencies": [\
-          ["it-all", "npm:1.0.6"]\
+          ["it-all", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-all%2F-%2Fit-all-1.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-first", [\
-      ["npm:1.0.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-first-npm-1.0.7-9da260833a-9.zip/node_modules/it-first/",\
+      ["npm:1.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-first%2F-%2Fit-first-1.0.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-first-npm-1.0.7-19aea1776e-9.zip/node_modules/it-first/",\
         "packageDependencies": [\
-          ["it-first", "npm:1.0.7"]\
+          ["it-first", "npm:1.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-first%2F-%2Fit-first-1.0.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-glob", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-glob-npm-1.0.2-834961f864-9.zip/node_modules/it-glob/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-glob%2F-%2Fit-glob-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-glob-npm-1.0.2-16d7c9e175-9.zip/node_modules/it-glob/",\
         "packageDependencies": [\
-          ["it-glob", "npm:1.0.2"],\
-          ["@types/minimatch", "npm:3.0.5"],\
-          ["minimatch", "npm:3.1.2"]\
+          ["it-glob", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-glob%2F-%2Fit-glob-1.0.2.tgz"],\
+          ["@types/minimatch", "npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fminimatch%2F-%2Fminimatch-3.0.5.tgz"],\
+          ["minimatch", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-3.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-last", [\
-      ["npm:1.0.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-last-npm-1.0.6-03ac5e9d1b-9.zip/node_modules/it-last/",\
+      ["npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-last%2F-%2Fit-last-1.0.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-last-npm-1.0.6-8ce32d2aa6-9.zip/node_modules/it-last/",\
         "packageDependencies": [\
-          ["it-last", "npm:1.0.6"]\
+          ["it-last", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-last%2F-%2Fit-last-1.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-map", [\
-      ["npm:1.0.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-map-npm-1.0.6-4810c8e3ed-9.zip/node_modules/it-map/",\
+      ["npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-map%2F-%2Fit-map-1.0.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-map-npm-1.0.6-da6c291a2c-9.zip/node_modules/it-map/",\
         "packageDependencies": [\
-          ["it-map", "npm:1.0.6"]\
+          ["it-map", "npm:1.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-map%2F-%2Fit-map-1.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-peekable", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-peekable-npm-1.0.3-2c832304d6-9.zip/node_modules/it-peekable/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-peekable%2F-%2Fit-peekable-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-peekable-npm-1.0.3-ca9bec3f4f-9.zip/node_modules/it-peekable/",\
         "packageDependencies": [\
-          ["it-peekable", "npm:1.0.3"]\
+          ["it-peekable", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-peekable%2F-%2Fit-peekable-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["it-to-stream", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-to-stream-npm-1.0.0-294db689c3-9.zip/node_modules/it-to-stream/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-to-stream%2F-%2Fit-to-stream-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/it-to-stream-npm-1.0.0-fe18104568-9.zip/node_modules/it-to-stream/",\
         "packageDependencies": [\
-          ["it-to-stream", "npm:1.0.0"],\
-          ["buffer", "npm:6.0.3"],\
-          ["fast-fifo", "npm:1.3.0"],\
-          ["get-iterator", "npm:1.0.2"],\
-          ["p-defer", "npm:3.0.0"],\
-          ["p-fifo", "npm:1.0.0"],\
-          ["readable-stream", "npm:3.6.2"]\
+          ["it-to-stream", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fit-to-stream%2F-%2Fit-to-stream-1.0.0.tgz"],\
+          ["buffer", "npm:6.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer%2F-%2Fbuffer-6.0.3.tgz"],\
+          ["fast-fifo", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-fifo%2F-%2Ffast-fifo-1.3.0.tgz"],\
+          ["get-iterator", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-iterator%2F-%2Fget-iterator-1.0.2.tgz"],\
+          ["p-defer", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-defer%2F-%2Fp-defer-3.0.0.tgz"],\
+          ["p-fifo", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-fifo%2F-%2Fp-fifo-1.0.0.tgz"],\
+          ["readable-stream", "npm:3.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-3.6.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jackspeak", [\
-      ["npm:2.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jackspeak-npm-2.2.1-0644c98bfe-9.zip/node_modules/jackspeak/",\
+      ["npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjackspeak%2F-%2Fjackspeak-2.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jackspeak-npm-2.2.1-779eaabdf2-9.zip/node_modules/jackspeak/",\
         "packageDependencies": [\
-          ["jackspeak", "npm:2.2.1"],\
-          ["@isaacs/cliui", "npm:8.0.2"],\
-          ["@pkgjs/parseargs", "npm:0.11.0"]\
+          ["jackspeak", "npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjackspeak%2F-%2Fjackspeak-2.2.1.tgz"],\
+          ["@isaacs/cliui", "npm:8.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40isaacs%2Fcliui%2F-%2Fcliui-8.0.2.tgz"],\
+          ["@pkgjs/parseargs", "npm:0.11.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40pkgjs%2Fparseargs%2F-%2Fparseargs-0.11.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jake", [\
-      ["npm:10.8.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jake-npm-10.8.7-1caf9b4534-9.zip/node_modules/jake/",\
+      ["npm:10.8.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjake%2F-%2Fjake-10.8.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jake-npm-10.8.7-e3e43fe900-9.zip/node_modules/jake/",\
         "packageDependencies": [\
-          ["jake", "npm:10.8.7"],\
-          ["async", "npm:3.2.4"],\
-          ["chalk", "npm:4.1.2"],\
-          ["filelist", "npm:1.0.4"],\
-          ["minimatch", "npm:3.1.2"]\
+          ["jake", "npm:10.8.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjake%2F-%2Fjake-10.8.7.tgz"],\
+          ["async", "npm:3.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasync%2F-%2Fasync-3.2.4.tgz"],\
+          ["chalk", "npm:4.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-4.1.2.tgz"],\
+          ["filelist", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffilelist%2F-%2Ffilelist-1.0.4.tgz"],\
+          ["minimatch", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-3.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jayson", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jayson-npm-4.0.0-ecb543a9d0-9.zip/node_modules/jayson/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjayson%2F-%2Fjayson-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jayson-npm-4.0.0-0ae245b841-9.zip/node_modules/jayson/",\
         "packageDependencies": [\
-          ["jayson", "npm:4.0.0"],\
-          ["@types/connect", "npm:3.4.35"],\
-          ["@types/node", "npm:12.20.55"],\
-          ["@types/ws", "npm:7.4.7"],\
-          ["JSONStream", "npm:1.3.5"],\
-          ["commander", "npm:2.20.3"],\
-          ["delay", "npm:5.0.0"],\
-          ["es6-promisify", "npm:5.0.0"],\
-          ["eyes", "npm:0.1.8"],\
-          ["isomorphic-ws", "virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:4.0.1"],\
-          ["json-stringify-safe", "npm:5.0.1"],\
-          ["uuid", "npm:8.3.2"],\
-          ["ws", "virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:7.5.9"]\
+          ["jayson", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjayson%2F-%2Fjayson-4.0.0.tgz"],\
+          ["@types/connect", "npm:3.4.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fconnect%2F-%2Fconnect-3.4.35.tgz"],\
+          ["@types/node", "npm:12.20.55::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-12.20.55.tgz"],\
+          ["@types/ws", "npm:7.4.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fws%2F-%2Fws-7.4.7.tgz"],\
+          ["JSONStream", "npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2FJSONStream%2F-%2FJSONStream-1.3.5.tgz"],\
+          ["commander", "npm:2.20.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcommander%2F-%2Fcommander-2.20.3.tgz"],\
+          ["delay", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdelay%2F-%2Fdelay-5.0.0.tgz"],\
+          ["es6-promisify", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fes6-promisify%2F-%2Fes6-promisify-5.0.0.tgz"],\
+          ["eyes", "npm:0.1.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Feyes%2F-%2Feyes-0.1.8.tgz"],\
+          ["isomorphic-ws", "virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisomorphic-ws%2F-%2Fisomorphic-ws-4.0.1.tgz"],\
+          ["json-stringify-safe", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-stringify-safe%2F-%2Fjson-stringify-safe-5.0.1.tgz"],\
+          ["uuid", "npm:8.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuuid%2F-%2Fuuid-8.3.2.tgz"],\
+          ["ws", "virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:7.5.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fws%2F-%2Fws-7.5.9.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["js-sha3", [\
-      ["npm:0.8.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-sha3-npm-0.8.0-decf3ddcfa-9.zip/node_modules/js-sha3/",\
+      ["npm:0.8.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-sha3%2F-%2Fjs-sha3-0.8.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-sha3-npm-0.8.0-0a566d6d39-9.zip/node_modules/js-sha3/",\
         "packageDependencies": [\
-          ["js-sha3", "npm:0.8.0"]\
+          ["js-sha3", "npm:0.8.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-sha3%2F-%2Fjs-sha3-0.8.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["js-tokens", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-tokens-npm-4.0.0-0ac852e9e2-9.zip/node_modules/js-tokens/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-tokens%2F-%2Fjs-tokens-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-tokens-npm-4.0.0-d899d8a8af-9.zip/node_modules/js-tokens/",\
         "packageDependencies": [\
-          ["js-tokens", "npm:4.0.0"]\
+          ["js-tokens", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-tokens%2F-%2Fjs-tokens-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["js-yaml", [\
-      ["npm:3.14.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-yaml-npm-3.14.1-b968c6095e-9.zip/node_modules/js-yaml/",\
+      ["npm:3.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-3.14.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-yaml-npm-3.14.1-2acc42fc91-9.zip/node_modules/js-yaml/",\
         "packageDependencies": [\
-          ["js-yaml", "npm:3.14.1"],\
-          ["argparse", "npm:1.0.10"],\
-          ["esprima", "npm:4.0.1"]\
+          ["js-yaml", "npm:3.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-3.14.1.tgz"],\
+          ["argparse", "npm:1.0.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fargparse%2F-%2Fargparse-1.0.10.tgz"],\
+          ["esprima", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fesprima%2F-%2Fesprima-4.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-yaml-npm-4.1.0-3606f32312-9.zip/node_modules/js-yaml/",\
+      ["npm:4.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-4.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/js-yaml-npm-4.1.0-bb894a0b84-9.zip/node_modules/js-yaml/",\
         "packageDependencies": [\
-          ["js-yaml", "npm:4.1.0"],\
-          ["argparse", "npm:2.0.1"]\
+          ["js-yaml", "npm:4.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjs-yaml%2F-%2Fjs-yaml-4.1.0.tgz"],\
+          ["argparse", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fargparse%2F-%2Fargparse-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jsbn", [\
-      ["npm:0.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsbn-npm-0.1.1-0eb7132404-9.zip/node_modules/jsbn/",\
+      ["npm:0.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsbn%2F-%2Fjsbn-0.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsbn-npm-0.1.1-1bf8ecccf2-9.zip/node_modules/jsbn/",\
         "packageDependencies": [\
-          ["jsbn", "npm:0.1.1"]\
+          ["jsbn", "npm:0.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsbn%2F-%2Fjsbn-0.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["json-parse-even-better-errors", [\
-      ["npm:2.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-parse-even-better-errors-npm-2.3.1-144d62256e-9.zip/node_modules/json-parse-even-better-errors/",\
+      ["npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-parse-even-better-errors%2F-%2Fjson-parse-even-better-errors-2.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-parse-even-better-errors-npm-2.3.1-3cce1dbe1a-9.zip/node_modules/json-parse-even-better-errors/",\
         "packageDependencies": [\
-          ["json-parse-even-better-errors", "npm:2.3.1"]\
+          ["json-parse-even-better-errors", "npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-parse-even-better-errors%2F-%2Fjson-parse-even-better-errors-2.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["json-schema", [\
-      ["npm:0.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-schema-npm-0.4.0-e776313070-9.zip/node_modules/json-schema/",\
+      ["npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-schema%2F-%2Fjson-schema-0.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-schema-npm-0.4.0-72c2ba9fbc-9.zip/node_modules/json-schema/",\
         "packageDependencies": [\
-          ["json-schema", "npm:0.4.0"]\
+          ["json-schema", "npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-schema%2F-%2Fjson-schema-0.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["json-schema-traverse", [\
-      ["npm:0.4.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-schema-traverse-npm-0.4.1-4759091693-9.zip/node_modules/json-schema-traverse/",\
+      ["npm:0.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-schema-traverse%2F-%2Fjson-schema-traverse-0.4.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-schema-traverse-npm-0.4.1-a7045d3bb2-9.zip/node_modules/json-schema-traverse/",\
         "packageDependencies": [\
-          ["json-schema-traverse", "npm:0.4.1"]\
+          ["json-schema-traverse", "npm:0.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-schema-traverse%2F-%2Fjson-schema-traverse-0.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["json-stringify-safe", [\
-      ["npm:5.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-stringify-safe-npm-5.0.1-064ddd6ab4-9.zip/node_modules/json-stringify-safe/",\
+      ["npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-stringify-safe%2F-%2Fjson-stringify-safe-5.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/json-stringify-safe-npm-5.0.1-985a9d8f90-9.zip/node_modules/json-stringify-safe/",\
         "packageDependencies": [\
-          ["json-stringify-safe", "npm:5.0.1"]\
+          ["json-stringify-safe", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-stringify-safe%2F-%2Fjson-stringify-safe-5.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jsonfile", [\
-      ["npm:6.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsonfile-npm-6.1.0-20a4796cee-9.zip/node_modules/jsonfile/",\
+      ["npm:6.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonfile%2F-%2Fjsonfile-6.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsonfile-npm-6.1.0-3ab0bea0dd-9.zip/node_modules/jsonfile/",\
         "packageDependencies": [\
-          ["jsonfile", "npm:6.1.0"],\
-          ["graceful-fs", "npm:4.2.11"],\
-          ["universalify", "npm:2.0.0"]\
+          ["jsonfile", "npm:6.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonfile%2F-%2Fjsonfile-6.1.0.tgz"],\
+          ["graceful-fs", "npm:4.2.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraceful-fs%2F-%2Fgraceful-fs-4.2.11.tgz"],\
+          ["universalify", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funiversalify%2F-%2Funiversalify-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jsonparse", [\
-      ["npm:1.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsonparse-npm-1.3.1-b6fde74828-9.zip/node_modules/jsonparse/",\
+      ["npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonparse%2F-%2Fjsonparse-1.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsonparse-npm-1.3.1-9327e109be-9.zip/node_modules/jsonparse/",\
         "packageDependencies": [\
-          ["jsonparse", "npm:1.3.1"]\
+          ["jsonparse", "npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsonparse%2F-%2Fjsonparse-1.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["jsprim", [\
-      ["npm:1.4.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsprim-npm-1.4.2-1ae6cade9a-9.zip/node_modules/jsprim/",\
+      ["npm:1.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsprim%2F-%2Fjsprim-1.4.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/jsprim-npm-1.4.2-ca005a5041-9.zip/node_modules/jsprim/",\
         "packageDependencies": [\
-          ["jsprim", "npm:1.4.2"],\
-          ["assert-plus", "npm:1.0.0"],\
-          ["extsprintf", "npm:1.3.0"],\
-          ["json-schema", "npm:0.4.0"],\
-          ["verror", "npm:1.10.0"]\
+          ["jsprim", "npm:1.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsprim%2F-%2Fjsprim-1.4.2.tgz"],\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"],\
+          ["extsprintf", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextsprintf%2F-%2Fextsprintf-1.3.0.tgz"],\
+          ["json-schema", "npm:0.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-schema%2F-%2Fjson-schema-0.4.0.tgz"],\
+          ["verror", "npm:1.10.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fverror%2F-%2Fverror-1.10.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["keccak", [\
-      ["npm:3.0.3", {\
-        "packageLocation": "./.yarn/unplugged/keccak-npm-3.0.3-0a04b1d590/node_modules/keccak/",\
+      ["npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fkeccak%2F-%2Fkeccak-3.0.3.tgz", {\
+        "packageLocation": "./.yarn/unplugged/keccak-npm-3.0.3-bf100d4aea/node_modules/keccak/",\
         "packageDependencies": [\
-          ["keccak", "npm:3.0.3"],\
-          ["node-addon-api", "npm:2.0.2"],\
-          ["node-gyp", "npm:9.4.0"],\
-          ["node-gyp-build", "npm:4.6.0"],\
-          ["readable-stream", "npm:3.6.2"]\
+          ["keccak", "npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fkeccak%2F-%2Fkeccak-3.0.3.tgz"],\
+          ["node-addon-api", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-addon-api%2F-%2Fnode-addon-api-2.0.2.tgz"],\
+          ["node-gyp", "npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz"],\
+          ["node-gyp-build", "npm:4.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp-build%2F-%2Fnode-gyp-build-4.6.0.tgz"],\
+          ["readable-stream", "npm:3.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-3.6.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lines-and-columns", [\
-      ["npm:1.2.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lines-and-columns-npm-1.2.4-d6c7cc5799-9.zip/node_modules/lines-and-columns/",\
+      ["npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flines-and-columns%2F-%2Flines-and-columns-1.2.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lines-and-columns-npm-1.2.4-8ff8ea30b1-9.zip/node_modules/lines-and-columns/",\
         "packageDependencies": [\
-          ["lines-and-columns", "npm:1.2.4"]\
+          ["lines-and-columns", "npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flines-and-columns%2F-%2Flines-and-columns-1.2.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.camelcase", [\
-      ["npm:4.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.camelcase-npm-4.3.0-bf268e3bf0-9.zip/node_modules/lodash.camelcase/",\
+      ["npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.camelcase%2F-%2Flodash.camelcase-4.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.camelcase-npm-4.3.0-69c2165251-9.zip/node_modules/lodash.camelcase/",\
         "packageDependencies": [\
-          ["lodash.camelcase", "npm:4.3.0"]\
+          ["lodash.camelcase", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.camelcase%2F-%2Flodash.camelcase-4.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.kebabcase", [\
-      ["npm:4.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.kebabcase-npm-4.1.1-89ffca7e1f-9.zip/node_modules/lodash.kebabcase/",\
+      ["npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.kebabcase%2F-%2Flodash.kebabcase-4.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.kebabcase-npm-4.1.1-c1601c6c98-9.zip/node_modules/lodash.kebabcase/",\
         "packageDependencies": [\
-          ["lodash.kebabcase", "npm:4.1.1"]\
+          ["lodash.kebabcase", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.kebabcase%2F-%2Flodash.kebabcase-4.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.lowercase", [\
-      ["npm:4.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.lowercase-npm-4.3.0-a8a054cc32-9.zip/node_modules/lodash.lowercase/",\
+      ["npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.lowercase%2F-%2Flodash.lowercase-4.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.lowercase-npm-4.3.0-e44bdc19b1-9.zip/node_modules/lodash.lowercase/",\
         "packageDependencies": [\
-          ["lodash.lowercase", "npm:4.3.0"]\
+          ["lodash.lowercase", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.lowercase%2F-%2Flodash.lowercase-4.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.lowerfirst", [\
-      ["npm:4.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.lowerfirst-npm-4.3.1-2face3f9db-9.zip/node_modules/lodash.lowerfirst/",\
+      ["npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.lowerfirst%2F-%2Flodash.lowerfirst-4.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.lowerfirst-npm-4.3.1-4eedcc6691-9.zip/node_modules/lodash.lowerfirst/",\
         "packageDependencies": [\
-          ["lodash.lowerfirst", "npm:4.3.1"]\
+          ["lodash.lowerfirst", "npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.lowerfirst%2F-%2Flodash.lowerfirst-4.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.pad", [\
-      ["npm:4.5.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.pad-npm-4.5.1-814297ce35-9.zip/node_modules/lodash.pad/",\
+      ["npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.pad%2F-%2Flodash.pad-4.5.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.pad-npm-4.5.1-f239168133-9.zip/node_modules/lodash.pad/",\
         "packageDependencies": [\
-          ["lodash.pad", "npm:4.5.1"]\
+          ["lodash.pad", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.pad%2F-%2Flodash.pad-4.5.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.padend", [\
-      ["npm:4.6.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.padend-npm-4.6.1-6a28392d72-9.zip/node_modules/lodash.padend/",\
+      ["npm:4.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.padend%2F-%2Flodash.padend-4.6.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.padend-npm-4.6.1-257290c858-9.zip/node_modules/lodash.padend/",\
         "packageDependencies": [\
-          ["lodash.padend", "npm:4.6.1"]\
+          ["lodash.padend", "npm:4.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.padend%2F-%2Flodash.padend-4.6.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.padstart", [\
-      ["npm:4.6.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.padstart-npm-4.6.1-c905d3b705-9.zip/node_modules/lodash.padstart/",\
+      ["npm:4.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.padstart%2F-%2Flodash.padstart-4.6.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.padstart-npm-4.6.1-34703ca3a7-9.zip/node_modules/lodash.padstart/",\
         "packageDependencies": [\
-          ["lodash.padstart", "npm:4.6.1"]\
+          ["lodash.padstart", "npm:4.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.padstart%2F-%2Flodash.padstart-4.6.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.repeat", [\
-      ["npm:4.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.repeat-npm-4.1.0-9afe9ac75d-9.zip/node_modules/lodash.repeat/",\
+      ["npm:4.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.repeat%2F-%2Flodash.repeat-4.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.repeat-npm-4.1.0-2890e7a3db-9.zip/node_modules/lodash.repeat/",\
         "packageDependencies": [\
-          ["lodash.repeat", "npm:4.1.0"]\
+          ["lodash.repeat", "npm:4.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.repeat%2F-%2Flodash.repeat-4.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.snakecase", [\
-      ["npm:4.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.snakecase-npm-4.1.1-b12cdbecb4-9.zip/node_modules/lodash.snakecase/",\
+      ["npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.snakecase%2F-%2Flodash.snakecase-4.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.snakecase-npm-4.1.1-9b17f53f81-9.zip/node_modules/lodash.snakecase/",\
         "packageDependencies": [\
-          ["lodash.snakecase", "npm:4.1.1"]\
+          ["lodash.snakecase", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.snakecase%2F-%2Flodash.snakecase-4.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.startcase", [\
-      ["npm:4.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.startcase-npm-4.4.0-637aa8cc15-9.zip/node_modules/lodash.startcase/",\
+      ["npm:4.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.startcase%2F-%2Flodash.startcase-4.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.startcase-npm-4.4.0-346ef7da9e-9.zip/node_modules/lodash.startcase/",\
         "packageDependencies": [\
-          ["lodash.startcase", "npm:4.4.0"]\
+          ["lodash.startcase", "npm:4.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.startcase%2F-%2Flodash.startcase-4.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.trim", [\
-      ["npm:4.5.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.trim-npm-4.5.1-b920ce5a9f-9.zip/node_modules/lodash.trim/",\
+      ["npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trim%2F-%2Flodash.trim-4.5.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.trim-npm-4.5.1-e2c8c72de5-9.zip/node_modules/lodash.trim/",\
         "packageDependencies": [\
-          ["lodash.trim", "npm:4.5.1"]\
+          ["lodash.trim", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trim%2F-%2Flodash.trim-4.5.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.trimend", [\
-      ["npm:4.5.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.trimend-npm-4.5.1-072e5bd2c8-9.zip/node_modules/lodash.trimend/",\
+      ["npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trimend%2F-%2Flodash.trimend-4.5.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.trimend-npm-4.5.1-1ac62461dd-9.zip/node_modules/lodash.trimend/",\
         "packageDependencies": [\
-          ["lodash.trimend", "npm:4.5.1"]\
+          ["lodash.trimend", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trimend%2F-%2Flodash.trimend-4.5.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.trimstart", [\
-      ["npm:4.5.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.trimstart-npm-4.5.1-ad539ab14e-9.zip/node_modules/lodash.trimstart/",\
+      ["npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trimstart%2F-%2Flodash.trimstart-4.5.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.trimstart-npm-4.5.1-a7e5bb8d44-9.zip/node_modules/lodash.trimstart/",\
         "packageDependencies": [\
-          ["lodash.trimstart", "npm:4.5.1"]\
+          ["lodash.trimstart", "npm:4.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.trimstart%2F-%2Flodash.trimstart-4.5.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.uppercase", [\
-      ["npm:4.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.uppercase-npm-4.3.0-e7eb5a36a6-9.zip/node_modules/lodash.uppercase/",\
+      ["npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.uppercase%2F-%2Flodash.uppercase-4.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.uppercase-npm-4.3.0-258087e50b-9.zip/node_modules/lodash.uppercase/",\
         "packageDependencies": [\
-          ["lodash.uppercase", "npm:4.3.0"]\
+          ["lodash.uppercase", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.uppercase%2F-%2Flodash.uppercase-4.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lodash.upperfirst", [\
-      ["npm:4.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.upperfirst-npm-4.3.1-e3b7c364ba-9.zip/node_modules/lodash.upperfirst/",\
+      ["npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.upperfirst%2F-%2Flodash.upperfirst-4.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lodash.upperfirst-npm-4.3.1-100ccc9bf0-9.zip/node_modules/lodash.upperfirst/",\
         "packageDependencies": [\
-          ["lodash.upperfirst", "npm:4.3.1"]\
+          ["lodash.upperfirst", "npm:4.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flodash.upperfirst%2F-%2Flodash.upperfirst-4.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["log-symbols", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/log-symbols-npm-3.0.0-b9d1446657-9.zip/node_modules/log-symbols/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flog-symbols%2F-%2Flog-symbols-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/log-symbols-npm-3.0.0-559b2a1c94-9.zip/node_modules/log-symbols/",\
         "packageDependencies": [\
-          ["log-symbols", "npm:3.0.0"],\
-          ["chalk", "npm:2.4.2"]\
+          ["log-symbols", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flog-symbols%2F-%2Flog-symbols-3.0.0.tgz"],\
+          ["chalk", "npm:2.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-2.4.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["long", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/long-npm-4.0.0-ecd96a31ed-9.zip/node_modules/long/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/long-npm-4.0.0-7336d8436d-9.zip/node_modules/long/",\
         "packageDependencies": [\
-          ["long", "npm:4.0.0"]\
+          ["long", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.2.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/long-npm-5.2.3-61dddb7586-9.zip/node_modules/long/",\
+      ["npm:5.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-5.2.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/long-npm-5.2.3-591f9d344d-9.zip/node_modules/long/",\
         "packageDependencies": [\
-          ["long", "npm:5.2.3"]\
+          ["long", "npm:5.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-5.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["lru-cache", [\
-      ["npm:10.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lru-cache-npm-10.0.0-256d74bb20-9.zip/node_modules/lru-cache/",\
+      ["npm:10.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-10.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lru-cache-npm-10.0.0-fc0eb87a88-9.zip/node_modules/lru-cache/",\
         "packageDependencies": [\
-          ["lru-cache", "npm:10.0.0"]\
+          ["lru-cache", "npm:10.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-10.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lru-cache-npm-6.0.0-b4c8668fe1-9.zip/node_modules/lru-cache/",\
+      ["npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-6.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lru-cache-npm-6.0.0-b43b517ccf-9.zip/node_modules/lru-cache/",\
         "packageDependencies": [\
-          ["lru-cache", "npm:6.0.0"],\
-          ["yallist", "npm:4.0.0"]\
+          ["lru-cache", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-6.0.0.tgz"],\
+          ["yallist", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyallist%2F-%2Fyallist-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.18.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/lru-cache-npm-7.18.3-e68be5b11c-9.zip/node_modules/lru-cache/",\
+      ["npm:7.18.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-7.18.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/lru-cache-npm-7.18.3-de93aad061-9.zip/node_modules/lru-cache/",\
         "packageDependencies": [\
-          ["lru-cache", "npm:7.18.3"]\
+          ["lru-cache", "npm:7.18.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-7.18.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["make-error", [\
-      ["npm:1.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/make-error-npm-1.3.6-ccb85d9458-9.zip/node_modules/make-error/",\
+      ["npm:1.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmake-error%2F-%2Fmake-error-1.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/make-error-npm-1.3.6-57913f07cd-9.zip/node_modules/make-error/",\
         "packageDependencies": [\
-          ["make-error", "npm:1.3.6"]\
+          ["make-error", "npm:1.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmake-error%2F-%2Fmake-error-1.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["make-fetch-happen", [\
-      ["npm:11.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/make-fetch-happen-npm-11.1.1-f32b79aaaa-9.zip/node_modules/make-fetch-happen/",\
+      ["npm:11.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmake-fetch-happen%2F-%2Fmake-fetch-happen-11.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/make-fetch-happen-npm-11.1.1-6a8a4b2792-9.zip/node_modules/make-fetch-happen/",\
         "packageDependencies": [\
-          ["make-fetch-happen", "npm:11.1.1"],\
-          ["agentkeepalive", "npm:4.3.0"],\
-          ["cacache", "npm:17.1.3"],\
-          ["http-cache-semantics", "npm:4.1.1"],\
-          ["http-proxy-agent", "npm:5.0.0"],\
-          ["https-proxy-agent", "npm:5.0.1"],\
-          ["is-lambda", "npm:1.0.1"],\
-          ["lru-cache", "npm:7.18.3"],\
-          ["minipass", "npm:5.0.0"],\
-          ["minipass-fetch", "npm:3.0.3"],\
-          ["minipass-flush", "npm:1.0.5"],\
-          ["minipass-pipeline", "npm:1.2.4"],\
-          ["negotiator", "npm:0.6.3"],\
-          ["promise-retry", "npm:2.0.1"],\
-          ["socks-proxy-agent", "npm:7.0.0"],\
-          ["ssri", "npm:10.0.4"]\
+          ["make-fetch-happen", "npm:11.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmake-fetch-happen%2F-%2Fmake-fetch-happen-11.1.1.tgz"],\
+          ["agentkeepalive", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagentkeepalive%2F-%2Fagentkeepalive-4.3.0.tgz"],\
+          ["cacache", "npm:17.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcacache%2F-%2Fcacache-17.1.3.tgz"],\
+          ["http-cache-semantics", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-cache-semantics%2F-%2Fhttp-cache-semantics-4.1.1.tgz"],\
+          ["http-proxy-agent", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-proxy-agent%2F-%2Fhttp-proxy-agent-5.0.0.tgz"],\
+          ["https-proxy-agent", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttps-proxy-agent%2F-%2Fhttps-proxy-agent-5.0.1.tgz"],\
+          ["is-lambda", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-lambda%2F-%2Fis-lambda-1.0.1.tgz"],\
+          ["lru-cache", "npm:7.18.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-7.18.3.tgz"],\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"],\
+          ["minipass-fetch", "npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-fetch%2F-%2Fminipass-fetch-3.0.3.tgz"],\
+          ["minipass-flush", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-flush%2F-%2Fminipass-flush-1.0.5.tgz"],\
+          ["minipass-pipeline", "npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-pipeline%2F-%2Fminipass-pipeline-1.2.4.tgz"],\
+          ["negotiator", "npm:0.6.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnegotiator%2F-%2Fnegotiator-0.6.3.tgz"],\
+          ["promise-retry", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpromise-retry%2F-%2Fpromise-retry-2.0.1.tgz"],\
+          ["socks-proxy-agent", "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsocks-proxy-agent%2F-%2Fsocks-proxy-agent-7.0.0.tgz"],\
+          ["ssri", "npm:10.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fssri%2F-%2Fssri-10.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["matchstick-as", [\
-      ["npm:0.5.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/matchstick-as-npm-0.5.0-93c697a2d2-9.zip/node_modules/matchstick-as/",\
+      ["npm:0.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmatchstick-as%2F-%2Fmatchstick-as-0.5.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/matchstick-as-npm-0.5.0-22b28bcdaf-9.zip/node_modules/matchstick-as/",\
         "packageDependencies": [\
-          ["matchstick-as", "npm:0.5.0"],\
-          ["@graphprotocol/graph-ts", "npm:0.27.0"],\
-          ["assemblyscript", "npm:0.19.23"],\
-          ["wabt", "npm:1.0.24"]\
+          ["matchstick-as", "npm:0.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmatchstick-as%2F-%2Fmatchstick-as-0.5.0.tgz"],\
+          ["@graphprotocol/graph-ts", "npm:0.27.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.27.0.tgz"],\
+          ["assemblyscript", "npm:0.19.23::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassemblyscript%2F-%2Fassemblyscript-0.19.23.tgz"],\
+          ["wabt", "npm:1.0.24::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwabt%2F-%2Fwabt-1.0.24.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["md5.js", [\
-      ["npm:1.3.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/md5.js-npm-1.3.5-130901125a-9.zip/node_modules/md5.js/",\
+      ["npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmd5.js%2F-%2Fmd5.js-1.3.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/md5.js-npm-1.3.5-193b7440b1-9.zip/node_modules/md5.js/",\
         "packageDependencies": [\
-          ["md5.js", "npm:1.3.5"],\
-          ["hash-base", "npm:3.1.0"],\
-          ["inherits", "npm:2.0.4"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["md5.js", "npm:1.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmd5.js%2F-%2Fmd5.js-1.3.5.tgz"],\
+          ["hash-base", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash-base%2F-%2Fhash-base-3.1.0.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["merge-options", [\
-      ["npm:3.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/merge-options-npm-3.0.4-f2ee6b8ea0-9.zip/node_modules/merge-options/",\
+      ["npm:3.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-options%2F-%2Fmerge-options-3.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/merge-options-npm-3.0.4-c8147dcd49-9.zip/node_modules/merge-options/",\
         "packageDependencies": [\
-          ["merge-options", "npm:3.0.4"],\
-          ["is-plain-obj", "npm:2.1.0"]\
+          ["merge-options", "npm:3.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-options%2F-%2Fmerge-options-3.0.4.tgz"],\
+          ["is-plain-obj", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-plain-obj%2F-%2Fis-plain-obj-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["merge-stream", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/merge-stream-npm-2.0.0-2ac83efea5-9.zip/node_modules/merge-stream/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-stream%2F-%2Fmerge-stream-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/merge-stream-npm-2.0.0-f347e6fef5-9.zip/node_modules/merge-stream/",\
         "packageDependencies": [\
-          ["merge-stream", "npm:2.0.0"]\
+          ["merge-stream", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge-stream%2F-%2Fmerge-stream-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["merge2", [\
-      ["npm:1.4.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/merge2-npm-1.4.1-a2507bd06c-9.zip/node_modules/merge2/",\
+      ["npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge2%2F-%2Fmerge2-1.4.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/merge2-npm-1.4.1-9b79461f2b-9.zip/node_modules/merge2/",\
         "packageDependencies": [\
-          ["merge2", "npm:1.4.1"]\
+          ["merge2", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmerge2%2F-%2Fmerge2-1.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["micromatch", [\
-      ["npm:4.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/micromatch-npm-4.0.5-cfab5d7669-9.zip/node_modules/micromatch/",\
+      ["npm:4.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmicromatch%2F-%2Fmicromatch-4.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/micromatch-npm-4.0.5-df4c19abe5-9.zip/node_modules/micromatch/",\
         "packageDependencies": [\
-          ["micromatch", "npm:4.0.5"],\
-          ["braces", "npm:3.0.2"],\
-          ["picomatch", "npm:2.3.1"]\
+          ["micromatch", "npm:4.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmicromatch%2F-%2Fmicromatch-4.0.5.tgz"],\
+          ["braces", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbraces%2F-%2Fbraces-3.0.2.tgz"],\
+          ["picomatch", "npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpicomatch%2F-%2Fpicomatch-2.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["mime-db", [\
-      ["npm:1.52.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/mime-db-npm-1.52.0-b5371d6fd2-9.zip/node_modules/mime-db/",\
+      ["npm:1.52.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-db%2F-%2Fmime-db-1.52.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/mime-db-npm-1.52.0-fcf1e84d72-9.zip/node_modules/mime-db/",\
         "packageDependencies": [\
-          ["mime-db", "npm:1.52.0"]\
+          ["mime-db", "npm:1.52.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-db%2F-%2Fmime-db-1.52.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["mime-types", [\
-      ["npm:2.1.35", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/mime-types-npm-2.1.35-dd9ea9f3e2-9.zip/node_modules/mime-types/",\
+      ["npm:2.1.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-types%2F-%2Fmime-types-2.1.35.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/mime-types-npm-2.1.35-b411c40eab-9.zip/node_modules/mime-types/",\
         "packageDependencies": [\
-          ["mime-types", "npm:2.1.35"],\
-          ["mime-db", "npm:1.52.0"]\
+          ["mime-types", "npm:2.1.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-types%2F-%2Fmime-types-2.1.35.tgz"],\
+          ["mime-db", "npm:1.52.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-db%2F-%2Fmime-db-1.52.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["mimic-fn", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/mimic-fn-npm-2.1.0-4fbeb3abb4-9.zip/node_modules/mimic-fn/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmimic-fn%2F-%2Fmimic-fn-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/mimic-fn-npm-2.1.0-acc513c452-9.zip/node_modules/mimic-fn/",\
         "packageDependencies": [\
-          ["mimic-fn", "npm:2.1.0"]\
+          ["mimic-fn", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmimic-fn%2F-%2Fmimic-fn-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minimalistic-assert", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimalistic-assert-npm-1.0.1-dc8bb23d29-9.zip/node_modules/minimalistic-assert/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-assert%2F-%2Fminimalistic-assert-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimalistic-assert-npm-1.0.1-4ee49094b5-9.zip/node_modules/minimalistic-assert/",\
         "packageDependencies": [\
-          ["minimalistic-assert", "npm:1.0.1"]\
+          ["minimalistic-assert", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-assert%2F-%2Fminimalistic-assert-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minimalistic-crypto-utils", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimalistic-crypto-utils-npm-1.0.1-e66b10822e-9.zip/node_modules/minimalistic-crypto-utils/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-crypto-utils%2F-%2Fminimalistic-crypto-utils-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimalistic-crypto-utils-npm-1.0.1-71f58cd5e5-9.zip/node_modules/minimalistic-crypto-utils/",\
         "packageDependencies": [\
-          ["minimalistic-crypto-utils", "npm:1.0.1"]\
+          ["minimalistic-crypto-utils", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimalistic-crypto-utils%2F-%2Fminimalistic-crypto-utils-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minimatch", [\
-      ["npm:3.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-3.1.2-9405269906-9.zip/node_modules/minimatch/",\
+      ["npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-3.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-3.1.2-5dab187ea2-9.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["minimatch", "npm:3.1.2"],\
-          ["brace-expansion", "npm:1.1.11"]\
+          ["minimatch", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-3.1.2.tgz"],\
+          ["brace-expansion", "npm:1.1.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-1.1.11.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.1.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-5.1.6-1e71429f4c-9.zip/node_modules/minimatch/",\
+      ["npm:5.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-5.1.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-5.1.6-316956a449-9.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["minimatch", "npm:5.1.6"],\
-          ["brace-expansion", "npm:2.0.1"]\
+          ["minimatch", "npm:5.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-5.1.6.tgz"],\
+          ["brace-expansion", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-8.0.4-bf57f0e98a-9.zip/node_modules/minimatch/",\
+      ["npm:8.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-8.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-8.0.4-d01481309a-9.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["minimatch", "npm:8.0.4"],\
-          ["brace-expansion", "npm:2.0.1"]\
+          ["minimatch", "npm:8.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-8.0.4.tgz"],\
+          ["brace-expansion", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:9.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-9.0.3-69d7d6fad5-9.zip/node_modules/minimatch/",\
+      ["npm:9.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-9.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimatch-npm-9.0.3-c3e0f42e2d-9.zip/node_modules/minimatch/",\
         "packageDependencies": [\
-          ["minimatch", "npm:9.0.3"],\
-          ["brace-expansion", "npm:2.0.1"]\
+          ["minimatch", "npm:9.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimatch%2F-%2Fminimatch-9.0.3.tgz"],\
+          ["brace-expansion", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbrace-expansion%2F-%2Fbrace-expansion-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minimist", [\
-      ["npm:1.2.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimist-npm-1.2.8-d7af7b1dce-9.zip/node_modules/minimist/",\
+      ["npm:1.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimist%2F-%2Fminimist-1.2.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minimist-npm-1.2.8-8bf0b3c81b-9.zip/node_modules/minimist/",\
         "packageDependencies": [\
-          ["minimist", "npm:1.2.8"]\
+          ["minimist", "npm:1.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimist%2F-%2Fminimist-1.2.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minipass", [\
-      ["npm:3.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-3.3.6-b8d93a945b-9.zip/node_modules/minipass/",\
+      ["npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-3.3.6-54caf06dcf-9.zip/node_modules/minipass/",\
         "packageDependencies": [\
-          ["minipass", "npm:3.3.6"],\
-          ["yallist", "npm:4.0.0"]\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"],\
+          ["yallist", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyallist%2F-%2Fyallist-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.2.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-4.2.8-f05abfe254-9.zip/node_modules/minipass/",\
+      ["npm:4.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-4.2.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-4.2.8-ba8ccf19f6-9.zip/node_modules/minipass/",\
         "packageDependencies": [\
-          ["minipass", "npm:4.2.8"]\
+          ["minipass", "npm:4.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-4.2.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-5.0.0-c64fb63c92-9.zip/node_modules/minipass/",\
+      ["npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-5.0.0-a8798487a2-9.zip/node_modules/minipass/",\
         "packageDependencies": [\
-          ["minipass", "npm:5.0.0"]\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-6.0.2-a7fca64b94-9.zip/node_modules/minipass/",\
+      ["npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-7.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-npm-7.0.1-63645b7eeb-9.zip/node_modules/minipass/",\
         "packageDependencies": [\
-          ["minipass", "npm:6.0.2"]\
+          ["minipass", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-7.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minipass-collect", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-collect-npm-1.0.2-3b4676eab5-9.zip/node_modules/minipass-collect/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-collect%2F-%2Fminipass-collect-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-collect-npm-1.0.2-46ee15ac30-9.zip/node_modules/minipass-collect/",\
         "packageDependencies": [\
-          ["minipass-collect", "npm:1.0.2"],\
-          ["minipass", "npm:3.3.6"]\
+          ["minipass-collect", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-collect%2F-%2Fminipass-collect-1.0.2.tgz"],\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minipass-fetch", [\
-      ["npm:3.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-fetch-npm-3.0.3-2c4966d142-9.zip/node_modules/minipass-fetch/",\
+      ["npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-fetch%2F-%2Fminipass-fetch-3.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-fetch-npm-3.0.3-d2c8ebe9ae-9.zip/node_modules/minipass-fetch/",\
         "packageDependencies": [\
-          ["minipass-fetch", "npm:3.0.3"],\
-          ["encoding", "npm:0.1.13"],\
-          ["minipass", "npm:5.0.0"],\
-          ["minipass-sized", "npm:1.0.3"],\
-          ["minizlib", "npm:2.1.2"]\
+          ["minipass-fetch", "npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-fetch%2F-%2Fminipass-fetch-3.0.3.tgz"],\
+          ["encoding", "npm:0.1.13::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fencoding%2F-%2Fencoding-0.1.13.tgz"],\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"],\
+          ["minipass-sized", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-sized%2F-%2Fminipass-sized-1.0.3.tgz"],\
+          ["minizlib", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminizlib%2F-%2Fminizlib-2.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minipass-flush", [\
-      ["npm:1.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-flush-npm-1.0.5-efe79d9826-9.zip/node_modules/minipass-flush/",\
+      ["npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-flush%2F-%2Fminipass-flush-1.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-flush-npm-1.0.5-0e68286538-9.zip/node_modules/minipass-flush/",\
         "packageDependencies": [\
-          ["minipass-flush", "npm:1.0.5"],\
-          ["minipass", "npm:3.3.6"]\
+          ["minipass-flush", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-flush%2F-%2Fminipass-flush-1.0.5.tgz"],\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minipass-pipeline", [\
-      ["npm:1.2.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-pipeline-npm-1.2.4-5924cb077f-9.zip/node_modules/minipass-pipeline/",\
+      ["npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-pipeline%2F-%2Fminipass-pipeline-1.2.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-pipeline-npm-1.2.4-2a56c17eb8-9.zip/node_modules/minipass-pipeline/",\
         "packageDependencies": [\
-          ["minipass-pipeline", "npm:1.2.4"],\
-          ["minipass", "npm:3.3.6"]\
+          ["minipass-pipeline", "npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-pipeline%2F-%2Fminipass-pipeline-1.2.4.tgz"],\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minipass-sized", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-sized-npm-1.0.3-306d86f432-9.zip/node_modules/minipass-sized/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-sized%2F-%2Fminipass-sized-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minipass-sized-npm-1.0.3-a37dec27b0-9.zip/node_modules/minipass-sized/",\
         "packageDependencies": [\
-          ["minipass-sized", "npm:1.0.3"],\
-          ["minipass", "npm:3.3.6"]\
+          ["minipass-sized", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass-sized%2F-%2Fminipass-sized-1.0.3.tgz"],\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["minizlib", [\
-      ["npm:2.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/minizlib-npm-2.1.2-ea89cd0cfb-9.zip/node_modules/minizlib/",\
+      ["npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminizlib%2F-%2Fminizlib-2.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/minizlib-npm-2.1.2-ee12aa550f-9.zip/node_modules/minizlib/",\
         "packageDependencies": [\
-          ["minizlib", "npm:2.1.2"],\
-          ["minipass", "npm:3.3.6"],\
-          ["yallist", "npm:4.0.0"]\
+          ["minizlib", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminizlib%2F-%2Fminizlib-2.1.2.tgz"],\
+          ["minipass", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-3.3.6.tgz"],\
+          ["yallist", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyallist%2F-%2Fyallist-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["mkdirp", [\
-      ["npm:0.5.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/mkdirp-npm-0.5.6-dcd5a6b97b-9.zip/node_modules/mkdirp/",\
+      ["npm:0.5.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmkdirp%2F-%2Fmkdirp-0.5.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/mkdirp-npm-0.5.6-01ac6ea51e-9.zip/node_modules/mkdirp/",\
         "packageDependencies": [\
-          ["mkdirp", "npm:0.5.6"],\
-          ["minimist", "npm:1.2.8"]\
+          ["mkdirp", "npm:0.5.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmkdirp%2F-%2Fmkdirp-0.5.6.tgz"],\
+          ["minimist", "npm:1.2.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminimist%2F-%2Fminimist-1.2.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/mkdirp-npm-1.0.4-37f6ef56b9-9.zip/node_modules/mkdirp/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmkdirp%2F-%2Fmkdirp-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/mkdirp-npm-1.0.4-de6b5650ee-9.zip/node_modules/mkdirp/",\
         "packageDependencies": [\
-          ["mkdirp", "npm:1.0.4"]\
+          ["mkdirp", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmkdirp%2F-%2Fmkdirp-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ms", [\
-      ["npm:2.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ms-npm-2.1.2-ec0c1512ff-9.zip/node_modules/ms/",\
+      ["npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ms-npm-2.1.2-598f91e920-9.zip/node_modules/ms/",\
         "packageDependencies": [\
-          ["ms", "npm:2.1.2"]\
+          ["ms", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ms-npm-2.1.3-81ff3cfac1-9.zip/node_modules/ms/",\
+      ["npm:2.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ms-npm-2.1.3-6bf4b4763d-9.zip/node_modules/ms/",\
         "packageDependencies": [\
-          ["ms", "npm:2.1.3"]\
+          ["ms", "npm:2.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["multiaddr", [\
-      ["npm:10.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/multiaddr-npm-10.0.1-f710c214c9-9.zip/node_modules/multiaddr/",\
+      ["npm:10.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr%2F-%2Fmultiaddr-10.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/multiaddr-npm-10.0.1-43b0f0a0e5-9.zip/node_modules/multiaddr/",\
         "packageDependencies": [\
-          ["multiaddr", "npm:10.0.1"],\
-          ["dns-over-http-resolver", "npm:1.2.3"],\
-          ["err-code", "npm:3.0.1"],\
-          ["is-ip", "npm:3.1.0"],\
-          ["multiformats", "npm:9.9.0"],\
-          ["uint8arrays", "npm:3.1.1"],\
-          ["varint", "npm:6.0.0"]\
+          ["multiaddr", "npm:10.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr%2F-%2Fmultiaddr-10.0.1.tgz"],\
+          ["dns-over-http-resolver", "npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdns-over-http-resolver%2F-%2Fdns-over-http-resolver-1.2.3.tgz"],\
+          ["err-code", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-3.0.1.tgz"],\
+          ["is-ip", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-ip%2F-%2Fis-ip-3.1.0.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"],\
+          ["uint8arrays", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuint8arrays%2F-%2Fuint8arrays-3.1.1.tgz"],\
+          ["varint", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fvarint%2F-%2Fvarint-6.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["multiaddr-to-uri", [\
-      ["npm:8.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/multiaddr-to-uri-npm-8.0.0-14da8ed990-9.zip/node_modules/multiaddr-to-uri/",\
+      ["npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr-to-uri%2F-%2Fmultiaddr-to-uri-8.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/multiaddr-to-uri-npm-8.0.0-b7ee4ca50c-9.zip/node_modules/multiaddr-to-uri/",\
         "packageDependencies": [\
-          ["multiaddr-to-uri", "npm:8.0.0"],\
-          ["multiaddr", "npm:10.0.1"]\
+          ["multiaddr-to-uri", "npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr-to-uri%2F-%2Fmultiaddr-to-uri-8.0.0.tgz"],\
+          ["multiaddr", "npm:10.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiaddr%2F-%2Fmultiaddr-10.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["multiformats", [\
-      ["npm:9.9.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/multiformats-npm-9.9.0-73ec9f8079-9.zip/node_modules/multiformats/",\
+      ["npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/multiformats-npm-9.9.0-8e24205c95-9.zip/node_modules/multiformats/",\
         "packageDependencies": [\
-          ["multiformats", "npm:9.9.0"]\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["nanoid", [\
-      ["npm:3.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/nanoid-npm-3.3.6-e6d6ae7e71-9.zip/node_modules/nanoid/",\
+      ["npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2F-%2Fnanoid-3.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/nanoid-npm-3.3.6-6af463d9ae-9.zip/node_modules/nanoid/",\
         "packageDependencies": [\
-          ["nanoid", "npm:3.3.6"]\
+          ["nanoid", "npm:3.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2F-%2Fnanoid-3.3.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["native-abort-controller", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/native-abort-controller-npm-1.0.4-465da4e567-9.zip/node_modules/native-abort-controller/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/native-abort-controller-npm-1.0.4-045f542cd9-9.zip/node_modules/native-abort-controller/",\
         "packageDependencies": [\
-          ["native-abort-controller", "npm:1.0.4"]\
+          ["native-abort-controller", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:14d42817b2231f8a8dd06edeb23b1acf2fa57fb20de602da61a3ef140a00ff0e827e59e2af2d696c0e64f98737ed7cb42c5d09825e00687282afb3fce105533f#npm:1.0.4", {\
-        "packageLocation": "./.yarn/__virtual__/native-abort-controller-virtual-fd2b60f354/7/root/.yarn/berry/cache/native-abort-controller-npm-1.0.4-465da4e567-9.zip/node_modules/native-abort-controller/",\
+      ["virtual:c42580360c84acf672ccadd2f4c69407d21eb6ba78b5f7b5df4ca41afc07e1c796ccc377061dc849b2138522d3197e7248f440c853faaf8c840cb7d837e09b1b#npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/native-abort-controller-virtual-8905cb0b27/7/root/.yarn/berry/cache/native-abort-controller-npm-1.0.4-045f542cd9-9.zip/node_modules/native-abort-controller/",\
         "packageDependencies": [\
-          ["native-abort-controller", "virtual:14d42817b2231f8a8dd06edeb23b1acf2fa57fb20de602da61a3ef140a00ff0e827e59e2af2d696c0e64f98737ed7cb42c5d09825e00687282afb3fce105533f#npm:1.0.4"],\
+          ["native-abort-controller", "virtual:c42580360c84acf672ccadd2f4c69407d21eb6ba78b5f7b5df4ca41afc07e1c796ccc377061dc849b2138522d3197e7248f440c853faaf8c840cb7d837e09b1b#npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz"],\
           ["@types/abort-controller", null],\
-          ["abort-controller", "npm:3.0.0"]\
+          ["abort-controller", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabort-controller%2F-%2Fabort-controller-3.0.0.tgz"]\
         ],\
         "packagePeers": [\
           "@types/abort-controller",\
@@ -4441,19 +4441,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["native-fetch", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/native-fetch-npm-3.0.0-9511457262-9.zip/node_modules/native-fetch/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/native-fetch-npm-3.0.0-86ff0dfc6a-9.zip/node_modules/native-fetch/",\
         "packageDependencies": [\
-          ["native-fetch", "npm:3.0.0"]\
+          ["native-fetch", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:3.0.0", {\
-        "packageLocation": "./.yarn/__virtual__/native-fetch-virtual-dbece16713/7/root/.yarn/berry/cache/native-fetch-npm-3.0.0-9511457262-9.zip/node_modules/native-fetch/",\
+      ["virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/native-fetch-virtual-3cc2aa459f/7/root/.yarn/berry/cache/native-fetch-npm-3.0.0-86ff0dfc6a-9.zip/node_modules/native-fetch/",\
         "packageDependencies": [\
-          ["native-fetch", "virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:3.0.0"],\
+          ["native-fetch", "virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz"],\
           ["@types/node-fetch", null],\
-          ["node-fetch", "virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:2.6.12"]\
+          ["node-fetch", "virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:2.6.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-fetch%2F-%2Fnode-fetch-2.6.12.tgz"]\
         ],\
         "packagePeers": [\
           "@types/node-fetch",\
@@ -4461,10 +4461,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["virtual:44ae921843a40f79e037a9ef63c8661a9d6b4f9abe0d89622479a6ef01fe400749c4dad34c41b6957f7078f0aac238136f2857444ade7cc5c7f096c4f4141f58#npm:3.0.0", {\
-        "packageLocation": "./.yarn/__virtual__/native-fetch-virtual-4cbe40f81c/7/root/.yarn/berry/cache/native-fetch-npm-3.0.0-9511457262-9.zip/node_modules/native-fetch/",\
+      ["virtual:bd8e1cfc225ab3225f6216169ed19842ae34021e0d7061502e8a837b37c9a6fdb48782016cb6a8b11b75afad51961964be5e3b59aac4c1188d2b5153eb3795a0#npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/native-fetch-virtual-8aadc1ec3a/7/root/.yarn/berry/cache/native-fetch-npm-3.0.0-86ff0dfc6a-9.zip/node_modules/native-fetch/",\
         "packageDependencies": [\
-          ["native-fetch", "virtual:44ae921843a40f79e037a9ef63c8661a9d6b4f9abe0d89622479a6ef01fe400749c4dad34c41b6957f7078f0aac238136f2857444ade7cc5c7f096c4f4141f58#npm:3.0.0"],\
+          ["native-fetch", "virtual:bd8e1cfc225ab3225f6216169ed19842ae34021e0d7061502e8a837b37c9a6fdb48782016cb6a8b11b75afad51961964be5e3b59aac4c1188d2b5153eb3795a0#npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-fetch%2F-%2Fnative-fetch-3.0.0.tgz"],\
           ["@types/node-fetch", null],\
           ["node-fetch", null]\
         ],\
@@ -4476,57 +4476,57 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["natural-orderby", [\
-      ["npm:2.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/natural-orderby-npm-2.0.3-e519eaa77c-9.zip/node_modules/natural-orderby/",\
+      ["npm:2.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnatural-orderby%2F-%2Fnatural-orderby-2.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/natural-orderby-npm-2.0.3-5505a72ff5-9.zip/node_modules/natural-orderby/",\
         "packageDependencies": [\
-          ["natural-orderby", "npm:2.0.3"]\
+          ["natural-orderby", "npm:2.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnatural-orderby%2F-%2Fnatural-orderby-2.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["negotiator", [\
-      ["npm:0.6.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/negotiator-npm-0.6.3-9d50e36171-9.zip/node_modules/negotiator/",\
+      ["npm:0.6.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnegotiator%2F-%2Fnegotiator-0.6.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/negotiator-npm-0.6.3-250db6c028-9.zip/node_modules/negotiator/",\
         "packageDependencies": [\
-          ["negotiator", "npm:0.6.3"]\
+          ["negotiator", "npm:0.6.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnegotiator%2F-%2Fnegotiator-0.6.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["nice-try", [\
-      ["npm:1.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/nice-try-npm-1.0.5-963856b16f-9.zip/node_modules/nice-try/",\
+      ["npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnice-try%2F-%2Fnice-try-1.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/nice-try-npm-1.0.5-b2ca44bc7a-9.zip/node_modules/nice-try/",\
         "packageDependencies": [\
-          ["nice-try", "npm:1.0.5"]\
+          ["nice-try", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnice-try%2F-%2Fnice-try-1.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["node-addon-api", [\
-      ["npm:2.0.2", {\
-        "packageLocation": "./.yarn/unplugged/node-addon-api-npm-2.0.2-8c2c1e9782/node_modules/node-addon-api/",\
+      ["npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-addon-api%2F-%2Fnode-addon-api-2.0.2.tgz", {\
+        "packageLocation": "./.yarn/unplugged/node-addon-api-npm-2.0.2-7e235609db/node_modules/node-addon-api/",\
         "packageDependencies": [\
-          ["node-addon-api", "npm:2.0.2"],\
-          ["node-gyp", "npm:9.4.0"]\
+          ["node-addon-api", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-addon-api%2F-%2Fnode-addon-api-2.0.2.tgz"],\
+          ["node-gyp", "npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["node-fetch", [\
-      ["npm:2.6.12", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/node-fetch-npm-2.6.12-48619ce9d6-9.zip/node_modules/node-fetch/",\
+      ["npm:2.6.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-fetch%2F-%2Fnode-fetch-2.6.12.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/node-fetch-npm-2.6.12-7f8bb6d2a0-9.zip/node_modules/node-fetch/",\
         "packageDependencies": [\
-          ["node-fetch", "npm:2.6.12"]\
+          ["node-fetch", "npm:2.6.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-fetch%2F-%2Fnode-fetch-2.6.12.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:2.6.12", {\
-        "packageLocation": "./.yarn/__virtual__/node-fetch-virtual-78e38f871f/7/root/.yarn/berry/cache/node-fetch-npm-2.6.12-48619ce9d6-9.zip/node_modules/node-fetch/",\
+      ["virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:2.6.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-fetch%2F-%2Fnode-fetch-2.6.12.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/node-fetch-virtual-9b88de2eef/7/root/.yarn/berry/cache/node-fetch-npm-2.6.12-7f8bb6d2a0-9.zip/node_modules/node-fetch/",\
         "packageDependencies": [\
-          ["node-fetch", "virtual:015393dfc36ab633fdcaf9de1e3ccde3db6b7bc83a4d98b995dfbb60bacfb7153d2e9c553b2acaf2f6be54b5cb0857ecd49daea9a6dcf87a8d83ce802dc28c9c#npm:2.6.12"],\
+          ["node-fetch", "virtual:b3e0e574f9e8cf0fe18391358ad49a881bbdcc23d92b1da5cd479d97ada34ca1eb752f7805d7da4a60bd7d1ad50e702c3b6e26af490f102a22d86fdf09b7b06e#npm:2.6.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-fetch%2F-%2Fnode-fetch-2.6.12.tgz"],\
           ["@types/encoding", null],\
           ["encoding", null],\
-          ["whatwg-url", "npm:5.0.0"]\
+          ["whatwg-url", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhatwg-url%2F-%2Fwhatwg-url-5.0.0.tgz"]\
         ],\
         "packagePeers": [\
           "@types/encoding",\
@@ -4536,1305 +4536,1305 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["node-gyp", [\
-      ["npm:9.4.0", {\
-        "packageLocation": "./.yarn/unplugged/node-gyp-npm-9.4.0-ebf5f5573e/node_modules/node-gyp/",\
+      ["npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz", {\
+        "packageLocation": "./.yarn/unplugged/node-gyp-npm-9.4.0-a3e6727fcf/node_modules/node-gyp/",\
         "packageDependencies": [\
-          ["node-gyp", "npm:9.4.0"],\
-          ["env-paths", "npm:2.2.1"],\
-          ["exponential-backoff", "npm:3.1.1"],\
-          ["glob", "npm:7.2.3"],\
-          ["graceful-fs", "npm:4.2.11"],\
-          ["make-fetch-happen", "npm:11.1.1"],\
-          ["nopt", "npm:6.0.0"],\
-          ["npmlog", "npm:6.0.2"],\
-          ["rimraf", "npm:3.0.2"],\
-          ["semver", "npm:7.5.3"],\
-          ["tar", "npm:6.1.15"],\
-          ["which", "npm:2.0.2"]\
+          ["node-gyp", "npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz"],\
+          ["env-paths", "npm:2.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fenv-paths%2F-%2Fenv-paths-2.2.1.tgz"],\
+          ["exponential-backoff", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fexponential-backoff%2F-%2Fexponential-backoff-3.1.1.tgz"],\
+          ["glob", "npm:7.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-7.2.3.tgz"],\
+          ["graceful-fs", "npm:4.2.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgraceful-fs%2F-%2Fgraceful-fs-4.2.11.tgz"],\
+          ["make-fetch-happen", "npm:11.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmake-fetch-happen%2F-%2Fmake-fetch-happen-11.1.1.tgz"],\
+          ["nopt", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnopt%2F-%2Fnopt-6.0.0.tgz"],\
+          ["npmlog", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnpmlog%2F-%2Fnpmlog-6.0.2.tgz"],\
+          ["rimraf", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-3.0.2.tgz"],\
+          ["semver", "npm:7.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.5.4.tgz"],\
+          ["tar", "npm:6.1.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar%2F-%2Ftar-6.1.15.tgz"],\
+          ["which", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-2.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["node-gyp-build", [\
-      ["npm:4.6.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/node-gyp-build-npm-4.6.0-5434aac3e5-9.zip/node_modules/node-gyp-build/",\
+      ["npm:4.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp-build%2F-%2Fnode-gyp-build-4.6.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/node-gyp-build-npm-4.6.0-b567456b1c-9.zip/node_modules/node-gyp-build/",\
         "packageDependencies": [\
-          ["node-gyp-build", "npm:4.6.0"]\
+          ["node-gyp-build", "npm:4.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp-build%2F-%2Fnode-gyp-build-4.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["nopt", [\
-      ["npm:6.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/nopt-npm-6.0.0-5ea8050815-9.zip/node_modules/nopt/",\
+      ["npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnopt%2F-%2Fnopt-6.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/nopt-npm-6.0.0-3df3b36f9c-9.zip/node_modules/nopt/",\
         "packageDependencies": [\
-          ["nopt", "npm:6.0.0"],\
-          ["abbrev", "npm:1.1.1"]\
+          ["nopt", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnopt%2F-%2Fnopt-6.0.0.tgz"],\
+          ["abbrev", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabbrev%2F-%2Fabbrev-1.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["normalize-path", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/normalize-path-npm-3.0.0-658ba7d77f-9.zip/node_modules/normalize-path/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnormalize-path%2F-%2Fnormalize-path-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/normalize-path-npm-3.0.0-16225cee4b-9.zip/node_modules/normalize-path/",\
         "packageDependencies": [\
-          ["normalize-path", "npm:3.0.0"]\
+          ["normalize-path", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnormalize-path%2F-%2Fnormalize-path-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["npm-run-path", [\
-      ["npm:4.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/npm-run-path-npm-4.0.1-7aebd8bab3-9.zip/node_modules/npm-run-path/",\
+      ["npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnpm-run-path%2F-%2Fnpm-run-path-4.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/npm-run-path-npm-4.0.1-dcf5168b01-9.zip/node_modules/npm-run-path/",\
         "packageDependencies": [\
-          ["npm-run-path", "npm:4.0.1"],\
-          ["path-key", "npm:3.1.1"]\
+          ["npm-run-path", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnpm-run-path%2F-%2Fnpm-run-path-4.0.1.tgz"],\
+          ["path-key", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["npmlog", [\
-      ["npm:6.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/npmlog-npm-6.0.2-e0e69455c7-9.zip/node_modules/npmlog/",\
+      ["npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnpmlog%2F-%2Fnpmlog-6.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/npmlog-npm-6.0.2-f641b3b5a2-9.zip/node_modules/npmlog/",\
         "packageDependencies": [\
-          ["npmlog", "npm:6.0.2"],\
-          ["are-we-there-yet", "npm:3.0.1"],\
-          ["console-control-strings", "npm:1.1.0"],\
-          ["gauge", "npm:4.0.4"],\
-          ["set-blocking", "npm:2.0.0"]\
+          ["npmlog", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnpmlog%2F-%2Fnpmlog-6.0.2.tgz"],\
+          ["are-we-there-yet", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fare-we-there-yet%2F-%2Fare-we-there-yet-3.0.1.tgz"],\
+          ["console-control-strings", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconsole-control-strings%2F-%2Fconsole-control-strings-1.1.0.tgz"],\
+          ["gauge", "npm:4.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgauge%2F-%2Fgauge-4.0.4.tgz"],\
+          ["set-blocking", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fset-blocking%2F-%2Fset-blocking-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["number-to-bn", [\
-      ["npm:1.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/number-to-bn-npm-1.7.0-dce8575cfb-9.zip/node_modules/number-to-bn/",\
+      ["npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnumber-to-bn%2F-%2Fnumber-to-bn-1.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/number-to-bn-npm-1.7.0-88b2641367-9.zip/node_modules/number-to-bn/",\
         "packageDependencies": [\
-          ["number-to-bn", "npm:1.7.0"],\
-          ["bn.js", "npm:4.11.6"],\
-          ["strip-hex-prefix", "npm:1.0.0"]\
+          ["number-to-bn", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnumber-to-bn%2F-%2Fnumber-to-bn-1.7.0.tgz"],\
+          ["bn.js", "npm:4.11.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.11.6.tgz"],\
+          ["strip-hex-prefix", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-hex-prefix%2F-%2Fstrip-hex-prefix-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["oauth-sign", [\
-      ["npm:0.9.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/oauth-sign-npm-0.9.0-7aa9422221-9.zip/node_modules/oauth-sign/",\
+      ["npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Foauth-sign%2F-%2Foauth-sign-0.9.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/oauth-sign-npm-0.9.0-f494d0ebf9-9.zip/node_modules/oauth-sign/",\
         "packageDependencies": [\
-          ["oauth-sign", "npm:0.9.0"]\
+          ["oauth-sign", "npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Foauth-sign%2F-%2Foauth-sign-0.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["object-assign", [\
-      ["npm:4.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/object-assign-npm-4.1.1-1004ad6dec-9.zip/node_modules/object-assign/",\
+      ["npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-assign%2F-%2Fobject-assign-4.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/object-assign-npm-4.1.1-e54e5dd5cc-9.zip/node_modules/object-assign/",\
         "packageDependencies": [\
-          ["object-assign", "npm:4.1.1"]\
+          ["object-assign", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-assign%2F-%2Fobject-assign-4.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["object-inspect", [\
-      ["npm:1.12.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/object-inspect-npm-1.12.3-1e7d20f5ff-9.zip/node_modules/object-inspect/",\
+      ["npm:1.12.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-inspect%2F-%2Fobject-inspect-1.12.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/object-inspect-npm-1.12.3-2fb9f9675e-9.zip/node_modules/object-inspect/",\
         "packageDependencies": [\
-          ["object-inspect", "npm:1.12.3"]\
+          ["object-inspect", "npm:1.12.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-inspect%2F-%2Fobject-inspect-1.12.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["object-treeify", [\
-      ["npm:1.1.33", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/object-treeify-npm-1.1.33-2273de9233-9.zip/node_modules/object-treeify/",\
+      ["npm:1.1.33::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-treeify%2F-%2Fobject-treeify-1.1.33.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/object-treeify-npm-1.1.33-4fd9b69c8a-9.zip/node_modules/object-treeify/",\
         "packageDependencies": [\
-          ["object-treeify", "npm:1.1.33"]\
+          ["object-treeify", "npm:1.1.33::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-treeify%2F-%2Fobject-treeify-1.1.33.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["once", [\
-      ["npm:1.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/once-npm-1.4.0-ccf03ef07a-9.zip/node_modules/once/",\
+      ["npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonce%2F-%2Fonce-1.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/once-npm-1.4.0-11ce041456-9.zip/node_modules/once/",\
         "packageDependencies": [\
-          ["once", "npm:1.4.0"],\
-          ["wrappy", "npm:1.0.2"]\
+          ["once", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonce%2F-%2Fonce-1.4.0.tgz"],\
+          ["wrappy", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrappy%2F-%2Fwrappy-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["onetime", [\
-      ["npm:5.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/onetime-npm-5.1.2-3ed148fa42-9.zip/node_modules/onetime/",\
+      ["npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonetime%2F-%2Fonetime-5.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/onetime-npm-5.1.2-17607151cf-9.zip/node_modules/onetime/",\
         "packageDependencies": [\
-          ["onetime", "npm:5.1.2"],\
-          ["mimic-fn", "npm:2.1.0"]\
+          ["onetime", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonetime%2F-%2Fonetime-5.1.2.tgz"],\
+          ["mimic-fn", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmimic-fn%2F-%2Fmimic-fn-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ora", [\
-      ["npm:4.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ora-npm-4.0.2-8af92543c0-9.zip/node_modules/ora/",\
+      ["npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fora%2F-%2Fora-4.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ora-npm-4.0.2-4c79e74df7-9.zip/node_modules/ora/",\
         "packageDependencies": [\
-          ["ora", "npm:4.0.2"],\
-          ["chalk", "npm:2.4.2"],\
-          ["cli-cursor", "npm:3.1.0"],\
-          ["cli-spinners", "npm:2.9.0"],\
-          ["is-interactive", "npm:1.0.0"],\
-          ["log-symbols", "npm:3.0.0"],\
-          ["strip-ansi", "npm:5.2.0"],\
-          ["wcwidth", "npm:1.0.1"]\
+          ["ora", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fora%2F-%2Fora-4.0.2.tgz"],\
+          ["chalk", "npm:2.4.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchalk%2F-%2Fchalk-2.4.2.tgz"],\
+          ["cli-cursor", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-cursor%2F-%2Fcli-cursor-3.1.0.tgz"],\
+          ["cli-spinners", "npm:2.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcli-spinners%2F-%2Fcli-spinners-2.9.0.tgz"],\
+          ["is-interactive", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-interactive%2F-%2Fis-interactive-1.0.0.tgz"],\
+          ["log-symbols", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flog-symbols%2F-%2Flog-symbols-3.0.0.tgz"],\
+          ["strip-ansi", "npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-5.2.0.tgz"],\
+          ["wcwidth", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwcwidth%2F-%2Fwcwidth-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["p-defer", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/p-defer-npm-3.0.0-5c4fecb489-9.zip/node_modules/p-defer/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-defer%2F-%2Fp-defer-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/p-defer-npm-3.0.0-b0063146ef-9.zip/node_modules/p-defer/",\
         "packageDependencies": [\
-          ["p-defer", "npm:3.0.0"]\
+          ["p-defer", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-defer%2F-%2Fp-defer-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["p-fifo", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/p-fifo-npm-1.0.0-70306fa5f2-9.zip/node_modules/p-fifo/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-fifo%2F-%2Fp-fifo-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/p-fifo-npm-1.0.0-f9a5082ef5-9.zip/node_modules/p-fifo/",\
         "packageDependencies": [\
-          ["p-fifo", "npm:1.0.0"],\
-          ["fast-fifo", "npm:1.3.0"],\
-          ["p-defer", "npm:3.0.0"]\
+          ["p-fifo", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-fifo%2F-%2Fp-fifo-1.0.0.tgz"],\
+          ["fast-fifo", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffast-fifo%2F-%2Ffast-fifo-1.3.0.tgz"],\
+          ["p-defer", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-defer%2F-%2Fp-defer-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["p-map", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/p-map-npm-4.0.0-4677ae07c7-9.zip/node_modules/p-map/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-map%2F-%2Fp-map-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/p-map-npm-4.0.0-6335103a0e-9.zip/node_modules/p-map/",\
         "packageDependencies": [\
-          ["p-map", "npm:4.0.0"],\
-          ["aggregate-error", "npm:3.1.0"]\
+          ["p-map", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-map%2F-%2Fp-map-4.0.0.tgz"],\
+          ["aggregate-error", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faggregate-error%2F-%2Faggregate-error-3.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["parent-module", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/parent-module-npm-1.0.1-1fae11b095-9.zip/node_modules/parent-module/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparent-module%2F-%2Fparent-module-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/parent-module-npm-1.0.1-c8903047ce-9.zip/node_modules/parent-module/",\
         "packageDependencies": [\
-          ["parent-module", "npm:1.0.1"],\
-          ["callsites", "npm:3.1.0"]\
+          ["parent-module", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparent-module%2F-%2Fparent-module-1.0.1.tgz"],\
+          ["callsites", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcallsites%2F-%2Fcallsites-3.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["parse-cache-control", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/parse-cache-control-npm-1.0.1-81068d3680-9.zip/node_modules/parse-cache-control/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-cache-control%2F-%2Fparse-cache-control-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/parse-cache-control-npm-1.0.1-9175c7c1e8-9.zip/node_modules/parse-cache-control/",\
         "packageDependencies": [\
-          ["parse-cache-control", "npm:1.0.1"]\
+          ["parse-cache-control", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-cache-control%2F-%2Fparse-cache-control-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["parse-duration", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/parse-duration-npm-1.1.0-cb12528e2a-9.zip/node_modules/parse-duration/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-duration%2F-%2Fparse-duration-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/parse-duration-npm-1.1.0-85e1f05af8-9.zip/node_modules/parse-duration/",\
         "packageDependencies": [\
-          ["parse-duration", "npm:1.1.0"]\
+          ["parse-duration", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-duration%2F-%2Fparse-duration-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["parse-json", [\
-      ["npm:5.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/parse-json-npm-5.2.0-00a63b1199-9.zip/node_modules/parse-json/",\
+      ["npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-json%2F-%2Fparse-json-5.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/parse-json-npm-5.2.0-5c603de90e-9.zip/node_modules/parse-json/",\
         "packageDependencies": [\
-          ["parse-json", "npm:5.2.0"],\
-          ["@babel/code-frame", "npm:7.22.5"],\
-          ["error-ex", "npm:1.3.2"],\
-          ["json-parse-even-better-errors", "npm:2.3.1"],\
-          ["lines-and-columns", "npm:1.2.4"]\
+          ["parse-json", "npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fparse-json%2F-%2Fparse-json-5.2.0.tgz"],\
+          ["@babel/code-frame", "npm:7.22.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40babel%2Fcode-frame%2F-%2Fcode-frame-7.22.5.tgz"],\
+          ["error-ex", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferror-ex%2F-%2Ferror-ex-1.3.2.tgz"],\
+          ["json-parse-even-better-errors", "npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-parse-even-better-errors%2F-%2Fjson-parse-even-better-errors-2.3.1.tgz"],\
+          ["lines-and-columns", "npm:1.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flines-and-columns%2F-%2Flines-and-columns-1.2.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["password-prompt", [\
-      ["npm:1.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/password-prompt-npm-1.1.2-086b60f9fe-9.zip/node_modules/password-prompt/",\
+      ["npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpassword-prompt%2F-%2Fpassword-prompt-1.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/password-prompt-npm-1.1.2-ab7531f009-9.zip/node_modules/password-prompt/",\
         "packageDependencies": [\
-          ["password-prompt", "npm:1.1.2"],\
-          ["ansi-escapes", "npm:3.2.0"],\
-          ["cross-spawn", "npm:6.0.5"]\
+          ["password-prompt", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpassword-prompt%2F-%2Fpassword-prompt-1.1.2.tgz"],\
+          ["ansi-escapes", "npm:3.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-escapes%2F-%2Fansi-escapes-3.2.0.tgz"],\
+          ["cross-spawn", "npm:6.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcross-spawn%2F-%2Fcross-spawn-6.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["path-is-absolute", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-is-absolute-npm-1.0.1-31bc695ffd-9.zip/node_modules/path-is-absolute/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-is-absolute%2F-%2Fpath-is-absolute-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-is-absolute-npm-1.0.1-fa1943ce19-9.zip/node_modules/path-is-absolute/",\
         "packageDependencies": [\
-          ["path-is-absolute", "npm:1.0.1"]\
+          ["path-is-absolute", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-is-absolute%2F-%2Fpath-is-absolute-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["path-key", [\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-key-npm-2.0.1-b1a971833d-9.zip/node_modules/path-key/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-key-npm-2.0.1-374c89f954-9.zip/node_modules/path-key/",\
         "packageDependencies": [\
-          ["path-key", "npm:2.0.1"]\
+          ["path-key", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-key-npm-3.1.1-0e66ea8321-9.zip/node_modules/path-key/",\
+      ["npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-3.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-key-npm-3.1.1-2936e8f6aa-9.zip/node_modules/path-key/",\
         "packageDependencies": [\
-          ["path-key", "npm:3.1.1"]\
+          ["path-key", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-key%2F-%2Fpath-key-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["path-scurry", [\
-      ["npm:1.10.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-scurry-npm-1.10.0-53ecc28cea-9.zip/node_modules/path-scurry/",\
+      ["npm:1.10.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-scurry%2F-%2Fpath-scurry-1.10.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-scurry-npm-1.10.1-9d2dcb6ad5-9.zip/node_modules/path-scurry/",\
         "packageDependencies": [\
-          ["path-scurry", "npm:1.10.0"],\
-          ["lru-cache", "npm:10.0.0"],\
-          ["minipass", "npm:6.0.2"]\
+          ["path-scurry", "npm:1.10.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-scurry%2F-%2Fpath-scurry-1.10.1.tgz"],\
+          ["lru-cache", "npm:10.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-10.0.0.tgz"],\
+          ["minipass", "npm:7.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-7.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["path-type", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-type-npm-4.0.0-10d47fc86a-9.zip/node_modules/path-type/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-type%2F-%2Fpath-type-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/path-type-npm-4.0.0-cf0f24f525-9.zip/node_modules/path-type/",\
         "packageDependencies": [\
-          ["path-type", "npm:4.0.0"]\
+          ["path-type", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpath-type%2F-%2Fpath-type-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["pbkdf2", [\
-      ["npm:3.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/pbkdf2-npm-3.1.2-d67bbb584f-9.zip/node_modules/pbkdf2/",\
+      ["npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpbkdf2%2F-%2Fpbkdf2-3.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/pbkdf2-npm-3.1.2-fa3e925bce-9.zip/node_modules/pbkdf2/",\
         "packageDependencies": [\
-          ["pbkdf2", "npm:3.1.2"],\
-          ["create-hash", "npm:1.2.0"],\
-          ["create-hmac", "npm:1.1.7"],\
-          ["ripemd160", "npm:2.0.2"],\
-          ["safe-buffer", "npm:5.2.1"],\
-          ["sha.js", "npm:2.4.11"]\
+          ["pbkdf2", "npm:3.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpbkdf2%2F-%2Fpbkdf2-3.1.2.tgz"],\
+          ["create-hash", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hash%2F-%2Fcreate-hash-1.2.0.tgz"],\
+          ["create-hmac", "npm:1.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-hmac%2F-%2Fcreate-hmac-1.1.7.tgz"],\
+          ["ripemd160", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fripemd160%2F-%2Fripemd160-2.0.2.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"],\
+          ["sha.js", "npm:2.4.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsha.js%2F-%2Fsha.js-2.4.11.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["performance-now", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/performance-now-npm-2.1.0-45e3ce7e49-9.zip/node_modules/performance-now/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fperformance-now%2F-%2Fperformance-now-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/performance-now-npm-2.1.0-35ae6a8549-9.zip/node_modules/performance-now/",\
         "packageDependencies": [\
-          ["performance-now", "npm:2.1.0"]\
+          ["performance-now", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fperformance-now%2F-%2Fperformance-now-2.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["picomatch", [\
-      ["npm:2.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/picomatch-npm-2.3.1-c782cfd986-9.zip/node_modules/picomatch/",\
+      ["npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpicomatch%2F-%2Fpicomatch-2.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/picomatch-npm-2.3.1-ca51763f9d-9.zip/node_modules/picomatch/",\
         "packageDependencies": [\
-          ["picomatch", "npm:2.3.1"]\
+          ["picomatch", "npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpicomatch%2F-%2Fpicomatch-2.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["pluralize", [\
-      ["npm:8.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/pluralize-npm-8.0.0-f5f044ed52-9.zip/node_modules/pluralize/",\
+      ["npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpluralize%2F-%2Fpluralize-8.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/pluralize-npm-8.0.0-c33ad3fe32-9.zip/node_modules/pluralize/",\
         "packageDependencies": [\
-          ["pluralize", "npm:8.0.0"]\
+          ["pluralize", "npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpluralize%2F-%2Fpluralize-8.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["prettier", [\
-      ["npm:1.19.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/prettier-npm-1.19.1-e56d246fd2-9.zip/node_modules/prettier/",\
+      ["npm:1.19.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprettier%2F-%2Fprettier-1.19.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/prettier-npm-1.19.1-02f366afbb-9.zip/node_modules/prettier/",\
         "packageDependencies": [\
-          ["prettier", "npm:1.19.1"]\
+          ["prettier", "npm:1.19.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprettier%2F-%2Fprettier-1.19.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["process-nextick-args", [\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/process-nextick-args-npm-2.0.1-b8d7971609-9.zip/node_modules/process-nextick-args/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprocess-nextick-args%2F-%2Fprocess-nextick-args-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/process-nextick-args-npm-2.0.1-ca2307a677-9.zip/node_modules/process-nextick-args/",\
         "packageDependencies": [\
-          ["process-nextick-args", "npm:2.0.1"]\
+          ["process-nextick-args", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprocess-nextick-args%2F-%2Fprocess-nextick-args-2.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["promise", [\
-      ["npm:8.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/promise-npm-8.3.0-fbfb957417-9.zip/node_modules/promise/",\
+      ["npm:8.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpromise%2F-%2Fpromise-8.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/promise-npm-8.3.0-3aded5ec54-9.zip/node_modules/promise/",\
         "packageDependencies": [\
-          ["promise", "npm:8.3.0"],\
-          ["asap", "npm:2.0.6"]\
+          ["promise", "npm:8.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpromise%2F-%2Fpromise-8.3.0.tgz"],\
+          ["asap", "npm:2.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasap%2F-%2Fasap-2.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["promise-retry", [\
-      ["npm:2.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/promise-retry-npm-2.0.1-871f0b01b7-9.zip/node_modules/promise-retry/",\
+      ["npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpromise-retry%2F-%2Fpromise-retry-2.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/promise-retry-npm-2.0.1-536e128344-9.zip/node_modules/promise-retry/",\
         "packageDependencies": [\
-          ["promise-retry", "npm:2.0.1"],\
-          ["err-code", "npm:2.0.3"],\
-          ["retry", "npm:0.12.0"]\
+          ["promise-retry", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpromise-retry%2F-%2Fpromise-retry-2.0.1.tgz"],\
+          ["err-code", "npm:2.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ferr-code%2F-%2Ferr-code-2.0.3.tgz"],\
+          ["retry", "npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fretry%2F-%2Fretry-0.12.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["protobufjs", [\
-      ["npm:6.11.3", {\
-        "packageLocation": "./.yarn/unplugged/protobufjs-npm-6.11.3-566fb31188/node_modules/protobufjs/",\
+      ["npm:6.11.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprotobufjs%2F-%2Fprotobufjs-6.11.3.tgz", {\
+        "packageLocation": "./.yarn/unplugged/protobufjs-npm-6.11.3-d554374134/node_modules/protobufjs/",\
         "packageDependencies": [\
-          ["protobufjs", "npm:6.11.3"],\
-          ["@protobufjs/aspromise", "npm:1.1.2"],\
-          ["@protobufjs/base64", "npm:1.1.2"],\
-          ["@protobufjs/codegen", "npm:2.0.4"],\
-          ["@protobufjs/eventemitter", "npm:1.1.0"],\
-          ["@protobufjs/fetch", "npm:1.1.0"],\
-          ["@protobufjs/float", "npm:1.0.2"],\
-          ["@protobufjs/inquire", "npm:1.1.0"],\
-          ["@protobufjs/path", "npm:1.1.2"],\
-          ["@protobufjs/pool", "npm:1.1.0"],\
-          ["@protobufjs/utf8", "npm:1.1.0"],\
-          ["@types/long", "npm:4.0.2"],\
-          ["@types/node", "npm:20.4.0"],\
-          ["long", "npm:4.0.0"]\
+          ["protobufjs", "npm:6.11.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprotobufjs%2F-%2Fprotobufjs-6.11.3.tgz"],\
+          ["@protobufjs/aspromise", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Faspromise%2F-%2Faspromise-1.1.2.tgz"],\
+          ["@protobufjs/base64", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fbase64%2F-%2Fbase64-1.1.2.tgz"],\
+          ["@protobufjs/codegen", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fcodegen%2F-%2Fcodegen-2.0.4.tgz"],\
+          ["@protobufjs/eventemitter", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Feventemitter%2F-%2Feventemitter-1.1.0.tgz"],\
+          ["@protobufjs/fetch", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Ffetch%2F-%2Ffetch-1.1.0.tgz"],\
+          ["@protobufjs/float", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Ffloat%2F-%2Ffloat-1.0.2.tgz"],\
+          ["@protobufjs/inquire", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Finquire%2F-%2Finquire-1.1.0.tgz"],\
+          ["@protobufjs/path", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fpath%2F-%2Fpath-1.1.2.tgz"],\
+          ["@protobufjs/pool", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Fpool%2F-%2Fpool-1.1.0.tgz"],\
+          ["@protobufjs/utf8", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40protobufjs%2Futf8%2F-%2Futf8-1.1.0.tgz"],\
+          ["@types/long", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Flong%2F-%2Flong-4.0.2.tgz"],\
+          ["@types/node", "npm:20.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-20.4.1.tgz"],\
+          ["long", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flong%2F-%2Flong-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["psl", [\
-      ["npm:1.9.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/psl-npm-1.9.0-a546edad1a-9.zip/node_modules/psl/",\
+      ["npm:1.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpsl%2F-%2Fpsl-1.9.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/psl-npm-1.9.0-75c4b3e21d-9.zip/node_modules/psl/",\
         "packageDependencies": [\
-          ["psl", "npm:1.9.0"]\
+          ["psl", "npm:1.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpsl%2F-%2Fpsl-1.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["pump", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/pump-npm-1.0.3-de5f2a0196-9.zip/node_modules/pump/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpump%2F-%2Fpump-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/pump-npm-1.0.3-9311b65cbf-9.zip/node_modules/pump/",\
         "packageDependencies": [\
-          ["pump", "npm:1.0.3"],\
-          ["end-of-stream", "npm:1.4.4"],\
-          ["once", "npm:1.4.0"]\
+          ["pump", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpump%2F-%2Fpump-1.0.3.tgz"],\
+          ["end-of-stream", "npm:1.4.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fend-of-stream%2F-%2Fend-of-stream-1.4.4.tgz"],\
+          ["once", "npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonce%2F-%2Fonce-1.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["punycode", [\
-      ["npm:1.4.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/punycode-npm-1.4.1-be4c23e6d2-9.zip/node_modules/punycode/",\
+      ["npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-1.4.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/punycode-npm-1.4.1-242d353e66-9.zip/node_modules/punycode/",\
         "packageDependencies": [\
-          ["punycode", "npm:1.4.1"]\
+          ["punycode", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-1.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/punycode-npm-2.3.0-df4bdce06b-9.zip/node_modules/punycode/",\
+      ["npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-2.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/punycode-npm-2.3.0-4e17db24c8-9.zip/node_modules/punycode/",\
         "packageDependencies": [\
-          ["punycode", "npm:2.3.0"]\
+          ["punycode", "npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-2.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["pvtsutils", [\
-      ["npm:1.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/pvtsutils-npm-1.3.2-e1483da905-9.zip/node_modules/pvtsutils/",\
+      ["npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvtsutils%2F-%2Fpvtsutils-1.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/pvtsutils-npm-1.3.2-70744b257e-9.zip/node_modules/pvtsutils/",\
         "packageDependencies": [\
-          ["pvtsutils", "npm:1.3.2"],\
-          ["tslib", "npm:2.6.0"]\
+          ["pvtsutils", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvtsutils%2F-%2Fpvtsutils-1.3.2.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["pvutils", [\
-      ["npm:1.1.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/pvutils-npm-1.1.3-da8b07d6cf-9.zip/node_modules/pvutils/",\
+      ["npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvutils%2F-%2Fpvutils-1.1.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/pvutils-npm-1.1.3-9e857811af-9.zip/node_modules/pvutils/",\
         "packageDependencies": [\
-          ["pvutils", "npm:1.1.3"]\
+          ["pvutils", "npm:1.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvutils%2F-%2Fpvutils-1.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["qs", [\
-      ["npm:6.11.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/qs-npm-6.11.2-b118bc1c6f-9.zip/node_modules/qs/",\
+      ["npm:6.11.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqs%2F-%2Fqs-6.11.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/qs-npm-6.11.2-7744863b6d-9.zip/node_modules/qs/",\
         "packageDependencies": [\
-          ["qs", "npm:6.11.2"],\
-          ["side-channel", "npm:1.0.4"]\
+          ["qs", "npm:6.11.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqs%2F-%2Fqs-6.11.2.tgz"],\
+          ["side-channel", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fside-channel%2F-%2Fside-channel-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.5.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/qs-npm-6.5.3-90b2635484-9.zip/node_modules/qs/",\
+      ["npm:6.5.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqs%2F-%2Fqs-6.5.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/qs-npm-6.5.3-a274b220af-9.zip/node_modules/qs/",\
         "packageDependencies": [\
-          ["qs", "npm:6.5.3"]\
+          ["qs", "npm:6.5.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqs%2F-%2Fqs-6.5.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["queue-microtask", [\
-      ["npm:1.2.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/queue-microtask-npm-1.2.3-fcc98e4e2d-9.zip/node_modules/queue-microtask/",\
+      ["npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqueue-microtask%2F-%2Fqueue-microtask-1.2.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/queue-microtask-npm-1.2.3-e3c9c50939-9.zip/node_modules/queue-microtask/",\
         "packageDependencies": [\
-          ["queue-microtask", "npm:1.2.3"]\
+          ["queue-microtask", "npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqueue-microtask%2F-%2Fqueue-microtask-1.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["randombytes", [\
-      ["npm:2.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/randombytes-npm-2.1.0-e3da76bccf-9.zip/node_modules/randombytes/",\
+      ["npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frandombytes%2F-%2Frandombytes-2.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/randombytes-npm-2.1.0-192f161804-9.zip/node_modules/randombytes/",\
         "packageDependencies": [\
-          ["randombytes", "npm:2.1.0"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["randombytes", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frandombytes%2F-%2Frandombytes-2.1.0.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["react-native-fetch-api", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/react-native-fetch-api-npm-3.0.0-12466fff41-9.zip/node_modules/react-native-fetch-api/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact-native-fetch-api%2F-%2Freact-native-fetch-api-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/react-native-fetch-api-npm-3.0.0-b26bfeb29d-9.zip/node_modules/react-native-fetch-api/",\
         "packageDependencies": [\
-          ["react-native-fetch-api", "npm:3.0.0"],\
-          ["p-defer", "npm:3.0.0"]\
+          ["react-native-fetch-api", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freact-native-fetch-api%2F-%2Freact-native-fetch-api-3.0.0.tgz"],\
+          ["p-defer", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fp-defer%2F-%2Fp-defer-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["readable-stream", [\
-      ["npm:1.0.34", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/readable-stream-npm-1.0.34-db63158f3f-9.zip/node_modules/readable-stream/",\
+      ["npm:1.0.34::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-1.0.34.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/readable-stream-npm-1.0.34-d81a420bb3-9.zip/node_modules/readable-stream/",\
         "packageDependencies": [\
-          ["readable-stream", "npm:1.0.34"],\
-          ["core-util-is", "npm:1.0.3"],\
-          ["inherits", "npm:2.0.4"],\
-          ["isarray", "npm:0.0.1"],\
-          ["string_decoder", "npm:0.10.31"]\
+          ["readable-stream", "npm:1.0.34::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-1.0.34.tgz"],\
+          ["core-util-is", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.3.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["isarray", "npm:0.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisarray%2F-%2Fisarray-0.0.1.tgz"],\
+          ["string_decoder", "npm:0.10.31::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-0.10.31.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.3.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/readable-stream-npm-2.3.8-67a94c2cb1-9.zip/node_modules/readable-stream/",\
+      ["npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-2.3.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/readable-stream-npm-2.3.8-e735214789-9.zip/node_modules/readable-stream/",\
         "packageDependencies": [\
-          ["readable-stream", "npm:2.3.8"],\
-          ["core-util-is", "npm:1.0.3"],\
-          ["inherits", "npm:2.0.4"],\
-          ["isarray", "npm:1.0.0"],\
-          ["process-nextick-args", "npm:2.0.1"],\
-          ["safe-buffer", "npm:5.1.2"],\
-          ["string_decoder", "npm:1.1.1"],\
-          ["util-deprecate", "npm:1.0.2"]\
+          ["readable-stream", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-2.3.8.tgz"],\
+          ["core-util-is", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.3.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["isarray", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisarray%2F-%2Fisarray-1.0.0.tgz"],\
+          ["process-nextick-args", "npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fprocess-nextick-args%2F-%2Fprocess-nextick-args-2.0.1.tgz"],\
+          ["safe-buffer", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.1.2.tgz"],\
+          ["string_decoder", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-1.1.1.tgz"],\
+          ["util-deprecate", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futil-deprecate%2F-%2Futil-deprecate-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.6.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/readable-stream-npm-3.6.2-d2a6069158-9.zip/node_modules/readable-stream/",\
+      ["npm:3.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-3.6.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/readable-stream-npm-3.6.2-9d907e0ecc-9.zip/node_modules/readable-stream/",\
         "packageDependencies": [\
-          ["readable-stream", "npm:3.6.2"],\
-          ["inherits", "npm:2.0.4"],\
-          ["string_decoder", "npm:1.3.0"],\
-          ["util-deprecate", "npm:1.0.2"]\
+          ["readable-stream", "npm:3.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-3.6.2.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["string_decoder", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-1.3.0.tgz"],\
+          ["util-deprecate", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futil-deprecate%2F-%2Futil-deprecate-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["readdirp", [\
-      ["npm:3.6.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/readdirp-npm-3.6.0-f950cc74ab-9.zip/node_modules/readdirp/",\
+      ["npm:3.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freaddirp%2F-%2Freaddirp-3.6.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/readdirp-npm-3.6.0-27359f071a-9.zip/node_modules/readdirp/",\
         "packageDependencies": [\
-          ["readdirp", "npm:3.6.0"],\
-          ["picomatch", "npm:2.3.1"]\
+          ["readdirp", "npm:3.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freaddirp%2F-%2Freaddirp-3.6.0.tgz"],\
+          ["picomatch", "npm:2.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpicomatch%2F-%2Fpicomatch-2.3.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["receptacle", [\
-      ["npm:1.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/receptacle-npm-1.3.2-0a7b786c59-9.zip/node_modules/receptacle/",\
+      ["npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freceptacle%2F-%2Freceptacle-1.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/receptacle-npm-1.3.2-b5cb3c70e3-9.zip/node_modules/receptacle/",\
         "packageDependencies": [\
-          ["receptacle", "npm:1.3.2"],\
-          ["ms", "npm:2.1.3"]\
+          ["receptacle", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freceptacle%2F-%2Freceptacle-1.3.2.tgz"],\
+          ["ms", "npm:2.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fms%2F-%2Fms-2.1.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["redeyed", [\
-      ["npm:2.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/redeyed-npm-2.1.1-7cbceb60bb-9.zip/node_modules/redeyed/",\
+      ["npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fredeyed%2F-%2Fredeyed-2.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/redeyed-npm-2.1.1-0f3c4334ef-9.zip/node_modules/redeyed/",\
         "packageDependencies": [\
-          ["redeyed", "npm:2.1.1"],\
-          ["esprima", "npm:4.0.1"]\
+          ["redeyed", "npm:2.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fredeyed%2F-%2Fredeyed-2.1.1.tgz"],\
+          ["esprima", "npm:4.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fesprima%2F-%2Fesprima-4.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["request", [\
-      ["npm:2.88.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/request-npm-2.88.2-f4a57c72c4-9.zip/node_modules/request/",\
+      ["npm:2.88.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frequest%2F-%2Frequest-2.88.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/request-npm-2.88.2-8397ef3aa4-9.zip/node_modules/request/",\
         "packageDependencies": [\
-          ["request", "npm:2.88.2"],\
-          ["aws-sign2", "npm:0.7.0"],\
-          ["aws4", "npm:1.12.0"],\
-          ["caseless", "npm:0.12.0"],\
-          ["combined-stream", "npm:1.0.8"],\
-          ["extend", "npm:3.0.2"],\
-          ["forever-agent", "npm:0.6.1"],\
-          ["form-data", "npm:2.3.3"],\
-          ["har-validator", "npm:5.1.5"],\
-          ["http-signature", "npm:1.2.0"],\
-          ["is-typedarray", "npm:1.0.0"],\
-          ["isstream", "npm:0.1.2"],\
-          ["json-stringify-safe", "npm:5.0.1"],\
-          ["mime-types", "npm:2.1.35"],\
-          ["oauth-sign", "npm:0.9.0"],\
-          ["performance-now", "npm:2.1.0"],\
-          ["qs", "npm:6.5.3"],\
-          ["safe-buffer", "npm:5.2.1"],\
-          ["tough-cookie", "npm:2.5.0"],\
-          ["tunnel-agent", "npm:0.6.0"],\
-          ["uuid", "npm:3.4.0"]\
+          ["request", "npm:2.88.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frequest%2F-%2Frequest-2.88.2.tgz"],\
+          ["aws-sign2", "npm:0.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faws-sign2%2F-%2Faws-sign2-0.7.0.tgz"],\
+          ["aws4", "npm:1.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Faws4%2F-%2Faws4-1.12.0.tgz"],\
+          ["caseless", "npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcaseless%2F-%2Fcaseless-0.12.0.tgz"],\
+          ["combined-stream", "npm:1.0.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcombined-stream%2F-%2Fcombined-stream-1.0.8.tgz"],\
+          ["extend", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextend%2F-%2Fextend-3.0.2.tgz"],\
+          ["forever-agent", "npm:0.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fforever-agent%2F-%2Fforever-agent-0.6.1.tgz"],\
+          ["form-data", "npm:2.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-2.3.3.tgz"],\
+          ["har-validator", "npm:5.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhar-validator%2F-%2Fhar-validator-5.1.5.tgz"],\
+          ["http-signature", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-signature%2F-%2Fhttp-signature-1.2.0.tgz"],\
+          ["is-typedarray", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-typedarray%2F-%2Fis-typedarray-1.0.0.tgz"],\
+          ["isstream", "npm:0.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisstream%2F-%2Fisstream-0.1.2.tgz"],\
+          ["json-stringify-safe", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjson-stringify-safe%2F-%2Fjson-stringify-safe-5.0.1.tgz"],\
+          ["mime-types", "npm:2.1.35::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmime-types%2F-%2Fmime-types-2.1.35.tgz"],\
+          ["oauth-sign", "npm:0.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Foauth-sign%2F-%2Foauth-sign-0.9.0.tgz"],\
+          ["performance-now", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fperformance-now%2F-%2Fperformance-now-2.1.0.tgz"],\
+          ["qs", "npm:6.5.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqs%2F-%2Fqs-6.5.3.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"],\
+          ["tough-cookie", "npm:2.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftough-cookie%2F-%2Ftough-cookie-2.5.0.tgz"],\
+          ["tunnel-agent", "npm:0.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftunnel-agent%2F-%2Ftunnel-agent-0.6.0.tgz"],\
+          ["uuid", "npm:3.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuuid%2F-%2Fuuid-3.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["resolve-from", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/resolve-from-npm-4.0.0-f758ec21bf-9.zip/node_modules/resolve-from/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fresolve-from%2F-%2Fresolve-from-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/resolve-from-npm-4.0.0-94582288a0-9.zip/node_modules/resolve-from/",\
         "packageDependencies": [\
-          ["resolve-from", "npm:4.0.0"]\
+          ["resolve-from", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fresolve-from%2F-%2Fresolve-from-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["restore-cursor", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/restore-cursor-npm-3.1.0-52c5a4c98f-9.zip/node_modules/restore-cursor/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frestore-cursor%2F-%2Frestore-cursor-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/restore-cursor-npm-3.1.0-c0afa9a551-9.zip/node_modules/restore-cursor/",\
         "packageDependencies": [\
-          ["restore-cursor", "npm:3.1.0"],\
-          ["onetime", "npm:5.1.2"],\
-          ["signal-exit", "npm:3.0.7"]\
+          ["restore-cursor", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frestore-cursor%2F-%2Frestore-cursor-3.1.0.tgz"],\
+          ["onetime", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fonetime%2F-%2Fonetime-5.1.2.tgz"],\
+          ["signal-exit", "npm:3.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-3.0.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["retimer", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/retimer-npm-3.0.0-a791f535cc-9.zip/node_modules/retimer/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fretimer%2F-%2Fretimer-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/retimer-npm-3.0.0-5b4fce1097-9.zip/node_modules/retimer/",\
         "packageDependencies": [\
-          ["retimer", "npm:3.0.0"]\
+          ["retimer", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fretimer%2F-%2Fretimer-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["retry", [\
-      ["npm:0.12.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/retry-npm-0.12.0-72ac7fb4cc-9.zip/node_modules/retry/",\
+      ["npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fretry%2F-%2Fretry-0.12.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/retry-npm-0.12.0-a496f16f93-9.zip/node_modules/retry/",\
         "packageDependencies": [\
-          ["retry", "npm:0.12.0"]\
+          ["retry", "npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fretry%2F-%2Fretry-0.12.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["reusify", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/reusify-npm-1.0.4-95ac4aec11-9.zip/node_modules/reusify/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freusify%2F-%2Freusify-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/reusify-npm-1.0.4-792c13f86e-9.zip/node_modules/reusify/",\
         "packageDependencies": [\
-          ["reusify", "npm:1.0.4"]\
+          ["reusify", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freusify%2F-%2Freusify-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["rimraf", [\
-      ["npm:2.7.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/rimraf-npm-2.7.1-9a71f3cc37-9.zip/node_modules/rimraf/",\
+      ["npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-2.7.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/rimraf-npm-2.7.1-5ecc009bff-9.zip/node_modules/rimraf/",\
         "packageDependencies": [\
-          ["rimraf", "npm:2.7.1"],\
-          ["glob", "npm:7.2.3"]\
+          ["rimraf", "npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-2.7.1.tgz"],\
+          ["glob", "npm:7.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-7.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/rimraf-npm-3.0.2-2cb7dac69a-9.zip/node_modules/rimraf/",\
+      ["npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-3.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/rimraf-npm-3.0.2-021155de5c-9.zip/node_modules/rimraf/",\
         "packageDependencies": [\
-          ["rimraf", "npm:3.0.2"],\
-          ["glob", "npm:7.2.3"]\
+          ["rimraf", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-3.0.2.tgz"],\
+          ["glob", "npm:7.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fglob%2F-%2Fglob-7.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ripemd160", [\
-      ["npm:2.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ripemd160-npm-2.0.2-7b1fb8dc76-9.zip/node_modules/ripemd160/",\
+      ["npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fripemd160%2F-%2Fripemd160-2.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ripemd160-npm-2.0.2-fcf1a5c874-9.zip/node_modules/ripemd160/",\
         "packageDependencies": [\
-          ["ripemd160", "npm:2.0.2"],\
-          ["hash-base", "npm:3.1.0"],\
-          ["inherits", "npm:2.0.4"]\
+          ["ripemd160", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fripemd160%2F-%2Fripemd160-2.0.2.tgz"],\
+          ["hash-base", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhash-base%2F-%2Fhash-base-3.1.0.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["rlp", [\
-      ["npm:2.2.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/rlp-npm-2.2.7-4cb283b8fe-9.zip/node_modules/rlp/",\
+      ["npm:2.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frlp%2F-%2Frlp-2.2.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/rlp-npm-2.2.7-6b46d29556-9.zip/node_modules/rlp/",\
         "packageDependencies": [\
-          ["rlp", "npm:2.2.7"],\
-          ["bn.js", "npm:5.2.1"]\
+          ["rlp", "npm:2.2.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frlp%2F-%2Frlp-2.2.7.tgz"],\
+          ["bn.js", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["run-parallel", [\
-      ["npm:1.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/run-parallel-npm-1.2.0-3f47ff2034-9.zip/node_modules/run-parallel/",\
+      ["npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frun-parallel%2F-%2Frun-parallel-1.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/run-parallel-npm-1.2.0-2bbc3c567a-9.zip/node_modules/run-parallel/",\
         "packageDependencies": [\
-          ["run-parallel", "npm:1.2.0"],\
-          ["queue-microtask", "npm:1.2.3"]\
+          ["run-parallel", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frun-parallel%2F-%2Frun-parallel-1.2.0.tgz"],\
+          ["queue-microtask", "npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqueue-microtask%2F-%2Fqueue-microtask-1.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["safe-buffer", [\
-      ["npm:5.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/safe-buffer-npm-5.1.2-c27fedf6c4-9.zip/node_modules/safe-buffer/",\
+      ["npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/safe-buffer-npm-5.1.2-95ba4e46a2-9.zip/node_modules/safe-buffer/",\
         "packageDependencies": [\
-          ["safe-buffer", "npm:5.1.2"]\
+          ["safe-buffer", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/safe-buffer-npm-5.2.1-3481c8aa9b-9.zip/node_modules/safe-buffer/",\
+      ["npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/safe-buffer-npm-5.2.1-5055bad54c-9.zip/node_modules/safe-buffer/",\
         "packageDependencies": [\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["safer-buffer", [\
-      ["npm:2.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/safer-buffer-npm-2.1.2-8d5c0b705e-9.zip/node_modules/safer-buffer/",\
+      ["npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafer-buffer%2F-%2Fsafer-buffer-2.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/safer-buffer-npm-2.1.2-741d9ac8bd-9.zip/node_modules/safer-buffer/",\
         "packageDependencies": [\
-          ["safer-buffer", "npm:2.1.2"]\
+          ["safer-buffer", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafer-buffer%2F-%2Fsafer-buffer-2.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["scrypt-js", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/scrypt-js-npm-3.0.1-fd2d3fa606-9.zip/node_modules/scrypt-js/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fscrypt-js%2F-%2Fscrypt-js-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/scrypt-js-npm-3.0.1-df14597a13-9.zip/node_modules/scrypt-js/",\
         "packageDependencies": [\
-          ["scrypt-js", "npm:3.0.1"]\
+          ["scrypt-js", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fscrypt-js%2F-%2Fscrypt-js-3.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["secp256k1", [\
-      ["npm:4.0.3", {\
-        "packageLocation": "./.yarn/unplugged/secp256k1-npm-4.0.3-b4e9ce065b/node_modules/secp256k1/",\
+      ["npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsecp256k1%2F-%2Fsecp256k1-4.0.3.tgz", {\
+        "packageLocation": "./.yarn/unplugged/secp256k1-npm-4.0.3-9509114a5f/node_modules/secp256k1/",\
         "packageDependencies": [\
-          ["secp256k1", "npm:4.0.3"],\
-          ["elliptic", "npm:6.5.4"],\
-          ["node-addon-api", "npm:2.0.2"],\
-          ["node-gyp", "npm:9.4.0"],\
-          ["node-gyp-build", "npm:4.6.0"]\
+          ["secp256k1", "npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsecp256k1%2F-%2Fsecp256k1-4.0.3.tgz"],\
+          ["elliptic", "npm:6.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Felliptic%2F-%2Felliptic-6.5.4.tgz"],\
+          ["node-addon-api", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-addon-api%2F-%2Fnode-addon-api-2.0.2.tgz"],\
+          ["node-gyp", "npm:9.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp%2F-%2Fnode-gyp-9.4.0.tgz"],\
+          ["node-gyp-build", "npm:4.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnode-gyp-build%2F-%2Fnode-gyp-build-4.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["semver", [\
-      ["npm:5.7.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-5.7.1-40bcea106b-9.zip/node_modules/semver/",\
+      ["npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-5.7.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-5.7.1-a475ded685-9.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:5.7.1"]\
+          ["semver", "npm:5.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-5.7.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.3.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-7.3.5-618cf5db6a-9.zip/node_modules/semver/",\
+      ["npm:7.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-7.3.5-6449e290e9-9.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:7.3.5"],\
-          ["lru-cache", "npm:6.0.0"]\
+          ["semver", "npm:7.3.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.3.5.tgz"],\
+          ["lru-cache", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-6.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-7.4.0-e8a2bd6ccb-9.zip/node_modules/semver/",\
+      ["npm:7.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-7.4.0-35dfd654a3-9.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:7.4.0"],\
-          ["lru-cache", "npm:6.0.0"]\
+          ["semver", "npm:7.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.4.0.tgz"],\
+          ["lru-cache", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-6.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.5.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-7.5.3-275095dbf3-9.zip/node_modules/semver/",\
+      ["npm:7.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.5.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/semver-npm-7.5.4-8efc3dc977-9.zip/node_modules/semver/",\
         "packageDependencies": [\
-          ["semver", "npm:7.5.3"],\
-          ["lru-cache", "npm:6.0.0"]\
+          ["semver", "npm:7.5.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsemver%2F-%2Fsemver-7.5.4.tgz"],\
+          ["lru-cache", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Flru-cache%2F-%2Flru-cache-6.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["set-blocking", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/set-blocking-npm-2.0.0-49e2cffa24-9.zip/node_modules/set-blocking/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fset-blocking%2F-%2Fset-blocking-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/set-blocking-npm-2.0.0-e56e999c5d-9.zip/node_modules/set-blocking/",\
         "packageDependencies": [\
-          ["set-blocking", "npm:2.0.0"]\
+          ["set-blocking", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fset-blocking%2F-%2Fset-blocking-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["setimmediate", [\
-      ["npm:1.0.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/setimmediate-npm-1.0.5-54587459b6-9.zip/node_modules/setimmediate/",\
+      ["npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsetimmediate%2F-%2Fsetimmediate-1.0.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/setimmediate-npm-1.0.5-26ff80610b-9.zip/node_modules/setimmediate/",\
         "packageDependencies": [\
-          ["setimmediate", "npm:1.0.5"]\
+          ["setimmediate", "npm:1.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsetimmediate%2F-%2Fsetimmediate-1.0.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["sha.js", [\
-      ["npm:2.4.11", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/sha.js-npm-2.4.11-14868df4ca-9.zip/node_modules/sha.js/",\
+      ["npm:2.4.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsha.js%2F-%2Fsha.js-2.4.11.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/sha.js-npm-2.4.11-911ecf6b32-9.zip/node_modules/sha.js/",\
         "packageDependencies": [\
-          ["sha.js", "npm:2.4.11"],\
-          ["inherits", "npm:2.0.4"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["sha.js", "npm:2.4.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsha.js%2F-%2Fsha.js-2.4.11.tgz"],\
+          ["inherits", "npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Finherits%2F-%2Finherits-2.0.4.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["shebang-command", [\
-      ["npm:1.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-command-npm-1.2.0-8990ba5d1d-9.zip/node_modules/shebang-command/",\
+      ["npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-command%2F-%2Fshebang-command-1.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-command-npm-1.2.0-7bf7b55032-9.zip/node_modules/shebang-command/",\
         "packageDependencies": [\
-          ["shebang-command", "npm:1.2.0"],\
-          ["shebang-regex", "npm:1.0.0"]\
+          ["shebang-command", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-command%2F-%2Fshebang-command-1.2.0.tgz"],\
+          ["shebang-regex", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-regex%2F-%2Fshebang-regex-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-command-npm-2.0.0-eb2b01921d-9.zip/node_modules/shebang-command/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-command%2F-%2Fshebang-command-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-command-npm-2.0.0-fd2e2c7b44-9.zip/node_modules/shebang-command/",\
         "packageDependencies": [\
-          ["shebang-command", "npm:2.0.0"],\
-          ["shebang-regex", "npm:3.0.0"]\
+          ["shebang-command", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-command%2F-%2Fshebang-command-2.0.0.tgz"],\
+          ["shebang-regex", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-regex%2F-%2Fshebang-regex-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["shebang-regex", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-regex-npm-1.0.0-c3612b74e9-9.zip/node_modules/shebang-regex/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-regex%2F-%2Fshebang-regex-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-regex-npm-1.0.0-5ab252dd3c-9.zip/node_modules/shebang-regex/",\
         "packageDependencies": [\
-          ["shebang-regex", "npm:1.0.0"]\
+          ["shebang-regex", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-regex%2F-%2Fshebang-regex-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-regex-npm-3.0.0-899a0cd65e-9.zip/node_modules/shebang-regex/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-regex%2F-%2Fshebang-regex-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/shebang-regex-npm-3.0.0-7cf2415643-9.zip/node_modules/shebang-regex/",\
         "packageDependencies": [\
-          ["shebang-regex", "npm:3.0.0"]\
+          ["shebang-regex", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fshebang-regex%2F-%2Fshebang-regex-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["side-channel", [\
-      ["npm:1.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/side-channel-npm-1.0.4-e1f38b9e06-9.zip/node_modules/side-channel/",\
+      ["npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fside-channel%2F-%2Fside-channel-1.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/side-channel-npm-1.0.4-e144a38798-9.zip/node_modules/side-channel/",\
         "packageDependencies": [\
-          ["side-channel", "npm:1.0.4"],\
-          ["call-bind", "npm:1.0.2"],\
-          ["get-intrinsic", "npm:1.2.1"],\
-          ["object-inspect", "npm:1.12.3"]\
+          ["side-channel", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fside-channel%2F-%2Fside-channel-1.0.4.tgz"],\
+          ["call-bind", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcall-bind%2F-%2Fcall-bind-1.0.2.tgz"],\
+          ["get-intrinsic", "npm:1.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-intrinsic%2F-%2Fget-intrinsic-1.2.1.tgz"],\
+          ["object-inspect", "npm:1.12.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fobject-inspect%2F-%2Fobject-inspect-1.12.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["signal-exit", [\
-      ["npm:3.0.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/signal-exit-npm-3.0.7-bd270458a3-9.zip/node_modules/signal-exit/",\
+      ["npm:3.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-3.0.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/signal-exit-npm-3.0.7-ee746017e4-9.zip/node_modules/signal-exit/",\
         "packageDependencies": [\
-          ["signal-exit", "npm:3.0.7"]\
+          ["signal-exit", "npm:3.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-3.0.7.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/signal-exit-npm-4.0.2-e3f0e8ed25-9.zip/node_modules/signal-exit/",\
+      ["npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-4.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/signal-exit-npm-4.0.2-2003812c06-9.zip/node_modules/signal-exit/",\
         "packageDependencies": [\
-          ["signal-exit", "npm:4.0.2"]\
+          ["signal-exit", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsignal-exit%2F-%2Fsignal-exit-4.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["slash", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/slash-npm-3.0.0-b87de2279a-9.zip/node_modules/slash/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fslash%2F-%2Fslash-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/slash-npm-3.0.0-8afc7e8356-9.zip/node_modules/slash/",\
         "packageDependencies": [\
-          ["slash", "npm:3.0.0"]\
+          ["slash", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fslash%2F-%2Fslash-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["smart-buffer", [\
-      ["npm:4.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/smart-buffer-npm-4.2.0-5ac3f668bb-9.zip/node_modules/smart-buffer/",\
+      ["npm:4.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsmart-buffer%2F-%2Fsmart-buffer-4.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/smart-buffer-npm-4.2.0-939c7ff0f1-9.zip/node_modules/smart-buffer/",\
         "packageDependencies": [\
-          ["smart-buffer", "npm:4.2.0"]\
+          ["smart-buffer", "npm:4.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsmart-buffer%2F-%2Fsmart-buffer-4.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["socks", [\
-      ["npm:2.7.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/socks-npm-2.7.1-17f2b53052-9.zip/node_modules/socks/",\
+      ["npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsocks%2F-%2Fsocks-2.7.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/socks-npm-2.7.1-2145fe31e5-9.zip/node_modules/socks/",\
         "packageDependencies": [\
-          ["socks", "npm:2.7.1"],\
-          ["ip", "npm:2.0.0"],\
-          ["smart-buffer", "npm:4.2.0"]\
+          ["socks", "npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsocks%2F-%2Fsocks-2.7.1.tgz"],\
+          ["ip", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fip%2F-%2Fip-2.0.0.tgz"],\
+          ["smart-buffer", "npm:4.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsmart-buffer%2F-%2Fsmart-buffer-4.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["socks-proxy-agent", [\
-      ["npm:7.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/socks-proxy-agent-npm-7.0.0-7aacf32ea0-9.zip/node_modules/socks-proxy-agent/",\
+      ["npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsocks-proxy-agent%2F-%2Fsocks-proxy-agent-7.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/socks-proxy-agent-npm-7.0.0-6a1de9c0f0-9.zip/node_modules/socks-proxy-agent/",\
         "packageDependencies": [\
-          ["socks-proxy-agent", "npm:7.0.0"],\
-          ["agent-base", "npm:6.0.2"],\
-          ["debug", "virtual:ac3d8e680759ce54399273724d44e041d6c9b73454d191d411a8c44bb27e22f02aaf6ed9d3ad0ac1c298eac4833cff369c9c7b84c573016112c4f84be2cd8543#npm:4.3.4"],\
-          ["socks", "npm:2.7.1"]\
+          ["socks-proxy-agent", "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsocks-proxy-agent%2F-%2Fsocks-proxy-agent-7.0.0.tgz"],\
+          ["agent-base", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fagent-base%2F-%2Fagent-base-6.0.2.tgz"],\
+          ["debug", "virtual:ed5e8c302651c5bb4c43fad728e5a3674a50d5195dbb07adb4ced2602976ebeaeefc5f2064cffe0c298f486e931df8b0a4426c017178ddc4e997f09606ccd5e6#npm:4.3.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdebug%2F-%2Fdebug-4.3.4.tgz"],\
+          ["socks", "npm:2.7.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsocks%2F-%2Fsocks-2.7.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["source-map", [\
-      ["npm:0.6.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/source-map-npm-0.6.1-1a3621db16-9.zip/node_modules/source-map/",\
+      ["npm:0.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map%2F-%2Fsource-map-0.6.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/source-map-npm-0.6.1-120596cf73-9.zip/node_modules/source-map/",\
         "packageDependencies": [\
-          ["source-map", "npm:0.6.1"]\
+          ["source-map", "npm:0.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map%2F-%2Fsource-map-0.6.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["source-map-support", [\
-      ["npm:0.5.21", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/source-map-support-npm-0.5.21-09ca99e250-9.zip/node_modules/source-map-support/",\
+      ["npm:0.5.21::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map-support%2F-%2Fsource-map-support-0.5.21.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/source-map-support-npm-0.5.21-5177bf99d0-9.zip/node_modules/source-map-support/",\
         "packageDependencies": [\
-          ["source-map-support", "npm:0.5.21"],\
-          ["buffer-from", "npm:1.1.2"],\
-          ["source-map", "npm:0.6.1"]\
+          ["source-map-support", "npm:0.5.21::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map-support%2F-%2Fsource-map-support-0.5.21.tgz"],\
+          ["buffer-from", "npm:1.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-from%2F-%2Fbuffer-from-1.1.2.tgz"],\
+          ["source-map", "npm:0.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map%2F-%2Fsource-map-0.6.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["split-ca", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/split-ca-npm-1.0.1-8e5f2e1d22-9.zip/node_modules/split-ca/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsplit-ca%2F-%2Fsplit-ca-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/split-ca-npm-1.0.1-8607b01556-9.zip/node_modules/split-ca/",\
         "packageDependencies": [\
-          ["split-ca", "npm:1.0.1"]\
+          ["split-ca", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsplit-ca%2F-%2Fsplit-ca-1.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["sprintf-js", [\
-      ["npm:1.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/sprintf-js-npm-1.0.3-73f0a322fa-9.zip/node_modules/sprintf-js/",\
+      ["npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsprintf-js%2F-%2Fsprintf-js-1.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/sprintf-js-npm-1.0.3-2deea737ba-9.zip/node_modules/sprintf-js/",\
         "packageDependencies": [\
-          ["sprintf-js", "npm:1.0.3"]\
+          ["sprintf-js", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsprintf-js%2F-%2Fsprintf-js-1.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["sshpk", [\
-      ["npm:1.17.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/sshpk-npm-1.17.0-95f17f597f-9.zip/node_modules/sshpk/",\
+      ["npm:1.17.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsshpk%2F-%2Fsshpk-1.17.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/sshpk-npm-1.17.0-b9b385cb4f-9.zip/node_modules/sshpk/",\
         "packageDependencies": [\
-          ["sshpk", "npm:1.17.0"],\
-          ["asn1", "npm:0.2.6"],\
-          ["assert-plus", "npm:1.0.0"],\
-          ["bcrypt-pbkdf", "npm:1.0.2"],\
-          ["dashdash", "npm:1.14.1"],\
-          ["ecc-jsbn", "npm:0.1.2"],\
-          ["getpass", "npm:0.1.7"],\
-          ["jsbn", "npm:0.1.1"],\
-          ["safer-buffer", "npm:2.1.2"],\
-          ["tweetnacl", "npm:0.14.5"]\
+          ["sshpk", "npm:1.17.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsshpk%2F-%2Fsshpk-1.17.0.tgz"],\
+          ["asn1", "npm:0.2.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1%2F-%2Fasn1-0.2.6.tgz"],\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"],\
+          ["bcrypt-pbkdf", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbcrypt-pbkdf%2F-%2Fbcrypt-pbkdf-1.0.2.tgz"],\
+          ["dashdash", "npm:1.14.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdashdash%2F-%2Fdashdash-1.14.1.tgz"],\
+          ["ecc-jsbn", "npm:0.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fecc-jsbn%2F-%2Fecc-jsbn-0.1.2.tgz"],\
+          ["getpass", "npm:0.1.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fgetpass%2F-%2Fgetpass-0.1.7.tgz"],\
+          ["jsbn", "npm:0.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fjsbn%2F-%2Fjsbn-0.1.1.tgz"],\
+          ["safer-buffer", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafer-buffer%2F-%2Fsafer-buffer-2.1.2.tgz"],\
+          ["tweetnacl", "npm:0.14.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftweetnacl%2F-%2Ftweetnacl-0.14.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ssri", [\
-      ["npm:10.0.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ssri-npm-10.0.4-f583dafaf3-9.zip/node_modules/ssri/",\
+      ["npm:10.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fssri%2F-%2Fssri-10.0.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ssri-npm-10.0.4-c1806a79bf-9.zip/node_modules/ssri/",\
         "packageDependencies": [\
-          ["ssri", "npm:10.0.4"],\
-          ["minipass", "npm:5.0.0"]\
+          ["ssri", "npm:10.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fssri%2F-%2Fssri-10.0.4.tgz"],\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["stream-to-it", [\
-      ["npm:0.2.4", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/stream-to-it-npm-0.2.4-798f6e3134-9.zip/node_modules/stream-to-it/",\
+      ["npm:0.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstream-to-it%2F-%2Fstream-to-it-0.2.4.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/stream-to-it-npm-0.2.4-f71bd37d8a-9.zip/node_modules/stream-to-it/",\
         "packageDependencies": [\
-          ["stream-to-it", "npm:0.2.4"],\
-          ["get-iterator", "npm:1.0.2"]\
+          ["stream-to-it", "npm:0.2.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstream-to-it%2F-%2Fstream-to-it-0.2.4.tgz"],\
+          ["get-iterator", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-iterator%2F-%2Fget-iterator-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["streamsearch", [\
-      ["npm:1.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/streamsearch-npm-1.1.0-fc3ad6536d-9.zip/node_modules/streamsearch/",\
+      ["npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstreamsearch%2F-%2Fstreamsearch-1.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/streamsearch-npm-1.1.0-57891a1df5-9.zip/node_modules/streamsearch/",\
         "packageDependencies": [\
-          ["streamsearch", "npm:1.1.0"]\
+          ["streamsearch", "npm:1.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstreamsearch%2F-%2Fstreamsearch-1.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["string-width", [\
-      ["npm:4.2.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/string-width-npm-4.2.3-2c27177bae-9.zip/node_modules/string-width/",\
+      ["npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/string-width-npm-4.2.3-8002c6e5cf-9.zip/node_modules/string-width/",\
         "packageDependencies": [\
-          ["string-width", "npm:4.2.3"],\
-          ["emoji-regex", "npm:8.0.0"],\
-          ["is-fullwidth-code-point", "npm:3.0.0"],\
-          ["strip-ansi", "npm:6.0.1"]\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"],\
+          ["emoji-regex", "npm:8.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Femoji-regex%2F-%2Femoji-regex-8.0.0.tgz"],\
+          ["is-fullwidth-code-point", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-fullwidth-code-point%2F-%2Fis-fullwidth-code-point-3.0.0.tgz"],\
+          ["strip-ansi", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:5.1.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/string-width-npm-5.1.2-bf60531341-9.zip/node_modules/string-width/",\
+      ["npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-5.1.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/string-width-npm-5.1.2-8888a85c07-9.zip/node_modules/string-width/",\
         "packageDependencies": [\
-          ["string-width", "npm:5.1.2"],\
-          ["eastasianwidth", "npm:0.2.0"],\
-          ["emoji-regex", "npm:9.2.2"],\
-          ["strip-ansi", "npm:7.1.0"]\
+          ["string-width", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-5.1.2.tgz"],\
+          ["eastasianwidth", "npm:0.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Feastasianwidth%2F-%2Feastasianwidth-0.2.0.tgz"],\
+          ["emoji-regex", "npm:9.2.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Femoji-regex%2F-%2Femoji-regex-9.2.2.tgz"],\
+          ["strip-ansi", "npm:7.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-7.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["string_decoder", [\
-      ["npm:0.10.31", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/string_decoder-npm-0.10.31-851f3f7302-9.zip/node_modules/string_decoder/",\
+      ["npm:0.10.31::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-0.10.31.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/string_decoder-npm-0.10.31-a6d3ee0404-9.zip/node_modules/string_decoder/",\
         "packageDependencies": [\
-          ["string_decoder", "npm:0.10.31"]\
+          ["string_decoder", "npm:0.10.31::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-0.10.31.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/string_decoder-npm-1.1.1-e46a6c1353-9.zip/node_modules/string_decoder/",\
+      ["npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-1.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/string_decoder-npm-1.1.1-c7c28c1c12-9.zip/node_modules/string_decoder/",\
         "packageDependencies": [\
-          ["string_decoder", "npm:1.1.1"],\
-          ["safe-buffer", "npm:5.1.2"]\
+          ["string_decoder", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-1.1.1.tgz"],\
+          ["safe-buffer", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.1.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:1.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/string_decoder-npm-1.3.0-2422117fd0-9.zip/node_modules/string_decoder/",\
+      ["npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-1.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/string_decoder-npm-1.3.0-30aa3fa6a8-9.zip/node_modules/string_decoder/",\
         "packageDependencies": [\
-          ["string_decoder", "npm:1.3.0"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["string_decoder", "npm:1.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring_decoder%2F-%2Fstring_decoder-1.3.0.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["strip-ansi", [\
-      ["npm:5.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-ansi-npm-5.2.0-275214c316-9.zip/node_modules/strip-ansi/",\
+      ["npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-5.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-ansi-npm-5.2.0-7cc6150269-9.zip/node_modules/strip-ansi/",\
         "packageDependencies": [\
-          ["strip-ansi", "npm:5.2.0"],\
-          ["ansi-regex", "npm:4.1.1"]\
+          ["strip-ansi", "npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-5.2.0.tgz"],\
+          ["ansi-regex", "npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-4.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-ansi-npm-6.0.1-caddc7cb40-9.zip/node_modules/strip-ansi/",\
+      ["npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-ansi-npm-6.0.1-3900a426ec-9.zip/node_modules/strip-ansi/",\
         "packageDependencies": [\
-          ["strip-ansi", "npm:6.0.1"],\
-          ["ansi-regex", "npm:5.0.1"]\
+          ["strip-ansi", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz"],\
+          ["ansi-regex", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-5.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-ansi-npm-7.1.0-7453b80b79-9.zip/node_modules/strip-ansi/",\
+      ["npm:7.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-7.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-ansi-npm-7.1.0-c84f7c36a1-9.zip/node_modules/strip-ansi/",\
         "packageDependencies": [\
-          ["strip-ansi", "npm:7.1.0"],\
-          ["ansi-regex", "npm:6.0.1"]\
+          ["strip-ansi", "npm:7.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-7.1.0.tgz"],\
+          ["ansi-regex", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-regex%2F-%2Fansi-regex-6.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["strip-final-newline", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-final-newline-npm-2.0.0-340c4f7c66-9.zip/node_modules/strip-final-newline/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-final-newline%2F-%2Fstrip-final-newline-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-final-newline-npm-2.0.0-ba5b6c659b-9.zip/node_modules/strip-final-newline/",\
         "packageDependencies": [\
-          ["strip-final-newline", "npm:2.0.0"]\
+          ["strip-final-newline", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-final-newline%2F-%2Fstrip-final-newline-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["strip-hex-prefix", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-hex-prefix-npm-1.0.0-bf941e622d-9.zip/node_modules/strip-hex-prefix/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-hex-prefix%2F-%2Fstrip-hex-prefix-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/strip-hex-prefix-npm-1.0.0-ff31ca94fb-9.zip/node_modules/strip-hex-prefix/",\
         "packageDependencies": [\
-          ["strip-hex-prefix", "npm:1.0.0"],\
-          ["is-hex-prefixed", "npm:1.0.0"]\
+          ["strip-hex-prefix", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-hex-prefix%2F-%2Fstrip-hex-prefix-1.0.0.tgz"],\
+          ["is-hex-prefixed", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-hex-prefixed%2F-%2Fis-hex-prefixed-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["supports-color", [\
-      ["npm:5.5.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-color-npm-5.5.0-183ac537bc-9.zip/node_modules/supports-color/",\
+      ["npm:5.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-5.5.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-color-npm-5.5.0-01347ae04d-9.zip/node_modules/supports-color/",\
         "packageDependencies": [\
-          ["supports-color", "npm:5.5.0"],\
-          ["has-flag", "npm:3.0.0"]\
+          ["supports-color", "npm:5.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-5.5.0.tgz"],\
+          ["has-flag", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:7.2.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-color-npm-7.2.0-606bfcf7da-9.zip/node_modules/supports-color/",\
+      ["npm:7.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-7.2.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-color-npm-7.2.0-73b437142d-9.zip/node_modules/supports-color/",\
         "packageDependencies": [\
-          ["supports-color", "npm:7.2.0"],\
-          ["has-flag", "npm:4.0.0"]\
+          ["supports-color", "npm:7.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-7.2.0.tgz"],\
+          ["has-flag", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-color-npm-8.1.1-289e937149-9.zip/node_modules/supports-color/",\
+      ["npm:8.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-8.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-color-npm-8.1.1-87b97376a2-9.zip/node_modules/supports-color/",\
         "packageDependencies": [\
-          ["supports-color", "npm:8.1.1"],\
-          ["has-flag", "npm:4.0.0"]\
+          ["supports-color", "npm:8.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-8.1.1.tgz"],\
+          ["has-flag", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["supports-hyperlinks", [\
-      ["npm:2.3.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-hyperlinks-npm-2.3.0-d19176eba2-9.zip/node_modules/supports-hyperlinks/",\
+      ["npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-hyperlinks%2F-%2Fsupports-hyperlinks-2.3.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/supports-hyperlinks-npm-2.3.0-1afaa0a63c-9.zip/node_modules/supports-hyperlinks/",\
         "packageDependencies": [\
-          ["supports-hyperlinks", "npm:2.3.0"],\
-          ["has-flag", "npm:4.0.0"],\
-          ["supports-color", "npm:7.2.0"]\
+          ["supports-hyperlinks", "npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-hyperlinks%2F-%2Fsupports-hyperlinks-2.3.0.tgz"],\
+          ["has-flag", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhas-flag%2F-%2Fhas-flag-4.0.0.tgz"],\
+          ["supports-color", "npm:7.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsupports-color%2F-%2Fsupports-color-7.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["sync-request", [\
-      ["npm:6.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/sync-request-npm-6.1.0-6ac24ab111-9.zip/node_modules/sync-request/",\
+      ["npm:6.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsync-request%2F-%2Fsync-request-6.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/sync-request-npm-6.1.0-d19ed6e374-9.zip/node_modules/sync-request/",\
         "packageDependencies": [\
-          ["sync-request", "npm:6.1.0"],\
-          ["http-response-object", "npm:3.0.2"],\
-          ["sync-rpc", "npm:1.3.6"],\
-          ["then-request", "npm:6.0.2"]\
+          ["sync-request", "npm:6.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsync-request%2F-%2Fsync-request-6.1.0.tgz"],\
+          ["http-response-object", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-response-object%2F-%2Fhttp-response-object-3.0.2.tgz"],\
+          ["sync-rpc", "npm:1.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsync-rpc%2F-%2Fsync-rpc-1.3.6.tgz"],\
+          ["then-request", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthen-request%2F-%2Fthen-request-6.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["sync-rpc", [\
-      ["npm:1.3.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/sync-rpc-npm-1.3.6-96e5b4b996-9.zip/node_modules/sync-rpc/",\
+      ["npm:1.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsync-rpc%2F-%2Fsync-rpc-1.3.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/sync-rpc-npm-1.3.6-837379d2b3-9.zip/node_modules/sync-rpc/",\
         "packageDependencies": [\
-          ["sync-rpc", "npm:1.3.6"],\
-          ["get-port", "npm:3.2.0"]\
+          ["sync-rpc", "npm:1.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsync-rpc%2F-%2Fsync-rpc-1.3.6.tgz"],\
+          ["get-port", "npm:3.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fget-port%2F-%2Fget-port-3.2.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tar", [\
-      ["npm:6.1.15", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tar-npm-6.1.15-44c3e71720-9.zip/node_modules/tar/",\
+      ["npm:6.1.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar%2F-%2Ftar-6.1.15.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tar-npm-6.1.15-1d53577e19-9.zip/node_modules/tar/",\
         "packageDependencies": [\
-          ["tar", "npm:6.1.15"],\
-          ["chownr", "npm:2.0.0"],\
-          ["fs-minipass", "npm:2.1.0"],\
-          ["minipass", "npm:5.0.0"],\
-          ["minizlib", "npm:2.1.2"],\
-          ["mkdirp", "npm:1.0.4"],\
-          ["yallist", "npm:4.0.0"]\
+          ["tar", "npm:6.1.15::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar%2F-%2Ftar-6.1.15.tgz"],\
+          ["chownr", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchownr%2F-%2Fchownr-2.0.0.tgz"],\
+          ["fs-minipass", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-minipass%2F-%2Ffs-minipass-2.1.0.tgz"],\
+          ["minipass", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminipass%2F-%2Fminipass-5.0.0.tgz"],\
+          ["minizlib", "npm:2.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fminizlib%2F-%2Fminizlib-2.1.2.tgz"],\
+          ["mkdirp", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmkdirp%2F-%2Fmkdirp-1.0.4.tgz"],\
+          ["yallist", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyallist%2F-%2Fyallist-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tar-fs", [\
-      ["npm:1.16.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tar-fs-npm-1.16.3-009a31eb51-9.zip/node_modules/tar-fs/",\
+      ["npm:1.16.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar-fs%2F-%2Ftar-fs-1.16.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tar-fs-npm-1.16.3-8cc34872e5-9.zip/node_modules/tar-fs/",\
         "packageDependencies": [\
-          ["tar-fs", "npm:1.16.3"],\
-          ["chownr", "npm:1.1.4"],\
-          ["mkdirp", "npm:0.5.6"],\
-          ["pump", "npm:1.0.3"],\
-          ["tar-stream", "npm:1.6.2"]\
+          ["tar-fs", "npm:1.16.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar-fs%2F-%2Ftar-fs-1.16.3.tgz"],\
+          ["chownr", "npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fchownr%2F-%2Fchownr-1.1.4.tgz"],\
+          ["mkdirp", "npm:0.5.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmkdirp%2F-%2Fmkdirp-0.5.6.tgz"],\
+          ["pump", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpump%2F-%2Fpump-1.0.3.tgz"],\
+          ["tar-stream", "npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar-stream%2F-%2Ftar-stream-1.6.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tar-stream", [\
-      ["npm:1.6.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tar-stream-npm-1.6.2-f4a7fc08e2-9.zip/node_modules/tar-stream/",\
+      ["npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar-stream%2F-%2Ftar-stream-1.6.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tar-stream-npm-1.6.2-acce730fae-9.zip/node_modules/tar-stream/",\
         "packageDependencies": [\
-          ["tar-stream", "npm:1.6.2"],\
-          ["bl", "npm:1.2.3"],\
-          ["buffer-alloc", "npm:1.2.0"],\
-          ["end-of-stream", "npm:1.4.4"],\
-          ["fs-constants", "npm:1.0.0"],\
-          ["readable-stream", "npm:2.3.8"],\
-          ["to-buffer", "npm:1.1.1"],\
-          ["xtend", "npm:4.0.2"]\
+          ["tar-stream", "npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftar-stream%2F-%2Ftar-stream-1.6.2.tgz"],\
+          ["bl", "npm:1.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbl%2F-%2Fbl-1.2.3.tgz"],\
+          ["buffer-alloc", "npm:1.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbuffer-alloc%2F-%2Fbuffer-alloc-1.2.0.tgz"],\
+          ["end-of-stream", "npm:1.4.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fend-of-stream%2F-%2Fend-of-stream-1.4.4.tgz"],\
+          ["fs-constants", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ffs-constants%2F-%2Ffs-constants-1.0.0.tgz"],\
+          ["readable-stream", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Freadable-stream%2F-%2Freadable-stream-2.3.8.tgz"],\
+          ["to-buffer", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fto-buffer%2F-%2Fto-buffer-1.1.1.tgz"],\
+          ["xtend", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fxtend%2F-%2Fxtend-4.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["then-request", [\
-      ["npm:6.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/then-request-npm-6.0.2-d89438d618-9.zip/node_modules/then-request/",\
+      ["npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthen-request%2F-%2Fthen-request-6.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/then-request-npm-6.0.2-74af084685-9.zip/node_modules/then-request/",\
         "packageDependencies": [\
-          ["then-request", "npm:6.0.2"],\
-          ["@types/concat-stream", "npm:1.6.1"],\
-          ["@types/form-data", "npm:0.0.33"],\
-          ["@types/node", "npm:8.10.66"],\
-          ["@types/qs", "npm:6.9.7"],\
-          ["caseless", "npm:0.12.0"],\
-          ["concat-stream", "npm:1.6.2"],\
-          ["form-data", "npm:2.5.1"],\
-          ["http-basic", "npm:8.1.3"],\
-          ["http-response-object", "npm:3.0.2"],\
-          ["promise", "npm:8.3.0"],\
-          ["qs", "npm:6.11.2"]\
+          ["then-request", "npm:6.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthen-request%2F-%2Fthen-request-6.0.2.tgz"],\
+          ["@types/concat-stream", "npm:1.6.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fconcat-stream%2F-%2Fconcat-stream-1.6.1.tgz"],\
+          ["@types/form-data", "npm:0.0.33::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fform-data%2F-%2Fform-data-0.0.33.tgz"],\
+          ["@types/node", "npm:8.10.66::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2F-%2Fnode-8.10.66.tgz"],\
+          ["@types/qs", "npm:6.9.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fqs%2F-%2Fqs-6.9.7.tgz"],\
+          ["caseless", "npm:0.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcaseless%2F-%2Fcaseless-0.12.0.tgz"],\
+          ["concat-stream", "npm:1.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fconcat-stream%2F-%2Fconcat-stream-1.6.2.tgz"],\
+          ["form-data", "npm:2.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fform-data%2F-%2Fform-data-2.5.1.tgz"],\
+          ["http-basic", "npm:8.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-basic%2F-%2Fhttp-basic-8.1.3.tgz"],\
+          ["http-response-object", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fhttp-response-object%2F-%2Fhttp-response-object-3.0.2.tgz"],\
+          ["promise", "npm:8.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpromise%2F-%2Fpromise-8.3.0.tgz"],\
+          ["qs", "npm:6.11.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fqs%2F-%2Fqs-6.11.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["through", [\
-      ["npm:2.3.8", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/through-npm-2.3.8-df5f72a16e-9.zip/node_modules/through/",\
+      ["npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthrough%2F-%2Fthrough-2.3.8.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/through-npm-2.3.8-e536af9a9b-9.zip/node_modules/through/",\
         "packageDependencies": [\
-          ["through", "npm:2.3.8"]\
+          ["through", "npm:2.3.8::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fthrough%2F-%2Fthrough-2.3.8.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["timeout-abort-controller", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/timeout-abort-controller-npm-2.0.0-30dd18691c-9.zip/node_modules/timeout-abort-controller/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftimeout-abort-controller%2F-%2Ftimeout-abort-controller-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/timeout-abort-controller-npm-2.0.0-7ca7d37694-9.zip/node_modules/timeout-abort-controller/",\
         "packageDependencies": [\
-          ["timeout-abort-controller", "npm:2.0.0"],\
-          ["abort-controller", "npm:3.0.0"],\
-          ["native-abort-controller", "virtual:14d42817b2231f8a8dd06edeb23b1acf2fa57fb20de602da61a3ef140a00ff0e827e59e2af2d696c0e64f98737ed7cb42c5d09825e00687282afb3fce105533f#npm:1.0.4"],\
-          ["retimer", "npm:3.0.0"]\
+          ["timeout-abort-controller", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftimeout-abort-controller%2F-%2Ftimeout-abort-controller-2.0.0.tgz"],\
+          ["abort-controller", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fabort-controller%2F-%2Fabort-controller-3.0.0.tgz"],\
+          ["native-abort-controller", "virtual:c42580360c84acf672ccadd2f4c69407d21eb6ba78b5f7b5df4ca41afc07e1c796ccc377061dc849b2138522d3197e7248f440c853faaf8c840cb7d837e09b1b#npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnative-abort-controller%2F-%2Fnative-abort-controller-1.0.4.tgz"],\
+          ["retimer", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fretimer%2F-%2Fretimer-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tmp", [\
-      ["npm:0.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tmp-npm-0.2.1-a9c8d9c0ca-9.zip/node_modules/tmp/",\
+      ["npm:0.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftmp%2F-%2Ftmp-0.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tmp-npm-0.2.1-e8f6e9a7c1-9.zip/node_modules/tmp/",\
         "packageDependencies": [\
-          ["tmp", "npm:0.2.1"],\
-          ["rimraf", "npm:3.0.2"]\
+          ["tmp", "npm:0.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftmp%2F-%2Ftmp-0.2.1.tgz"],\
+          ["rimraf", "npm:3.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frimraf%2F-%2Frimraf-3.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tmp-promise", [\
-      ["npm:3.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tmp-promise-npm-3.0.3-6df4ad8df9-9.zip/node_modules/tmp-promise/",\
+      ["npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftmp-promise%2F-%2Ftmp-promise-3.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tmp-promise-npm-3.0.3-acded587bb-9.zip/node_modules/tmp-promise/",\
         "packageDependencies": [\
-          ["tmp-promise", "npm:3.0.3"],\
-          ["tmp", "npm:0.2.1"]\
+          ["tmp-promise", "npm:3.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftmp-promise%2F-%2Ftmp-promise-3.0.3.tgz"],\
+          ["tmp", "npm:0.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftmp%2F-%2Ftmp-0.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["to-buffer", [\
-      ["npm:1.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/to-buffer-npm-1.1.1-0be2cf74fe-9.zip/node_modules/to-buffer/",\
+      ["npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fto-buffer%2F-%2Fto-buffer-1.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/to-buffer-npm-1.1.1-b29d26ddb2-9.zip/node_modules/to-buffer/",\
         "packageDependencies": [\
-          ["to-buffer", "npm:1.1.1"]\
+          ["to-buffer", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fto-buffer%2F-%2Fto-buffer-1.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["to-regex-range", [\
-      ["npm:5.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/to-regex-range-npm-5.0.1-f1e8263b00-9.zip/node_modules/to-regex-range/",\
+      ["npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fto-regex-range%2F-%2Fto-regex-range-5.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/to-regex-range-npm-5.0.1-d23512f0d4-9.zip/node_modules/to-regex-range/",\
         "packageDependencies": [\
-          ["to-regex-range", "npm:5.0.1"],\
-          ["is-number", "npm:7.0.0"]\
+          ["to-regex-range", "npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fto-regex-range%2F-%2Fto-regex-range-5.0.1.tgz"],\
+          ["is-number", "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fis-number%2F-%2Fis-number-7.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tough-cookie", [\
-      ["npm:2.5.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tough-cookie-npm-2.5.0-79a2fe43fe-9.zip/node_modules/tough-cookie/",\
+      ["npm:2.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftough-cookie%2F-%2Ftough-cookie-2.5.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tough-cookie-npm-2.5.0-369d0ea8b5-9.zip/node_modules/tough-cookie/",\
         "packageDependencies": [\
-          ["tough-cookie", "npm:2.5.0"],\
-          ["psl", "npm:1.9.0"],\
-          ["punycode", "npm:2.3.0"]\
+          ["tough-cookie", "npm:2.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftough-cookie%2F-%2Ftough-cookie-2.5.0.tgz"],\
+          ["psl", "npm:1.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpsl%2F-%2Fpsl-1.9.0.tgz"],\
+          ["punycode", "npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-2.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tr46", [\
-      ["npm:0.0.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tr46-npm-0.0.3-de53018915-9.zip/node_modules/tr46/",\
+      ["npm:0.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftr46%2F-%2Ftr46-0.0.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tr46-npm-0.0.3-c1fcb2bc40-9.zip/node_modules/tr46/",\
         "packageDependencies": [\
-          ["tr46", "npm:0.0.3"]\
+          ["tr46", "npm:0.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftr46%2F-%2Ftr46-0.0.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ts-node", [\
-      ["npm:10.9.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ts-node-npm-10.9.1-6c268be7f4-9.zip/node_modules/ts-node/",\
+      ["npm:10.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fts-node%2F-%2Fts-node-10.9.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ts-node-npm-10.9.1-7db582be35-9.zip/node_modules/ts-node/",\
         "packageDependencies": [\
-          ["ts-node", "npm:10.9.1"]\
+          ["ts-node", "npm:10.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fts-node%2F-%2Fts-node-10.9.1.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:7ad760c0c32abc43e0555f6de5ed4b9b338afc038e373a0cfc0d4015589646ef1368b70a8c4b3a71b6fcd7050ca2d44637614089607a55dc0650a1d8469d52eb#npm:10.9.1", {\
-        "packageLocation": "./.yarn/__virtual__/ts-node-virtual-82da730899/7/root/.yarn/berry/cache/ts-node-npm-10.9.1-6c268be7f4-9.zip/node_modules/ts-node/",\
+      ["virtual:095f72ae8b18f0f712926363587e5f604c80553b773ebdd8a0a6b7a19b15ada05dc431ad8e3a2dd9838dff891002c5cc668d9bcff3eebed62c1cbeb8920c2c3f#npm:10.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fts-node%2F-%2Fts-node-10.9.1.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/ts-node-virtual-b8c97a9c5a/7/root/.yarn/berry/cache/ts-node-npm-10.9.1-7db582be35-9.zip/node_modules/ts-node/",\
         "packageDependencies": [\
-          ["ts-node", "virtual:7ad760c0c32abc43e0555f6de5ed4b9b338afc038e373a0cfc0d4015589646ef1368b70a8c4b3a71b6fcd7050ca2d44637614089607a55dc0650a1d8469d52eb#npm:10.9.1"],\
-          ["@cspotcode/source-map-support", "npm:0.8.1"],\
+          ["ts-node", "virtual:095f72ae8b18f0f712926363587e5f604c80553b773ebdd8a0a6b7a19b15ada05dc431ad8e3a2dd9838dff891002c5cc668d9bcff3eebed62c1cbeb8920c2c3f#npm:10.9.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fts-node%2F-%2Fts-node-10.9.1.tgz"],\
+          ["@cspotcode/source-map-support", "npm:0.8.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40cspotcode%2Fsource-map-support%2F-%2Fsource-map-support-0.8.1.tgz"],\
           ["@swc/core", null],\
           ["@swc/wasm", null],\
-          ["@tsconfig/node10", "npm:1.0.9"],\
-          ["@tsconfig/node12", "npm:1.0.11"],\
-          ["@tsconfig/node14", "npm:1.0.3"],\
-          ["@tsconfig/node16", "npm:1.0.4"],\
+          ["@tsconfig/node10", "npm:1.0.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode10%2F-%2Fnode10-1.0.9.tgz"],\
+          ["@tsconfig/node12", "npm:1.0.11::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode12%2F-%2Fnode12-1.0.11.tgz"],\
+          ["@tsconfig/node14", "npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode14%2F-%2Fnode14-1.0.3.tgz"],\
+          ["@tsconfig/node16", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40tsconfig%2Fnode16%2F-%2Fnode16-1.0.4.tgz"],\
           ["@types/node", null],\
           ["@types/swc__core", null],\
           ["@types/swc__wasm", null],\
           ["@types/typescript", null],\
-          ["acorn", "npm:8.10.0"],\
-          ["acorn-walk", "npm:8.2.0"],\
-          ["arg", "npm:4.1.3"],\
-          ["create-require", "npm:1.1.1"],\
-          ["diff", "npm:4.0.2"],\
-          ["make-error", "npm:1.3.6"],\
+          ["acorn", "npm:8.10.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Facorn%2F-%2Facorn-8.10.0.tgz"],\
+          ["acorn-walk", "npm:8.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Facorn-walk%2F-%2Facorn-walk-8.2.0.tgz"],\
+          ["arg", "npm:4.1.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Farg%2F-%2Farg-4.1.3.tgz"],\
+          ["create-require", "npm:1.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcreate-require%2F-%2Fcreate-require-1.1.1.tgz"],\
+          ["diff", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdiff%2F-%2Fdiff-4.0.2.tgz"],\
+          ["make-error", "npm:1.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmake-error%2F-%2Fmake-error-1.3.6.tgz"],\
           ["typescript", null],\
-          ["v8-compile-cache-lib", "npm:3.0.1"],\
-          ["yn", "npm:3.1.1"]\
+          ["v8-compile-cache-lib", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fv8-compile-cache-lib%2F-%2Fv8-compile-cache-lib-3.0.1.tgz"],\
+          ["yn", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyn%2F-%2Fyn-3.1.1.tgz"]\
         ],\
         "packagePeers": [\
           "@swc/core",\
@@ -5849,77 +5849,77 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["tslib", [\
-      ["npm:2.6.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tslib-npm-2.6.0-4d336a6824-9.zip/node_modules/tslib/",\
+      ["npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tslib-npm-2.6.0-e370b6eb3c-9.zip/node_modules/tslib/",\
         "packageDependencies": [\
-          ["tslib", "npm:2.6.0"]\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tunnel-agent", [\
-      ["npm:0.6.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tunnel-agent-npm-0.6.0-64345ab7eb-9.zip/node_modules/tunnel-agent/",\
+      ["npm:0.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftunnel-agent%2F-%2Ftunnel-agent-0.6.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tunnel-agent-npm-0.6.0-105be4246d-9.zip/node_modules/tunnel-agent/",\
         "packageDependencies": [\
-          ["tunnel-agent", "npm:0.6.0"],\
-          ["safe-buffer", "npm:5.2.1"]\
+          ["tunnel-agent", "npm:0.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftunnel-agent%2F-%2Ftunnel-agent-0.6.0.tgz"],\
+          ["safe-buffer", "npm:5.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fsafe-buffer%2F-%2Fsafe-buffer-5.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["tweetnacl", [\
-      ["npm:0.14.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/tweetnacl-npm-0.14.5-a3f766c0d1-9.zip/node_modules/tweetnacl/",\
+      ["npm:0.14.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftweetnacl%2F-%2Ftweetnacl-0.14.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/tweetnacl-npm-0.14.5-f1ded1dc80-9.zip/node_modules/tweetnacl/",\
         "packageDependencies": [\
-          ["tweetnacl", "npm:0.14.5"]\
+          ["tweetnacl", "npm:0.14.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftweetnacl%2F-%2Ftweetnacl-0.14.5.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["type-fest", [\
-      ["npm:0.21.3", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/type-fest-npm-0.21.3-5ff2a9c6fd-9.zip/node_modules/type-fest/",\
+      ["npm:0.21.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftype-fest%2F-%2Ftype-fest-0.21.3.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/type-fest-npm-0.21.3-12ac9b6d36-9.zip/node_modules/type-fest/",\
         "packageDependencies": [\
-          ["type-fest", "npm:0.21.3"]\
+          ["type-fest", "npm:0.21.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftype-fest%2F-%2Ftype-fest-0.21.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["typedarray", [\
-      ["npm:0.0.6", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/typedarray-npm-0.0.6-37638b2241-9.zip/node_modules/typedarray/",\
+      ["npm:0.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftypedarray%2F-%2Ftypedarray-0.0.6.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/typedarray-npm-0.0.6-dcaaeba065-9.zip/node_modules/typedarray/",\
         "packageDependencies": [\
-          ["typedarray", "npm:0.0.6"]\
+          ["typedarray", "npm:0.0.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftypedarray%2F-%2Ftypedarray-0.0.6.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["uint8arrays", [\
-      ["npm:3.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/uint8arrays-npm-3.1.1-42293ad777-9.zip/node_modules/uint8arrays/",\
+      ["npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuint8arrays%2F-%2Fuint8arrays-3.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/uint8arrays-npm-3.1.1-6fb2e55368-9.zip/node_modules/uint8arrays/",\
         "packageDependencies": [\
-          ["uint8arrays", "npm:3.1.1"],\
-          ["multiformats", "npm:9.9.0"]\
+          ["uint8arrays", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuint8arrays%2F-%2Fuint8arrays-3.1.1.tgz"],\
+          ["multiformats", "npm:9.9.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmultiformats%2F-%2Fmultiformats-9.9.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["unique-filename", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/unique-filename-npm-3.0.0-77d68e0a45-9.zip/node_modules/unique-filename/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funique-filename%2F-%2Funique-filename-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/unique-filename-npm-3.0.0-e87808bd66-9.zip/node_modules/unique-filename/",\
         "packageDependencies": [\
-          ["unique-filename", "npm:3.0.0"],\
-          ["unique-slug", "npm:4.0.0"]\
+          ["unique-filename", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funique-filename%2F-%2Funique-filename-3.0.0.tgz"],\
+          ["unique-slug", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funique-slug%2F-%2Funique-slug-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["unique-slug", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/unique-slug-npm-4.0.0-e6b08f28aa-9.zip/node_modules/unique-slug/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funique-slug%2F-%2Funique-slug-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/unique-slug-npm-4.0.0-e7c5095db2-9.zip/node_modules/unique-slug/",\
         "packageDependencies": [\
-          ["unique-slug", "npm:4.0.0"],\
-          ["imurmurhash", "npm:0.1.4"]\
+          ["unique-slug", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funique-slug%2F-%2Funique-slug-4.0.0.tgz"],\
+          ["imurmurhash", "npm:0.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fimurmurhash%2F-%2Fimurmurhash-0.1.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5929,284 +5929,284 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["uniswapv2", "workspace:."],\
-          ["@graphprotocol/graph-cli", "npm:0.51.2"],\
-          ["@graphprotocol/graph-ts", "npm:0.31.0"],\
-          ["matchstick-as", "npm:0.5.0"]\
+          ["@graphprotocol/graph-cli", "npm:0.51.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-cli%2F-%2Fgraph-cli-0.51.2.tgz"],\
+          ["@graphprotocol/graph-ts", "npm:0.31.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40graphprotocol%2Fgraph-ts%2F-%2Fgraph-ts-0.31.0.tgz"],\
+          ["matchstick-as", "npm:0.5.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fmatchstick-as%2F-%2Fmatchstick-as-0.5.0.tgz"]\
         ],\
         "linkType": "SOFT"\
       }]\
     ]],\
     ["universalify", [\
-      ["npm:2.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/universalify-npm-2.0.0-03b8b418a8-9.zip/node_modules/universalify/",\
+      ["npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funiversalify%2F-%2Funiversalify-2.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/universalify-npm-2.0.0-de06514faf-9.zip/node_modules/universalify/",\
         "packageDependencies": [\
-          ["universalify", "npm:2.0.0"]\
+          ["universalify", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Funiversalify%2F-%2Funiversalify-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["uri-js", [\
-      ["npm:4.4.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/uri-js-npm-4.4.1-66d11cbcaf-9.zip/node_modules/uri-js/",\
+      ["npm:4.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Furi-js%2F-%2Furi-js-4.4.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/uri-js-npm-4.4.1-56525f244d-9.zip/node_modules/uri-js/",\
         "packageDependencies": [\
-          ["uri-js", "npm:4.4.1"],\
-          ["punycode", "npm:2.3.0"]\
+          ["uri-js", "npm:4.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Furi-js%2F-%2Furi-js-4.4.1.tgz"],\
+          ["punycode", "npm:2.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpunycode%2F-%2Fpunycode-2.3.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["urlpattern-polyfill", [\
-      ["npm:8.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/urlpattern-polyfill-npm-8.0.2-85d93b8946-9.zip/node_modules/urlpattern-polyfill/",\
+      ["npm:8.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Furlpattern-polyfill%2F-%2Furlpattern-polyfill-8.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/urlpattern-polyfill-npm-8.0.2-21106f737a-9.zip/node_modules/urlpattern-polyfill/",\
         "packageDependencies": [\
-          ["urlpattern-polyfill", "npm:8.0.2"]\
+          ["urlpattern-polyfill", "npm:8.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Furlpattern-polyfill%2F-%2Furlpattern-polyfill-8.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["utf8", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/utf8-npm-3.0.0-7c39b5994a-9.zip/node_modules/utf8/",\
+      ["npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futf8%2F-%2Futf8-3.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/utf8-npm-3.0.0-faa31de5b1-9.zip/node_modules/utf8/",\
         "packageDependencies": [\
-          ["utf8", "npm:3.0.0"]\
+          ["utf8", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futf8%2F-%2Futf8-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["util-deprecate", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/util-deprecate-npm-1.0.2-e3fe1a219c-9.zip/node_modules/util-deprecate/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futil-deprecate%2F-%2Futil-deprecate-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/util-deprecate-npm-1.0.2-8172934732-9.zip/node_modules/util-deprecate/",\
         "packageDependencies": [\
-          ["util-deprecate", "npm:1.0.2"]\
+          ["util-deprecate", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futil-deprecate%2F-%2Futil-deprecate-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["uuid", [\
-      ["npm:3.4.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/uuid-npm-3.4.0-4fd8ef88ad-9.zip/node_modules/uuid/",\
+      ["npm:3.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuuid%2F-%2Fuuid-3.4.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/uuid-npm-3.4.0-add22dae4e-9.zip/node_modules/uuid/",\
         "packageDependencies": [\
-          ["uuid", "npm:3.4.0"]\
+          ["uuid", "npm:3.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuuid%2F-%2Fuuid-3.4.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.3.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/uuid-npm-8.3.2-eca0baba53-9.zip/node_modules/uuid/",\
+      ["npm:8.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuuid%2F-%2Fuuid-8.3.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/uuid-npm-8.3.2-e982bb9ca5-9.zip/node_modules/uuid/",\
         "packageDependencies": [\
-          ["uuid", "npm:8.3.2"]\
+          ["uuid", "npm:8.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fuuid%2F-%2Fuuid-8.3.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["v8-compile-cache-lib", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/v8-compile-cache-lib-npm-3.0.1-4886071ece-9.zip/node_modules/v8-compile-cache-lib/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fv8-compile-cache-lib%2F-%2Fv8-compile-cache-lib-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/v8-compile-cache-lib-npm-3.0.1-8f1c8534f5-9.zip/node_modules/v8-compile-cache-lib/",\
         "packageDependencies": [\
-          ["v8-compile-cache-lib", "npm:3.0.1"]\
+          ["v8-compile-cache-lib", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fv8-compile-cache-lib%2F-%2Fv8-compile-cache-lib-3.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["varint", [\
-      ["npm:6.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/varint-npm-6.0.0-a638e8f225-9.zip/node_modules/varint/",\
+      ["npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fvarint%2F-%2Fvarint-6.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/varint-npm-6.0.0-9a2dd2ff1c-9.zip/node_modules/varint/",\
         "packageDependencies": [\
-          ["varint", "npm:6.0.0"]\
+          ["varint", "npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fvarint%2F-%2Fvarint-6.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["verror", [\
-      ["npm:1.10.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/verror-npm-1.10.0-c3f839c579-9.zip/node_modules/verror/",\
+      ["npm:1.10.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fverror%2F-%2Fverror-1.10.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/verror-npm-1.10.0-6f1b0693d8-9.zip/node_modules/verror/",\
         "packageDependencies": [\
-          ["verror", "npm:1.10.0"],\
-          ["assert-plus", "npm:1.0.0"],\
-          ["core-util-is", "npm:1.0.2"],\
-          ["extsprintf", "npm:1.4.1"]\
+          ["verror", "npm:1.10.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fverror%2F-%2Fverror-1.10.0.tgz"],\
+          ["assert-plus", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fassert-plus%2F-%2Fassert-plus-1.0.0.tgz"],\
+          ["core-util-is", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fcore-util-is%2F-%2Fcore-util-is-1.0.2.tgz"],\
+          ["extsprintf", "npm:1.4.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fextsprintf%2F-%2Fextsprintf-1.4.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["wabt", [\
-      ["npm:1.0.24", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wabt-npm-1.0.24-460c5d6b25-9.zip/node_modules/wabt/",\
+      ["npm:1.0.24::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwabt%2F-%2Fwabt-1.0.24.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wabt-npm-1.0.24-dd9f91fb91-9.zip/node_modules/wabt/",\
         "packageDependencies": [\
-          ["wabt", "npm:1.0.24"]\
+          ["wabt", "npm:1.0.24::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwabt%2F-%2Fwabt-1.0.24.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["wcwidth", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wcwidth-npm-1.0.1-05fa596453-9.zip/node_modules/wcwidth/",\
+      ["npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwcwidth%2F-%2Fwcwidth-1.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wcwidth-npm-1.0.1-71312b3da6-9.zip/node_modules/wcwidth/",\
         "packageDependencies": [\
-          ["wcwidth", "npm:1.0.1"],\
-          ["defaults", "npm:1.0.4"]\
+          ["wcwidth", "npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwcwidth%2F-%2Fwcwidth-1.0.1.tgz"],\
+          ["defaults", "npm:1.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fdefaults%2F-%2Fdefaults-1.0.4.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["web-streams-polyfill", [\
-      ["npm:3.2.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/web-streams-polyfill-npm-3.2.1-835bd3857e-9.zip/node_modules/web-streams-polyfill/",\
+      ["npm:3.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb-streams-polyfill%2F-%2Fweb-streams-polyfill-3.2.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/web-streams-polyfill-npm-3.2.1-256c252b0e-9.zip/node_modules/web-streams-polyfill/",\
         "packageDependencies": [\
-          ["web-streams-polyfill", "npm:3.2.1"]\
+          ["web-streams-polyfill", "npm:3.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb-streams-polyfill%2F-%2Fweb-streams-polyfill-3.2.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["web3-eth-abi", [\
-      ["npm:1.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/web3-eth-abi-npm-1.7.0-ea460054a8-9.zip/node_modules/web3-eth-abi/",\
+      ["npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb3-eth-abi%2F-%2Fweb3-eth-abi-1.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/web3-eth-abi-npm-1.7.0-2672f32f18-9.zip/node_modules/web3-eth-abi/",\
         "packageDependencies": [\
-          ["web3-eth-abi", "npm:1.7.0"],\
-          ["@ethersproject/abi", "npm:5.0.7"],\
-          ["web3-utils", "npm:1.7.0"]\
+          ["web3-eth-abi", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb3-eth-abi%2F-%2Fweb3-eth-abi-1.7.0.tgz"],\
+          ["@ethersproject/abi", "npm:5.0.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40ethersproject%2Fabi%2F-%2Fabi-5.0.7.tgz"],\
+          ["web3-utils", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb3-utils%2F-%2Fweb3-utils-1.7.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["web3-utils", [\
-      ["npm:1.7.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/web3-utils-npm-1.7.0-98c0723746-9.zip/node_modules/web3-utils/",\
+      ["npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb3-utils%2F-%2Fweb3-utils-1.7.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/web3-utils-npm-1.7.0-ddd6b7a0d7-9.zip/node_modules/web3-utils/",\
         "packageDependencies": [\
-          ["web3-utils", "npm:1.7.0"],\
-          ["bn.js", "npm:4.12.0"],\
-          ["ethereum-bloom-filters", "npm:1.0.10"],\
-          ["ethereumjs-util", "npm:7.1.5"],\
-          ["ethjs-unit", "npm:0.1.6"],\
-          ["number-to-bn", "npm:1.7.0"],\
-          ["randombytes", "npm:2.1.0"],\
-          ["utf8", "npm:3.0.0"]\
+          ["web3-utils", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fweb3-utils%2F-%2Fweb3-utils-1.7.0.tgz"],\
+          ["bn.js", "npm:4.12.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fbn.js%2F-%2Fbn.js-4.12.0.tgz"],\
+          ["ethereum-bloom-filters", "npm:1.0.10::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereum-bloom-filters%2F-%2Fethereum-bloom-filters-1.0.10.tgz"],\
+          ["ethereumjs-util", "npm:7.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethereumjs-util%2F-%2Fethereumjs-util-7.1.5.tgz"],\
+          ["ethjs-unit", "npm:0.1.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fethjs-unit%2F-%2Fethjs-unit-0.1.6.tgz"],\
+          ["number-to-bn", "npm:1.7.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fnumber-to-bn%2F-%2Fnumber-to-bn-1.7.0.tgz"],\
+          ["randombytes", "npm:2.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Frandombytes%2F-%2Frandombytes-2.1.0.tgz"],\
+          ["utf8", "npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Futf8%2F-%2Futf8-3.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["webcrypto-core", [\
-      ["npm:1.7.7", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/webcrypto-core-npm-1.7.7-bb22025843-9.zip/node_modules/webcrypto-core/",\
+      ["npm:1.7.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwebcrypto-core%2F-%2Fwebcrypto-core-1.7.7.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/webcrypto-core-npm-1.7.7-a40eac93f5-9.zip/node_modules/webcrypto-core/",\
         "packageDependencies": [\
-          ["webcrypto-core", "npm:1.7.7"],\
-          ["@peculiar/asn1-schema", "npm:2.3.6"],\
-          ["@peculiar/json-schema", "npm:1.1.12"],\
-          ["asn1js", "npm:3.0.5"],\
-          ["pvtsutils", "npm:1.3.2"],\
-          ["tslib", "npm:2.6.0"]\
+          ["webcrypto-core", "npm:1.7.7::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwebcrypto-core%2F-%2Fwebcrypto-core-1.7.7.tgz"],\
+          ["@peculiar/asn1-schema", "npm:2.3.6::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fasn1-schema%2F-%2Fasn1-schema-2.3.6.tgz"],\
+          ["@peculiar/json-schema", "npm:1.1.12::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2F%40peculiar%2Fjson-schema%2F-%2Fjson-schema-1.1.12.tgz"],\
+          ["asn1js", "npm:3.0.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fasn1js%2F-%2Fasn1js-3.0.5.tgz"],\
+          ["pvtsutils", "npm:1.3.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fpvtsutils%2F-%2Fpvtsutils-1.3.2.tgz"],\
+          ["tslib", "npm:2.6.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftslib%2F-%2Ftslib-2.6.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["webidl-conversions", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/webidl-conversions-npm-3.0.1-60310f6a2b-9.zip/node_modules/webidl-conversions/",\
+      ["npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwebidl-conversions%2F-%2Fwebidl-conversions-3.0.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/webidl-conversions-npm-3.0.1-61470731c6-9.zip/node_modules/webidl-conversions/",\
         "packageDependencies": [\
-          ["webidl-conversions", "npm:3.0.1"]\
+          ["webidl-conversions", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwebidl-conversions%2F-%2Fwebidl-conversions-3.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["whatwg-url", [\
-      ["npm:5.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/whatwg-url-npm-5.0.0-374fb45e60-9.zip/node_modules/whatwg-url/",\
+      ["npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhatwg-url%2F-%2Fwhatwg-url-5.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/whatwg-url-npm-5.0.0-9356dc008b-9.zip/node_modules/whatwg-url/",\
         "packageDependencies": [\
-          ["whatwg-url", "npm:5.0.0"],\
-          ["tr46", "npm:0.0.3"],\
-          ["webidl-conversions", "npm:3.0.1"]\
+          ["whatwg-url", "npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhatwg-url%2F-%2Fwhatwg-url-5.0.0.tgz"],\
+          ["tr46", "npm:0.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Ftr46%2F-%2Ftr46-0.0.3.tgz"],\
+          ["webidl-conversions", "npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwebidl-conversions%2F-%2Fwebidl-conversions-3.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["which", [\
-      ["npm:1.3.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/which-npm-1.3.1-f0ebb8bdd8-9.zip/node_modules/which/",\
+      ["npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-1.3.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/which-npm-1.3.1-c9b4881319-9.zip/node_modules/which/",\
         "packageDependencies": [\
-          ["which", "npm:1.3.1"],\
-          ["isexe", "npm:2.0.0"]\
+          ["which", "npm:1.3.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-1.3.1.tgz"],\
+          ["isexe", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisexe%2F-%2Fisexe-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/which-npm-2.0.2-320ddf72f7-9.zip/node_modules/which/",\
+      ["npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-2.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/which-npm-2.0.2-835b65ecdf-9.zip/node_modules/which/",\
         "packageDependencies": [\
-          ["which", "npm:2.0.2"],\
-          ["isexe", "npm:2.0.0"]\
+          ["which", "npm:2.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwhich%2F-%2Fwhich-2.0.2.tgz"],\
+          ["isexe", "npm:2.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fisexe%2F-%2Fisexe-2.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["wide-align", [\
-      ["npm:1.1.5", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wide-align-npm-1.1.5-889d77e592-9.zip/node_modules/wide-align/",\
+      ["npm:1.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwide-align%2F-%2Fwide-align-1.1.5.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wide-align-npm-1.1.5-27c1c59a7a-9.zip/node_modules/wide-align/",\
         "packageDependencies": [\
-          ["wide-align", "npm:1.1.5"],\
-          ["string-width", "npm:4.2.3"]\
+          ["wide-align", "npm:1.1.5::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwide-align%2F-%2Fwide-align-1.1.5.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["widest-line", [\
-      ["npm:3.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/widest-line-npm-3.1.0-717bf2680b-9.zip/node_modules/widest-line/",\
+      ["npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwidest-line%2F-%2Fwidest-line-3.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/widest-line-npm-3.1.0-bb0fa0bee2-9.zip/node_modules/widest-line/",\
         "packageDependencies": [\
-          ["widest-line", "npm:3.1.0"],\
-          ["string-width", "npm:4.2.3"]\
+          ["widest-line", "npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwidest-line%2F-%2Fwidest-line-3.1.0.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["wordwrap", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wordwrap-npm-1.0.0-ae57a645e8-9.zip/node_modules/wordwrap/",\
+      ["npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwordwrap%2F-%2Fwordwrap-1.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wordwrap-npm-1.0.0-e104785c41-9.zip/node_modules/wordwrap/",\
         "packageDependencies": [\
-          ["wordwrap", "npm:1.0.0"]\
+          ["wordwrap", "npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwordwrap%2F-%2Fwordwrap-1.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["wrap-ansi", [\
-      ["npm:7.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wrap-ansi-npm-7.0.0-ad6e1a0554-9.zip/node_modules/wrap-ansi/",\
+      ["npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-7.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wrap-ansi-npm-7.0.0-9a86c1a8c2-9.zip/node_modules/wrap-ansi/",\
         "packageDependencies": [\
-          ["wrap-ansi", "npm:7.0.0"],\
-          ["ansi-styles", "npm:4.3.0"],\
-          ["string-width", "npm:4.2.3"],\
-          ["strip-ansi", "npm:6.0.1"]\
+          ["wrap-ansi", "npm:7.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-7.0.0.tgz"],\
+          ["ansi-styles", "npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz"],\
+          ["string-width", "npm:4.2.3::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-4.2.3.tgz"],\
+          ["strip-ansi", "npm:6.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-6.0.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:8.1.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wrap-ansi-npm-8.1.0-26a4e6ae28-9.zip/node_modules/wrap-ansi/",\
+      ["npm:8.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-8.1.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wrap-ansi-npm-8.1.0-b816a89130-9.zip/node_modules/wrap-ansi/",\
         "packageDependencies": [\
-          ["wrap-ansi", "npm:8.1.0"],\
-          ["ansi-styles", "npm:6.2.1"],\
-          ["string-width", "npm:5.1.2"],\
-          ["strip-ansi", "npm:7.1.0"]\
+          ["wrap-ansi", "npm:8.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrap-ansi%2F-%2Fwrap-ansi-8.1.0.tgz"],\
+          ["ansi-styles", "npm:6.2.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fansi-styles%2F-%2Fansi-styles-6.2.1.tgz"],\
+          ["string-width", "npm:5.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstring-width%2F-%2Fstring-width-5.1.2.tgz"],\
+          ["strip-ansi", "npm:7.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fstrip-ansi%2F-%2Fstrip-ansi-7.1.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["wrappy", [\
-      ["npm:1.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/wrappy-npm-1.0.2-916de4d4b3-9.zip/node_modules/wrappy/",\
+      ["npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrappy%2F-%2Fwrappy-1.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/wrappy-npm-1.0.2-9134f78ed2-9.zip/node_modules/wrappy/",\
         "packageDependencies": [\
-          ["wrappy", "npm:1.0.2"]\
+          ["wrappy", "npm:1.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fwrappy%2F-%2Fwrappy-1.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["ws", [\
-      ["npm:7.5.9", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/ws-npm-7.5.9-26f12a5ed6-9.zip/node_modules/ws/",\
+      ["npm:7.5.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fws%2F-%2Fws-7.5.9.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/ws-npm-7.5.9-96d64da941-9.zip/node_modules/ws/",\
         "packageDependencies": [\
-          ["ws", "npm:7.5.9"]\
+          ["ws", "npm:7.5.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fws%2F-%2Fws-7.5.9.tgz"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:7.5.9", {\
-        "packageLocation": "./.yarn/__virtual__/ws-virtual-daab6ab264/7/root/.yarn/berry/cache/ws-npm-7.5.9-26f12a5ed6-9.zip/node_modules/ws/",\
+      ["virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:7.5.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fws%2F-%2Fws-7.5.9.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/ws-virtual-73147034df/7/root/.yarn/berry/cache/ws-npm-7.5.9-96d64da941-9.zip/node_modules/ws/",\
         "packageDependencies": [\
-          ["ws", "virtual:ecb543a9d0485ece2e802ee740bb8290516160565961081c6c49328b172314e7ef5a8a2abd27b768409b80da760905c9938d40f1fc85dbdf04f20775439ccc1f#npm:7.5.9"],\
+          ["ws", "virtual:0ae245b8413ae2538fd77a4dd64baf06daf457429a263a7d9c6ecf2a2a37876c31b9a504a54ef9ca513f197eb0f7b82667fd3fd8fe78605fa7ecac939a3e2e7f#npm:7.5.9::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fws%2F-%2Fws-7.5.9.tgz"],\
           ["@types/bufferutil", null],\
           ["@types/utf-8-validate", null],\
           ["bufferutil", null],\
@@ -6222,46 +6222,46 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["xtend", [\
-      ["npm:4.0.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/xtend-npm-4.0.2-7f2375736e-9.zip/node_modules/xtend/",\
+      ["npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fxtend%2F-%2Fxtend-4.0.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/xtend-npm-4.0.2-fd87cc3fcb-9.zip/node_modules/xtend/",\
         "packageDependencies": [\
-          ["xtend", "npm:4.0.2"]\
+          ["xtend", "npm:4.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fxtend%2F-%2Fxtend-4.0.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["yallist", [\
-      ["npm:4.0.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/yallist-npm-4.0.0-b493d9e907-9.zip/node_modules/yallist/",\
+      ["npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyallist%2F-%2Fyallist-4.0.0.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/yallist-npm-4.0.0-ab6ac591d6-9.zip/node_modules/yallist/",\
         "packageDependencies": [\
-          ["yallist", "npm:4.0.0"]\
+          ["yallist", "npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyallist%2F-%2Fyallist-4.0.0.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["yaml", [\
-      ["npm:1.10.2", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/yaml-npm-1.10.2-0e780aebdf-9.zip/node_modules/yaml/",\
+      ["npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyaml%2F-%2Fyaml-1.10.2.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/yaml-npm-1.10.2-98e7797c6f-9.zip/node_modules/yaml/",\
         "packageDependencies": [\
-          ["yaml", "npm:1.10.2"]\
+          ["yaml", "npm:1.10.2::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyaml%2F-%2Fyaml-1.10.2.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["yargs-parser", [\
-      ["npm:21.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/yargs-parser-npm-21.1.1-8fdc003314-9.zip/node_modules/yargs-parser/",\
+      ["npm:21.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyargs-parser%2F-%2Fyargs-parser-21.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/yargs-parser-npm-21.1.1-01c6a8f365-9.zip/node_modules/yargs-parser/",\
         "packageDependencies": [\
-          ["yargs-parser", "npm:21.1.1"]\
+          ["yargs-parser", "npm:21.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyargs-parser%2F-%2Fyargs-parser-21.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["yn", [\
-      ["npm:3.1.1", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/yn-npm-3.1.1-8ad4259784-9.zip/node_modules/yn/",\
+      ["npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyn%2F-%2Fyn-3.1.1.tgz", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/yn-npm-3.1.1-57e2042c04-9.zip/node_modules/yn/",\
         "packageDependencies": [\
-          ["yn", "npm:3.1.1"]\
+          ["yn", "npm:3.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmmirror.com%2Fyn%2F-%2Fyn-3.1.1.tgz"]\
         ],\
         "linkType": "HARD"\
       }]\
