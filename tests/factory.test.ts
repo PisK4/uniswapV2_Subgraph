@@ -9,7 +9,7 @@ import {
 import { Address, BigInt } from "@graphprotocol/graph-ts"
 import { PairCreated } from "../generated/schema"
 import { PairCreated as PairCreatedEvent } from "../generated/Factory/Factory"
-import { handlePairCreated } from "../src/factory"
+import { handlePairCreated } from "../src/mappings/factory"
 import { createPairCreatedEvent } from "./factory-utils"
 
 // Tests structure (matchstick-as >=0.5.0)

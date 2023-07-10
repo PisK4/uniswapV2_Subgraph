@@ -1,5 +1,5 @@
-import { PairCreated as PairCreatedEvent } from "../generated/Factory/Factory"
-import { PairCreated } from "../generated/schema"
+import { PairCreated as PairCreatedEvent } from "../types/Factory/Factory"
+import { PairCreated } from "../types/schema"
 
 export function handlePairCreated(event: PairCreatedEvent): void {
   let entity = new PairCreated(
