@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@graphprotocol/graph-cli", "npm:0.51.2"],\
-          ["@graphprotocol/graph-ts", "npm:0.30.0"],\
+          ["@graphprotocol/graph-ts", "npm:0.31.0"],\
           ["matchstick-as", "npm:0.5.0"]\
         ],\
         "linkType": "SOFT"\
@@ -363,10 +363,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:0.30.0", {\
-        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-ts-npm-0.30.0-e3bdb30125-9.zip/node_modules/@graphprotocol/graph-ts/",\
+      ["npm:0.31.0", {\
+        "packageLocation": "../../../../../../root/.yarn/berry/cache/@graphprotocol-graph-ts-npm-0.31.0-053764ccd8-9.zip/node_modules/@graphprotocol/graph-ts/",\
         "packageDependencies": [\
-          ["@graphprotocol/graph-ts", "npm:0.30.0"],\
+          ["@graphprotocol/graph-ts", "npm:0.31.0"],\
           ["assemblyscript", "npm:0.19.10"]\
         ],\
         "linkType": "HARD"\
@@ -5930,7 +5930,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["uniswapv2", "workspace:."],\
           ["@graphprotocol/graph-cli", "npm:0.51.2"],\
-          ["@graphprotocol/graph-ts", "npm:0.30.0"],\
+          ["@graphprotocol/graph-ts", "npm:0.31.0"],\
           ["matchstick-as", "npm:0.5.0"]\
         ],\
         "linkType": "SOFT"\

@@ -14,7 +14,8 @@ dataSources:
       apiVersion: 0.0.7
       language: wasm/assemblyscript
       entities:
-        - PairCreated
+        - Pair
+        - Token
       abis:
         - name: Factory
           file: ./abis/factory.json
@@ -27,4 +28,4 @@ dataSources:
       eventHandlers:
         - event: PairCreated(indexed address,indexed address,address,uint256)
           handler: handlePairCreated
-      file: ./src/factory.ts
+      file: ./src/mappings/factory.ts

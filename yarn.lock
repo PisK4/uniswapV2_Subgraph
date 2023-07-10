@@ -304,21 +304,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphprotocol/graph-ts@npm:0.30.0":
-  version: 0.30.0
-  resolution: "@graphprotocol/graph-ts@npm:0.30.0"
-  dependencies:
-    assemblyscript: "npm:0.19.10"
-  checksum: 190a7984c40e46f1474cfad49aa82b2a6ec3ea10e02c602a2117dcae56152ee8497b4623fecc5e21dc64e8e69b36c461e3b0019ffbf6ad7ce183a1605054d530
-  languageName: node
-  linkType: hard
-
 "@graphprotocol/graph-ts@npm:^0.27.0":
   version: 0.27.0
   resolution: "@graphprotocol/graph-ts@npm:0.27.0"
   dependencies:
     assemblyscript: "npm:0.19.10"
   checksum: 6de29751f90c1cc061854da2e435611060cac6ddf29616831584d65f3c3e5ea05809ab20b1cee5805fa09cd0038cf713d07818afb28bd8ab04283b55afaa248f
+  languageName: node
+  linkType: hard
+
+"@graphprotocol/graph-ts@npm:^0.31.0":
+  version: 0.31.0
+  resolution: "@graphprotocol/graph-ts@npm:0.31.0"
+  dependencies:
+    assemblyscript: "npm:0.19.10"
+  checksum: b9c5c3870c0b8a152c191067b666701cb1b547910049a9fa41dcd8e8fdbf7de42f8485d2f4b74370ab1fe21f708189334c52de9d00ee0eb10ab4bdba4a3b57cf
   languageName: node
   linkType: hard
 
@@ -5203,7 +5203,7 @@ __metadata:
   resolution: "uniswapv2@workspace:."
   dependencies:
     "@graphprotocol/graph-cli": "npm:0.51.2"
-    "@graphprotocol/graph-ts": "npm:0.30.0"
+    "@graphprotocol/graph-ts": "npm:^0.31.0"
     matchstick-as: "npm:0.5.0"
   languageName: unknown
   linkType: soft
